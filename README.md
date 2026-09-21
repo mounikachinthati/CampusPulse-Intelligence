@@ -11,7 +11,7 @@ The project provides insights into:
 * 🎓 Student attendance
 * 💰 Campus operating costs
 
-The project uses **Python, SQL, Excel, Power BI, Power Query, and DAX** to clean, analyze, visualize, and present campus data.
+The project uses **Python, SQL, Power BI, Power Query, and DAX** to clean, analyze, visualize, and present campus data.
 
 > **Note:** The dataset used in this project is synthetic and created for analytics practice and demonstration purposes.
 
@@ -47,13 +47,12 @@ The project contains synthetic datasets covering:
 * **Canteen** — food preparation and waste information
 * **Operating Costs** — campus expenses by department and category
 
-The datasets were cleaned and analyzed using Python before being used for SQL, Excel, and Power BI analysis.
+The datasets were cleaned and analyzed using Python before being used for SQL and Power BI analysis.
 
 ## 🛠️ Tools & Technologies
 
 * **Python** — Data cleaning, analysis and visualization
 * **SQL** — Data querying and analysis
-* **Excel** — Data preparation and KPI analysis
 * **Power Query** — Data transformation
 * **Power BI** — Interactive dashboards
 * **DAX** — KPI and analytical measures
@@ -65,11 +64,16 @@ The datasets were cleaned and analyzed using Python before being used for SQL, E
 CampusPulse_Intelligence/
 │
 ├── 01_Data/
-│   ├── Raw datasets
-│   └── Cleaned datasets
-│
-├── 02_Excel/
-│   └── Excel analysis and KPI files
+│   ├── students.csv
+│   ├── attendance.csv
+│   ├── electricity.csv
+│   ├── canteen.csv
+│   ├── operating_costs.csv
+│   ├── students_clean.csv
+│   ├── attendance_clean.csv
+│   ├── electricity_clean.csv
+│   ├── canteen_clean.csv
+│   └── operating_costs_clean.csv
 │
 ├── 03_SQL/
 │   ├── campuspulse.db
@@ -117,8 +121,6 @@ Cleaned CSV Files
    ↓
 SQL Analysis
    ↓
-Excel KPI Analysis
-   ↓
 Power Query Transformation
    ↓
 DAX Measures
@@ -130,86 +132,4 @@ Business Insights
 
 ## 📊 Power BI Dashboard
 
-### Campus Overview
-
-Provides a high-level view of campus students, energy consumption, food waste, operating costs, and student distribution.
-
-![Campus Overview](06_Screenshots/campus_overview.png)
-
-### Energy & Electricity
-
-Analyzes energy consumption by building and overall electricity cost.
-
-![Energy & Electricity](06_Screenshots/energy_electricity.png)
-
-### Canteen & Food Waste
-
-Analyzes food waste and waste patterns across different meal types.
-
-![Canteen & Food Waste](06_Screenshots/canteen_food_waste.png)
-
-### Student Attendance
-
-Analyzes attendance records by subject and overall attendance patterns.
-
-![Student Attendance](06_Screenshots/student_attendance.png)
-
-### Operations Cost
-
-Analyzes operating costs by department and cost category.
-
-![Operations Cost](06_Screenshots/operations_cost.png)
-
-## 🔍 Analysis Areas
-
-### ⚡ Energy Analysis
-
-* Energy consumption by building
-* Monthly energy trends
-* Electricity cost analysis
-* Peak energy usage
-
-### 🍽️ Food Waste Analysis
-
-* Total food waste
-* Food waste percentage
-* Waste by meal type
-* Waste by food item
-* Monthly food waste trends
-
-### 🎓 Attendance Analysis
-
-* Overall attendance
-* Attendance by department
-* Attendance by subject
-* Monthly attendance trends
-* Students below attendance threshold
-
-### 💰 Operating Cost Analysis
-
-* Total operating cost
-* Cost by department
-* Cost by category
-* Monthly operating cost
-* Department-category cost analysis
-
-## 💡 Business Value
-
-The dashboard demonstrates how campus operational data can be transformed into meaningful insights for monitoring:
-
-* Resource consumption
-* Sustainability metrics
-* Food waste
-* Student attendance
-* Operating expenses
-
-The project demonstrates an end-to-end **Data Analyst workflow**, from data cleaning and SQL analysis to dashboard development and KPI reporting.
-
-## 👩‍💻 Author
-
-**Mounika Chinthati**
-
-Data Analyst | SQL | Excel | Power BI | Python
-
-B.Tech CSE (AIML)
-Vignan's Foundation for Science Technology and Research
+### Campus Over
