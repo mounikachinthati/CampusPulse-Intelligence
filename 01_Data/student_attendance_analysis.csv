@@ -1,0 +1,2001 @@
+student_id,total_classes,attendance_percentage,student_name,department,year,section,hostel_status,attendance_status
+STU0001,50,78.0,Student_0001,IT,4,A,Day Scholar,75% and Above
+STU0002,50,76.0,Student_0002,EEE,1,C,Hostel,75% and Above
+STU0003,50,84.0,Student_0003,MECH,4,A,Hostel,75% and Above
+STU0004,50,84.0,Student_0004,IT,2,D,Hostel,75% and Above
+STU0005,50,86.0,Student_0005,ECE,1,A,Day Scholar,75% and Above
+STU0006,50,76.0,Student_0006,MECH,3,A,Hostel,75% and Above
+STU0007,50,80.0,Student_0007,MECH,2,D,Hostel,75% and Above
+STU0008,50,82.0,Student_0008,IT,3,B,Day Scholar,75% and Above
+STU0009,50,86.0,Student_0009,AIML,4,B,Day Scholar,75% and Above
+STU0010,50,80.0,Student_0010,ECE,4,B,Hostel,75% and Above
+STU0011,50,92.0,Student_0011,IT,2,C,Day Scholar,75% and Above
+STU0012,50,78.0,Student_0012,ECE,4,D,Hostel,75% and Above
+STU0013,50,84.0,Student_0013,ECE,3,D,Hostel,75% and Above
+STU0014,50,76.0,Student_0014,MECH,1,A,Day Scholar,75% and Above
+STU0015,50,78.0,Student_0015,EEE,1,C,Hostel,75% and Above
+STU0016,50,84.0,Student_0016,ECE,1,B,Day Scholar,75% and Above
+STU0017,50,86.0,Student_0017,CIVIL,2,C,Day Scholar,75% and Above
+STU0018,50,84.0,Student_0018,MECH,4,D,Hostel,75% and Above
+STU0019,50,84.0,Student_0019,AIML,3,D,Hostel,75% and Above
+STU0020,50,78.0,Student_0020,EEE,4,A,Hostel,75% and Above
+STU0021,50,80.0,Student_0021,CIVIL,4,A,Day Scholar,75% and Above
+STU0022,50,82.0,Student_0022,CIVIL,4,D,Hostel,75% and Above
+STU0023,50,74.0,Student_0023,AIML,1,B,Day Scholar,Below 75%
+STU0024,50,86.0,Student_0024,EEE,3,B,Day Scholar,75% and Above
+STU0025,50,86.0,Student_0025,MECH,3,C,Hostel,75% and Above
+STU0026,50,84.0,Student_0026,CSE,4,D,Day Scholar,75% and Above
+STU0027,50,84.0,Student_0027,EEE,1,D,Hostel,75% and Above
+STU0028,50,76.0,Student_0028,AIML,1,B,Hostel,75% and Above
+STU0029,50,92.0,Student_0029,CIVIL,3,B,Hostel,75% and Above
+STU0030,50,84.0,Student_0030,MECH,1,D,Hostel,75% and Above
+STU0031,50,84.0,Student_0031,EEE,1,A,Hostel,75% and Above
+STU0032,50,84.0,Student_0032,CSE,1,D,Hostel,75% and Above
+STU0033,50,74.0,Student_0033,CSE,2,D,Hostel,Below 75%
+STU0034,50,82.0,Student_0034,ECE,4,B,Day Scholar,75% and Above
+STU0035,50,80.0,Student_0035,ECE,3,B,Hostel,75% and Above
+STU0036,50,80.0,Student_0036,IT,3,A,Day Scholar,75% and Above
+STU0037,50,88.0,Student_0037,AIML,2,A,Day Scholar,75% and Above
+STU0038,50,90.0,Student_0038,EEE,4,C,Day Scholar,75% and Above
+STU0039,50,90.0,Student_0039,EEE,3,D,Hostel,75% and Above
+STU0040,50,76.0,Student_0040,IT,1,B,Day Scholar,75% and Above
+STU0041,50,84.0,Student_0041,CIVIL,3,A,Day Scholar,75% and Above
+STU0042,50,82.0,Student_0042,CIVIL,1,C,Hostel,75% and Above
+STU0043,50,80.0,Student_0043,IT,2,C,Hostel,75% and Above
+STU0044,50,88.0,Student_0044,CIVIL,1,B,Day Scholar,75% and Above
+STU0045,50,82.0,Student_0045,ECE,3,B,Hostel,75% and Above
+STU0046,50,88.0,Student_0046,EEE,3,C,Hostel,75% and Above
+STU0047,50,88.0,Student_0047,IT,3,A,Hostel,75% and Above
+STU0048,50,82.0,Student_0048,EEE,2,C,Hostel,75% and Above
+STU0049,50,76.0,Student_0049,CSE,2,D,Day Scholar,75% and Above
+STU0050,50,86.0,Student_0050,ECE,4,D,Hostel,75% and Above
+STU0051,50,82.0,Student_0051,MECH,3,B,Hostel,75% and Above
+STU0052,50,80.0,Student_0052,ECE,1,A,Hostel,75% and Above
+STU0053,50,82.0,Student_0053,IT,2,A,Day Scholar,75% and Above
+STU0054,50,94.0,Student_0054,MECH,3,D,Day Scholar,75% and Above
+STU0055,50,82.0,Student_0055,CSE,3,C,Hostel,75% and Above
+STU0056,50,78.0,Student_0056,IT,2,B,Hostel,75% and Above
+STU0057,50,78.0,Student_0057,AIML,4,C,Day Scholar,75% and Above
+STU0058,50,82.0,Student_0058,EEE,2,C,Hostel,75% and Above
+STU0059,50,78.0,Student_0059,CSE,2,C,Hostel,75% and Above
+STU0060,50,76.0,Student_0060,EEE,1,A,Day Scholar,75% and Above
+STU0061,50,82.0,Student_0061,CIVIL,1,D,Hostel,75% and Above
+STU0062,50,74.0,Student_0062,AIML,4,A,Hostel,Below 75%
+STU0063,50,80.0,Student_0063,AIML,3,D,Day Scholar,75% and Above
+STU0064,50,74.0,Student_0064,CSE,2,B,Day Scholar,Below 75%
+STU0065,50,80.0,Student_0065,AIML,4,B,Hostel,75% and Above
+STU0066,50,94.0,Student_0066,MECH,1,C,Day Scholar,75% and Above
+STU0067,50,84.0,Student_0067,AIML,2,D,Hostel,75% and Above
+STU0068,50,74.0,Student_0068,EEE,3,D,Hostel,Below 75%
+STU0069,50,82.0,Student_0069,EEE,1,D,Hostel,75% and Above
+STU0070,50,80.0,Student_0070,IT,1,C,Day Scholar,75% and Above
+STU0071,50,78.0,Student_0071,EEE,1,C,Day Scholar,75% and Above
+STU0072,50,92.0,Student_0072,IT,4,B,Hostel,75% and Above
+STU0073,50,92.0,Student_0073,EEE,3,A,Hostel,75% and Above
+STU0074,50,82.0,Student_0074,MECH,2,D,Day Scholar,75% and Above
+STU0075,50,86.0,Student_0075,IT,4,D,Day Scholar,75% and Above
+STU0076,50,76.0,Student_0076,ECE,4,A,Day Scholar,75% and Above
+STU0077,50,82.0,Student_0077,CIVIL,4,D,Hostel,75% and Above
+STU0078,50,88.0,Student_0078,CSE,1,C,Day Scholar,75% and Above
+STU0079,50,90.0,Student_0079,EEE,3,C,Day Scholar,75% and Above
+STU0080,50,74.0,Student_0080,AIML,4,D,Hostel,Below 75%
+STU0081,50,84.0,Student_0081,EEE,2,C,Hostel,75% and Above
+STU0082,50,86.0,Student_0082,AIML,3,C,Hostel,75% and Above
+STU0083,50,86.0,Student_0083,CIVIL,2,D,Day Scholar,75% and Above
+STU0084,50,88.0,Student_0084,CIVIL,3,B,Hostel,75% and Above
+STU0085,50,82.0,Student_0085,CIVIL,2,A,Hostel,75% and Above
+STU0086,50,80.0,Student_0086,AIML,1,C,Hostel,75% and Above
+STU0087,50,84.0,Student_0087,EEE,4,B,Hostel,75% and Above
+STU0088,50,90.0,Student_0088,CIVIL,2,C,Day Scholar,75% and Above
+STU0089,50,82.0,Student_0089,MECH,3,C,Hostel,75% and Above
+STU0090,50,76.0,Student_0090,IT,4,A,Day Scholar,75% and Above
+STU0091,50,80.0,Student_0091,AIML,4,C,Day Scholar,75% and Above
+STU0092,50,84.0,Student_0092,AIML,3,A,Day Scholar,75% and Above
+STU0093,50,80.0,Student_0093,EEE,2,A,Hostel,75% and Above
+STU0094,50,80.0,Student_0094,AIML,1,A,Day Scholar,75% and Above
+STU0095,50,78.0,Student_0095,AIML,1,B,Hostel,75% and Above
+STU0096,50,84.0,Student_0096,CIVIL,2,D,Hostel,75% and Above
+STU0097,50,80.0,Student_0097,EEE,4,B,Hostel,75% and Above
+STU0098,50,82.0,Student_0098,CIVIL,4,D,Day Scholar,75% and Above
+STU0099,50,88.0,Student_0099,IT,4,D,Hostel,75% and Above
+STU0100,50,88.0,Student_0100,IT,4,A,Hostel,75% and Above
+STU0101,50,86.0,Student_0101,CIVIL,2,C,Hostel,75% and Above
+STU0102,50,82.0,Student_0102,IT,4,A,Day Scholar,75% and Above
+STU0103,50,88.0,Student_0103,EEE,3,C,Day Scholar,75% and Above
+STU0104,50,84.0,Student_0104,CSE,4,D,Day Scholar,75% and Above
+STU0105,50,74.0,Student_0105,CIVIL,1,A,Hostel,Below 75%
+STU0106,50,86.0,Student_0106,MECH,4,C,Day Scholar,75% and Above
+STU0107,50,80.0,Student_0107,MECH,2,B,Hostel,75% and Above
+STU0108,50,74.0,Student_0108,AIML,1,C,Hostel,Below 75%
+STU0109,50,80.0,Student_0109,IT,2,A,Day Scholar,75% and Above
+STU0110,50,84.0,Student_0110,MECH,2,B,Hostel,75% and Above
+STU0111,50,100.0,Student_0111,AIML,1,C,Day Scholar,75% and Above
+STU0112,50,88.0,Student_0112,CSE,2,C,Hostel,75% and Above
+STU0113,50,82.0,Student_0113,EEE,2,C,Day Scholar,75% and Above
+STU0114,50,74.0,Student_0114,EEE,4,C,Hostel,Below 75%
+STU0115,50,84.0,Student_0115,EEE,3,C,Hostel,75% and Above
+STU0116,50,84.0,Student_0116,MECH,2,B,Hostel,75% and Above
+STU0117,50,82.0,Student_0117,CSE,2,D,Hostel,75% and Above
+STU0118,50,88.0,Student_0118,MECH,2,B,Hostel,75% and Above
+STU0119,50,80.0,Student_0119,IT,4,B,Day Scholar,75% and Above
+STU0120,50,90.0,Student_0120,MECH,3,B,Hostel,75% and Above
+STU0121,50,84.0,Student_0121,CSE,1,D,Day Scholar,75% and Above
+STU0122,50,76.0,Student_0122,CSE,4,A,Day Scholar,75% and Above
+STU0123,50,84.0,Student_0123,IT,4,D,Day Scholar,75% and Above
+STU0124,50,84.0,Student_0124,CSE,3,B,Hostel,75% and Above
+STU0125,50,88.0,Student_0125,CSE,3,C,Hostel,75% and Above
+STU0126,50,80.0,Student_0126,EEE,4,C,Hostel,75% and Above
+STU0127,50,78.0,Student_0127,IT,1,B,Day Scholar,75% and Above
+STU0128,50,80.0,Student_0128,ECE,4,C,Hostel,75% and Above
+STU0129,50,86.0,Student_0129,ECE,3,B,Hostel,75% and Above
+STU0130,50,64.0,Student_0130,CSE,1,C,Day Scholar,Below 75%
+STU0131,50,86.0,Student_0131,ECE,3,D,Day Scholar,75% and Above
+STU0132,50,82.0,Student_0132,ECE,1,A,Day Scholar,75% and Above
+STU0133,50,78.0,Student_0133,CSE,2,A,Day Scholar,75% and Above
+STU0134,50,82.0,Student_0134,ECE,3,D,Day Scholar,75% and Above
+STU0135,50,78.0,Student_0135,MECH,3,D,Day Scholar,75% and Above
+STU0136,50,86.0,Student_0136,AIML,4,B,Hostel,75% and Above
+STU0137,50,80.0,Student_0137,IT,3,B,Day Scholar,75% and Above
+STU0138,50,80.0,Student_0138,AIML,3,B,Hostel,75% and Above
+STU0139,50,78.0,Student_0139,CSE,2,C,Hostel,75% and Above
+STU0140,50,82.0,Student_0140,EEE,3,B,Hostel,75% and Above
+STU0141,50,76.0,Student_0141,IT,2,D,Day Scholar,75% and Above
+STU0142,50,84.0,Student_0142,CSE,2,A,Hostel,75% and Above
+STU0143,50,84.0,Student_0143,EEE,2,C,Day Scholar,75% and Above
+STU0144,50,74.0,Student_0144,AIML,2,B,Day Scholar,Below 75%
+STU0145,50,74.0,Student_0145,CSE,1,C,Hostel,Below 75%
+STU0146,50,76.0,Student_0146,IT,4,C,Day Scholar,75% and Above
+STU0147,50,86.0,Student_0147,IT,1,B,Hostel,75% and Above
+STU0148,50,92.0,Student_0148,CIVIL,3,C,Hostel,75% and Above
+STU0149,50,88.0,Student_0149,MECH,1,A,Day Scholar,75% and Above
+STU0150,50,88.0,Student_0150,ECE,1,D,Hostel,75% and Above
+STU0151,50,78.0,Student_0151,EEE,3,D,Hostel,75% and Above
+STU0152,50,80.0,Student_0152,CIVIL,3,A,Hostel,75% and Above
+STU0153,50,84.0,Student_0153,ECE,3,C,Day Scholar,75% and Above
+STU0154,50,76.0,Student_0154,ECE,1,B,Hostel,75% and Above
+STU0155,50,90.0,Student_0155,CSE,1,C,Day Scholar,75% and Above
+STU0156,50,70.0,Student_0156,ECE,3,A,Day Scholar,Below 75%
+STU0157,50,88.0,Student_0157,MECH,4,C,Hostel,75% and Above
+STU0158,50,88.0,Student_0158,IT,4,D,Hostel,75% and Above
+STU0159,50,82.0,Student_0159,CIVIL,2,C,Day Scholar,75% and Above
+STU0160,50,72.0,Student_0160,ECE,3,A,Day Scholar,Below 75%
+STU0161,50,84.0,Student_0161,CSE,2,D,Hostel,75% and Above
+STU0162,50,82.0,Student_0162,MECH,4,C,Hostel,75% and Above
+STU0163,50,78.0,Student_0163,AIML,2,C,Day Scholar,75% and Above
+STU0164,50,78.0,Student_0164,IT,3,D,Day Scholar,75% and Above
+STU0165,50,74.0,Student_0165,IT,3,B,Day Scholar,Below 75%
+STU0166,50,84.0,Student_0166,CIVIL,3,D,Day Scholar,75% and Above
+STU0167,50,84.0,Student_0167,IT,1,B,Day Scholar,75% and Above
+STU0168,50,80.0,Student_0168,ECE,2,A,Hostel,75% and Above
+STU0169,50,84.0,Student_0169,CSE,4,A,Day Scholar,75% and Above
+STU0170,50,90.0,Student_0170,IT,4,D,Day Scholar,75% and Above
+STU0171,50,84.0,Student_0171,IT,4,D,Hostel,75% and Above
+STU0172,50,80.0,Student_0172,AIML,1,A,Hostel,75% and Above
+STU0173,50,84.0,Student_0173,AIML,1,B,Day Scholar,75% and Above
+STU0174,50,80.0,Student_0174,EEE,3,A,Day Scholar,75% and Above
+STU0175,50,76.0,Student_0175,MECH,4,D,Hostel,75% and Above
+STU0176,50,78.0,Student_0176,ECE,1,A,Day Scholar,75% and Above
+STU0177,50,84.0,Student_0177,IT,3,D,Day Scholar,75% and Above
+STU0178,50,78.0,Student_0178,IT,4,D,Hostel,75% and Above
+STU0179,50,90.0,Student_0179,CSE,2,A,Day Scholar,75% and Above
+STU0180,50,86.0,Student_0180,EEE,3,B,Hostel,75% and Above
+STU0181,50,80.0,Student_0181,MECH,1,C,Hostel,75% and Above
+STU0182,50,88.0,Student_0182,EEE,1,A,Hostel,75% and Above
+STU0183,50,80.0,Student_0183,CIVIL,3,C,Hostel,75% and Above
+STU0184,50,80.0,Student_0184,MECH,3,A,Day Scholar,75% and Above
+STU0185,50,76.0,Student_0185,IT,1,C,Hostel,75% and Above
+STU0186,50,86.0,Student_0186,IT,2,B,Day Scholar,75% and Above
+STU0187,50,74.0,Student_0187,MECH,4,B,Day Scholar,Below 75%
+STU0188,50,86.0,Student_0188,IT,2,A,Day Scholar,75% and Above
+STU0189,50,82.0,Student_0189,ECE,3,D,Day Scholar,75% and Above
+STU0190,50,74.0,Student_0190,MECH,2,C,Day Scholar,Below 75%
+STU0191,50,78.0,Student_0191,EEE,1,D,Hostel,75% and Above
+STU0192,50,84.0,Student_0192,MECH,3,D,Hostel,75% and Above
+STU0193,50,90.0,Student_0193,IT,4,D,Hostel,75% and Above
+STU0194,50,78.0,Student_0194,ECE,1,B,Hostel,75% and Above
+STU0195,50,84.0,Student_0195,ECE,1,A,Day Scholar,75% and Above
+STU0196,50,80.0,Student_0196,CIVIL,4,A,Hostel,75% and Above
+STU0197,50,80.0,Student_0197,EEE,4,B,Day Scholar,75% and Above
+STU0198,50,68.0,Student_0198,AIML,2,B,Day Scholar,Below 75%
+STU0199,50,86.0,Student_0199,AIML,3,A,Hostel,75% and Above
+STU0200,50,92.0,Student_0200,MECH,4,D,Hostel,75% and Above
+STU0201,50,80.0,Student_0201,CIVIL,4,C,Hostel,75% and Above
+STU0202,50,76.0,Student_0202,CSE,3,C,Hostel,75% and Above
+STU0203,50,76.0,Student_0203,MECH,4,C,Day Scholar,75% and Above
+STU0204,50,90.0,Student_0204,CIVIL,4,D,Day Scholar,75% and Above
+STU0205,50,72.0,Student_0205,EEE,2,A,Hostel,Below 75%
+STU0206,50,82.0,Student_0206,EEE,1,B,Day Scholar,75% and Above
+STU0207,50,88.0,Student_0207,EEE,1,A,Day Scholar,75% and Above
+STU0208,50,84.0,Student_0208,EEE,1,D,Day Scholar,75% and Above
+STU0209,50,72.0,Student_0209,EEE,1,B,Hostel,Below 75%
+STU0210,50,78.0,Student_0210,CIVIL,4,D,Day Scholar,75% and Above
+STU0211,50,82.0,Student_0211,CIVIL,3,C,Hostel,75% and Above
+STU0212,50,76.0,Student_0212,ECE,3,C,Hostel,75% and Above
+STU0213,50,84.0,Student_0213,AIML,2,D,Day Scholar,75% and Above
+STU0214,50,86.0,Student_0214,IT,2,B,Day Scholar,75% and Above
+STU0215,50,80.0,Student_0215,EEE,4,B,Hostel,75% and Above
+STU0216,50,74.0,Student_0216,CSE,3,A,Day Scholar,Below 75%
+STU0217,50,82.0,Student_0217,IT,3,C,Day Scholar,75% and Above
+STU0218,50,84.0,Student_0218,CIVIL,1,A,Hostel,75% and Above
+STU0219,50,78.0,Student_0219,CSE,4,A,Hostel,75% and Above
+STU0220,50,80.0,Student_0220,CSE,4,D,Hostel,75% and Above
+STU0221,50,76.0,Student_0221,CSE,1,D,Hostel,75% and Above
+STU0222,50,72.0,Student_0222,ECE,4,A,Day Scholar,Below 75%
+STU0223,50,78.0,Student_0223,CIVIL,4,C,Day Scholar,75% and Above
+STU0224,50,76.0,Student_0224,CSE,2,D,Hostel,75% and Above
+STU0225,50,82.0,Student_0225,EEE,3,A,Hostel,75% and Above
+STU0226,50,80.0,Student_0226,MECH,4,A,Hostel,75% and Above
+STU0227,50,86.0,Student_0227,CSE,2,A,Day Scholar,75% and Above
+STU0228,50,80.0,Student_0228,ECE,3,A,Hostel,75% and Above
+STU0229,50,80.0,Student_0229,IT,1,A,Day Scholar,75% and Above
+STU0230,50,84.0,Student_0230,CIVIL,2,A,Hostel,75% and Above
+STU0231,50,84.0,Student_0231,ECE,2,D,Hostel,75% and Above
+STU0232,50,84.0,Student_0232,CSE,3,C,Hostel,75% and Above
+STU0233,50,80.0,Student_0233,CIVIL,1,A,Day Scholar,75% and Above
+STU0234,50,80.0,Student_0234,MECH,2,B,Day Scholar,75% and Above
+STU0235,50,78.0,Student_0235,CSE,4,D,Day Scholar,75% and Above
+STU0236,50,78.0,Student_0236,ECE,4,D,Hostel,75% and Above
+STU0237,50,80.0,Student_0237,AIML,4,A,Day Scholar,75% and Above
+STU0238,50,78.0,Student_0238,EEE,1,D,Day Scholar,75% and Above
+STU0239,50,88.0,Student_0239,IT,2,A,Hostel,75% and Above
+STU0240,50,84.0,Student_0240,ECE,4,C,Hostel,75% and Above
+STU0241,50,88.0,Student_0241,CIVIL,1,C,Day Scholar,75% and Above
+STU0242,50,82.0,Student_0242,CSE,4,D,Day Scholar,75% and Above
+STU0243,50,72.0,Student_0243,EEE,3,D,Day Scholar,Below 75%
+STU0244,50,78.0,Student_0244,CSE,2,B,Day Scholar,75% and Above
+STU0245,50,82.0,Student_0245,CIVIL,2,D,Hostel,75% and Above
+STU0246,50,84.0,Student_0246,CSE,1,B,Hostel,75% and Above
+STU0247,50,74.0,Student_0247,AIML,1,C,Hostel,Below 75%
+STU0248,50,76.0,Student_0248,EEE,2,C,Day Scholar,75% and Above
+STU0249,50,84.0,Student_0249,EEE,4,A,Day Scholar,75% and Above
+STU0250,50,86.0,Student_0250,CIVIL,4,C,Hostel,75% and Above
+STU0251,50,80.0,Student_0251,IT,3,B,Hostel,75% and Above
+STU0252,50,86.0,Student_0252,AIML,4,D,Day Scholar,75% and Above
+STU0253,50,88.0,Student_0253,ECE,1,A,Day Scholar,75% and Above
+STU0254,50,78.0,Student_0254,CSE,1,B,Hostel,75% and Above
+STU0255,50,94.0,Student_0255,MECH,4,D,Hostel,75% and Above
+STU0256,50,80.0,Student_0256,CSE,1,A,Hostel,75% and Above
+STU0257,50,86.0,Student_0257,CSE,2,C,Day Scholar,75% and Above
+STU0258,50,82.0,Student_0258,ECE,2,B,Day Scholar,75% and Above
+STU0259,50,78.0,Student_0259,CSE,4,D,Day Scholar,75% and Above
+STU0260,50,84.0,Student_0260,AIML,2,A,Day Scholar,75% and Above
+STU0261,50,88.0,Student_0261,AIML,2,A,Day Scholar,75% and Above
+STU0262,50,84.0,Student_0262,EEE,3,C,Day Scholar,75% and Above
+STU0263,50,84.0,Student_0263,CIVIL,3,D,Hostel,75% and Above
+STU0264,50,70.0,Student_0264,IT,2,C,Hostel,Below 75%
+STU0265,50,72.0,Student_0265,MECH,4,C,Day Scholar,Below 75%
+STU0266,50,84.0,Student_0266,CSE,3,D,Hostel,75% and Above
+STU0267,50,88.0,Student_0267,CSE,1,D,Day Scholar,75% and Above
+STU0268,50,90.0,Student_0268,ECE,1,D,Hostel,75% and Above
+STU0269,50,78.0,Student_0269,CIVIL,1,B,Day Scholar,75% and Above
+STU0270,50,70.0,Student_0270,AIML,4,D,Hostel,Below 75%
+STU0271,50,88.0,Student_0271,MECH,2,A,Hostel,75% and Above
+STU0272,50,82.0,Student_0272,EEE,1,C,Day Scholar,75% and Above
+STU0273,50,72.0,Student_0273,AIML,4,B,Day Scholar,Below 75%
+STU0274,50,84.0,Student_0274,CIVIL,3,D,Hostel,75% and Above
+STU0275,50,90.0,Student_0275,IT,2,B,Hostel,75% and Above
+STU0276,50,80.0,Student_0276,EEE,3,D,Day Scholar,75% and Above
+STU0277,50,76.0,Student_0277,IT,4,B,Hostel,75% and Above
+STU0278,50,84.0,Student_0278,ECE,1,C,Day Scholar,75% and Above
+STU0279,50,70.0,Student_0279,ECE,1,C,Day Scholar,Below 75%
+STU0280,50,64.0,Student_0280,CSE,4,A,Hostel,Below 75%
+STU0281,50,78.0,Student_0281,IT,1,A,Day Scholar,75% and Above
+STU0282,50,82.0,Student_0282,CIVIL,2,D,Hostel,75% and Above
+STU0283,50,84.0,Student_0283,MECH,4,C,Hostel,75% and Above
+STU0284,50,80.0,Student_0284,EEE,3,B,Day Scholar,75% and Above
+STU0285,50,78.0,Student_0285,AIML,4,B,Hostel,75% and Above
+STU0286,50,88.0,Student_0286,CIVIL,2,B,Day Scholar,75% and Above
+STU0287,50,80.0,Student_0287,CIVIL,2,A,Day Scholar,75% and Above
+STU0288,50,84.0,Student_0288,ECE,4,B,Day Scholar,75% and Above
+STU0289,50,84.0,Student_0289,IT,4,A,Hostel,75% and Above
+STU0290,50,78.0,Student_0290,CSE,1,A,Day Scholar,75% and Above
+STU0291,50,90.0,Student_0291,CSE,2,D,Hostel,75% and Above
+STU0292,50,80.0,Student_0292,EEE,4,B,Day Scholar,75% and Above
+STU0293,50,88.0,Student_0293,ECE,4,B,Day Scholar,75% and Above
+STU0294,50,86.0,Student_0294,CIVIL,2,C,Day Scholar,75% and Above
+STU0295,50,86.0,Student_0295,MECH,4,D,Hostel,75% and Above
+STU0296,50,76.0,Student_0296,ECE,1,C,Hostel,75% and Above
+STU0297,50,76.0,Student_0297,EEE,2,D,Day Scholar,75% and Above
+STU0298,50,82.0,Student_0298,EEE,1,B,Day Scholar,75% and Above
+STU0299,50,82.0,Student_0299,ECE,1,A,Hostel,75% and Above
+STU0300,50,90.0,Student_0300,EEE,1,A,Hostel,75% and Above
+STU0301,50,78.0,Student_0301,ECE,1,A,Hostel,75% and Above
+STU0302,50,78.0,Student_0302,AIML,2,A,Day Scholar,75% and Above
+STU0303,50,80.0,Student_0303,ECE,1,A,Hostel,75% and Above
+STU0304,50,80.0,Student_0304,IT,1,C,Day Scholar,75% and Above
+STU0305,50,88.0,Student_0305,ECE,4,D,Hostel,75% and Above
+STU0306,50,84.0,Student_0306,EEE,2,B,Day Scholar,75% and Above
+STU0307,50,90.0,Student_0307,IT,2,C,Day Scholar,75% and Above
+STU0308,50,88.0,Student_0308,EEE,3,D,Day Scholar,75% and Above
+STU0309,50,86.0,Student_0309,CSE,2,A,Hostel,75% and Above
+STU0310,50,88.0,Student_0310,CSE,2,D,Hostel,75% and Above
+STU0311,50,78.0,Student_0311,IT,3,D,Hostel,75% and Above
+STU0312,50,82.0,Student_0312,AIML,2,A,Day Scholar,75% and Above
+STU0313,50,80.0,Student_0313,CSE,2,A,Day Scholar,75% and Above
+STU0314,50,88.0,Student_0314,ECE,2,A,Hostel,75% and Above
+STU0315,50,84.0,Student_0315,EEE,2,B,Day Scholar,75% and Above
+STU0316,50,86.0,Student_0316,CSE,3,A,Day Scholar,75% and Above
+STU0317,50,80.0,Student_0317,CSE,2,B,Day Scholar,75% and Above
+STU0318,50,76.0,Student_0318,AIML,2,A,Hostel,75% and Above
+STU0319,50,82.0,Student_0319,IT,3,B,Day Scholar,75% and Above
+STU0320,50,92.0,Student_0320,IT,4,D,Hostel,75% and Above
+STU0321,50,90.0,Student_0321,CIVIL,1,C,Hostel,75% and Above
+STU0322,50,88.0,Student_0322,AIML,4,D,Hostel,75% and Above
+STU0323,50,78.0,Student_0323,ECE,3,D,Hostel,75% and Above
+STU0324,50,86.0,Student_0324,IT,1,A,Hostel,75% and Above
+STU0325,50,76.0,Student_0325,EEE,3,B,Day Scholar,75% and Above
+STU0326,50,78.0,Student_0326,AIML,3,C,Hostel,75% and Above
+STU0327,50,88.0,Student_0327,CSE,2,A,Hostel,75% and Above
+STU0328,50,86.0,Student_0328,EEE,1,A,Hostel,75% and Above
+STU0329,50,92.0,Student_0329,EEE,2,A,Day Scholar,75% and Above
+STU0330,50,92.0,Student_0330,CSE,1,D,Day Scholar,75% and Above
+STU0331,50,78.0,Student_0331,AIML,3,B,Day Scholar,75% and Above
+STU0332,50,82.0,Student_0332,CSE,3,B,Day Scholar,75% and Above
+STU0333,50,76.0,Student_0333,CIVIL,4,C,Hostel,75% and Above
+STU0334,50,86.0,Student_0334,EEE,1,B,Hostel,75% and Above
+STU0335,50,86.0,Student_0335,MECH,2,B,Day Scholar,75% and Above
+STU0336,50,74.0,Student_0336,MECH,4,A,Day Scholar,Below 75%
+STU0337,50,72.0,Student_0337,ECE,4,A,Day Scholar,Below 75%
+STU0338,50,80.0,Student_0338,IT,4,D,Day Scholar,75% and Above
+STU0339,50,82.0,Student_0339,CSE,2,A,Hostel,75% and Above
+STU0340,50,84.0,Student_0340,CSE,4,A,Day Scholar,75% and Above
+STU0341,50,88.0,Student_0341,ECE,2,A,Day Scholar,75% and Above
+STU0342,50,86.0,Student_0342,ECE,4,A,Day Scholar,75% and Above
+STU0343,50,80.0,Student_0343,ECE,2,D,Day Scholar,75% and Above
+STU0344,50,84.0,Student_0344,EEE,3,A,Day Scholar,75% and Above
+STU0345,50,78.0,Student_0345,CIVIL,3,C,Day Scholar,75% and Above
+STU0346,50,82.0,Student_0346,CSE,3,C,Day Scholar,75% and Above
+STU0347,50,74.0,Student_0347,EEE,3,C,Hostel,Below 75%
+STU0348,50,82.0,Student_0348,ECE,3,C,Hostel,75% and Above
+STU0349,50,84.0,Student_0349,CSE,4,A,Hostel,75% and Above
+STU0350,50,84.0,Student_0350,EEE,4,C,Hostel,75% and Above
+STU0351,50,80.0,Student_0351,CIVIL,4,A,Hostel,75% and Above
+STU0352,50,86.0,Student_0352,EEE,2,D,Hostel,75% and Above
+STU0353,50,80.0,Student_0353,CIVIL,2,C,Day Scholar,75% and Above
+STU0354,50,88.0,Student_0354,ECE,2,B,Day Scholar,75% and Above
+STU0355,50,78.0,Student_0355,CIVIL,2,C,Hostel,75% and Above
+STU0356,50,82.0,Student_0356,CSE,3,C,Day Scholar,75% and Above
+STU0357,50,74.0,Student_0357,ECE,3,A,Hostel,Below 75%
+STU0358,50,80.0,Student_0358,CSE,3,C,Day Scholar,75% and Above
+STU0359,50,90.0,Student_0359,MECH,1,B,Day Scholar,75% and Above
+STU0360,50,88.0,Student_0360,AIML,4,A,Day Scholar,75% and Above
+STU0361,50,80.0,Student_0361,CIVIL,2,A,Day Scholar,75% and Above
+STU0362,50,84.0,Student_0362,AIML,2,D,Day Scholar,75% and Above
+STU0363,50,86.0,Student_0363,AIML,3,D,Day Scholar,75% and Above
+STU0364,50,86.0,Student_0364,CIVIL,2,C,Hostel,75% and Above
+STU0365,50,78.0,Student_0365,ECE,2,D,Hostel,75% and Above
+STU0366,50,86.0,Student_0366,MECH,4,D,Day Scholar,75% and Above
+STU0367,50,82.0,Student_0367,CSE,3,D,Hostel,75% and Above
+STU0368,50,86.0,Student_0368,EEE,4,A,Day Scholar,75% and Above
+STU0369,50,88.0,Student_0369,CSE,1,A,Hostel,75% and Above
+STU0370,50,76.0,Student_0370,EEE,1,A,Day Scholar,75% and Above
+STU0371,50,86.0,Student_0371,CSE,1,D,Hostel,75% and Above
+STU0372,50,80.0,Student_0372,CIVIL,3,A,Day Scholar,75% and Above
+STU0373,50,84.0,Student_0373,MECH,2,D,Hostel,75% and Above
+STU0374,50,82.0,Student_0374,EEE,3,A,Day Scholar,75% and Above
+STU0375,50,80.0,Student_0375,IT,3,A,Hostel,75% and Above
+STU0376,50,74.0,Student_0376,ECE,2,B,Day Scholar,Below 75%
+STU0377,50,80.0,Student_0377,CSE,4,C,Day Scholar,75% and Above
+STU0378,50,78.0,Student_0378,CSE,1,D,Day Scholar,75% and Above
+STU0379,50,88.0,Student_0379,EEE,4,B,Hostel,75% and Above
+STU0380,50,84.0,Student_0380,ECE,1,A,Hostel,75% and Above
+STU0381,50,88.0,Student_0381,ECE,3,D,Hostel,75% and Above
+STU0382,50,92.0,Student_0382,CIVIL,1,A,Day Scholar,75% and Above
+STU0383,50,88.0,Student_0383,IT,3,C,Hostel,75% and Above
+STU0384,50,82.0,Student_0384,CIVIL,4,B,Day Scholar,75% and Above
+STU0385,50,88.0,Student_0385,CIVIL,3,C,Hostel,75% and Above
+STU0386,50,76.0,Student_0386,CIVIL,4,B,Hostel,75% and Above
+STU0387,50,82.0,Student_0387,CIVIL,2,A,Hostel,75% and Above
+STU0388,50,78.0,Student_0388,CIVIL,2,C,Hostel,75% and Above
+STU0389,50,74.0,Student_0389,MECH,2,C,Day Scholar,Below 75%
+STU0390,50,88.0,Student_0390,ECE,3,A,Hostel,75% and Above
+STU0391,50,76.0,Student_0391,CIVIL,2,C,Hostel,75% and Above
+STU0392,50,80.0,Student_0392,ECE,1,D,Day Scholar,75% and Above
+STU0393,50,86.0,Student_0393,ECE,4,B,Day Scholar,75% and Above
+STU0394,50,76.0,Student_0394,AIML,4,B,Hostel,75% and Above
+STU0395,50,72.0,Student_0395,MECH,1,B,Hostel,Below 75%
+STU0396,50,88.0,Student_0396,CIVIL,3,D,Day Scholar,75% and Above
+STU0397,50,80.0,Student_0397,CSE,3,B,Day Scholar,75% and Above
+STU0398,50,88.0,Student_0398,EEE,4,A,Day Scholar,75% and Above
+STU0399,50,82.0,Student_0399,IT,2,C,Hostel,75% and Above
+STU0400,50,80.0,Student_0400,CSE,3,D,Hostel,75% and Above
+STU0401,50,86.0,Student_0401,MECH,3,B,Hostel,75% and Above
+STU0402,50,88.0,Student_0402,EEE,1,A,Day Scholar,75% and Above
+STU0403,50,86.0,Student_0403,MECH,1,C,Day Scholar,75% and Above
+STU0404,50,82.0,Student_0404,ECE,2,C,Day Scholar,75% and Above
+STU0405,50,76.0,Student_0405,EEE,3,D,Hostel,75% and Above
+STU0406,50,76.0,Student_0406,ECE,3,D,Day Scholar,75% and Above
+STU0407,50,78.0,Student_0407,CSE,1,D,Hostel,75% and Above
+STU0408,50,78.0,Student_0408,CSE,3,A,Day Scholar,75% and Above
+STU0409,50,82.0,Student_0409,EEE,4,A,Hostel,75% and Above
+STU0410,50,84.0,Student_0410,EEE,1,D,Hostel,75% and Above
+STU0411,50,76.0,Student_0411,CIVIL,2,B,Day Scholar,75% and Above
+STU0412,50,76.0,Student_0412,MECH,1,C,Hostel,75% and Above
+STU0413,50,72.0,Student_0413,CIVIL,3,C,Day Scholar,Below 75%
+STU0414,50,80.0,Student_0414,MECH,2,A,Hostel,75% and Above
+STU0415,50,82.0,Student_0415,CIVIL,1,C,Day Scholar,75% and Above
+STU0416,50,84.0,Student_0416,ECE,4,B,Day Scholar,75% and Above
+STU0417,50,80.0,Student_0417,EEE,4,C,Hostel,75% and Above
+STU0418,50,84.0,Student_0418,CSE,1,A,Day Scholar,75% and Above
+STU0419,50,78.0,Student_0419,MECH,4,A,Hostel,75% and Above
+STU0420,50,82.0,Student_0420,MECH,4,B,Day Scholar,75% and Above
+STU0421,50,86.0,Student_0421,CSE,4,B,Day Scholar,75% and Above
+STU0422,50,70.0,Student_0422,CIVIL,2,C,Day Scholar,Below 75%
+STU0423,50,80.0,Student_0423,MECH,4,C,Day Scholar,75% and Above
+STU0424,50,82.0,Student_0424,IT,4,A,Hostel,75% and Above
+STU0425,50,86.0,Student_0425,ECE,4,B,Day Scholar,75% and Above
+STU0426,50,82.0,Student_0426,EEE,2,B,Day Scholar,75% and Above
+STU0427,50,76.0,Student_0427,CSE,1,B,Hostel,75% and Above
+STU0428,50,88.0,Student_0428,EEE,3,C,Hostel,75% and Above
+STU0429,50,88.0,Student_0429,IT,4,B,Hostel,75% and Above
+STU0430,50,88.0,Student_0430,MECH,1,A,Hostel,75% and Above
+STU0431,50,78.0,Student_0431,MECH,4,A,Hostel,75% and Above
+STU0432,50,78.0,Student_0432,IT,2,C,Hostel,75% and Above
+STU0433,50,80.0,Student_0433,CSE,1,D,Day Scholar,75% and Above
+STU0434,50,74.0,Student_0434,ECE,2,C,Hostel,Below 75%
+STU0435,50,84.0,Student_0435,AIML,4,D,Day Scholar,75% and Above
+STU0436,50,80.0,Student_0436,CSE,4,B,Hostel,75% and Above
+STU0437,50,80.0,Student_0437,AIML,2,C,Day Scholar,75% and Above
+STU0438,50,88.0,Student_0438,IT,3,A,Day Scholar,75% and Above
+STU0439,50,90.0,Student_0439,CIVIL,2,B,Day Scholar,75% and Above
+STU0440,50,90.0,Student_0440,AIML,4,A,Hostel,75% and Above
+STU0441,50,82.0,Student_0441,ECE,2,B,Hostel,75% and Above
+STU0442,50,84.0,Student_0442,CIVIL,3,C,Hostel,75% and Above
+STU0443,50,84.0,Student_0443,AIML,2,D,Hostel,75% and Above
+STU0444,50,90.0,Student_0444,IT,3,B,Day Scholar,75% and Above
+STU0445,50,84.0,Student_0445,CIVIL,3,D,Hostel,75% and Above
+STU0446,50,80.0,Student_0446,IT,2,B,Day Scholar,75% and Above
+STU0447,50,82.0,Student_0447,AIML,2,A,Day Scholar,75% and Above
+STU0448,50,84.0,Student_0448,IT,1,A,Hostel,75% and Above
+STU0449,50,82.0,Student_0449,ECE,4,B,Hostel,75% and Above
+STU0450,50,82.0,Student_0450,AIML,3,D,Hostel,75% and Above
+STU0451,50,84.0,Student_0451,AIML,1,C,Day Scholar,75% and Above
+STU0452,50,86.0,Student_0452,AIML,2,C,Hostel,75% and Above
+STU0453,50,86.0,Student_0453,CSE,4,A,Day Scholar,75% and Above
+STU0454,50,86.0,Student_0454,CSE,1,C,Hostel,75% and Above
+STU0455,50,84.0,Student_0455,CSE,3,A,Day Scholar,75% and Above
+STU0456,50,84.0,Student_0456,ECE,1,C,Hostel,75% and Above
+STU0457,50,78.0,Student_0457,CIVIL,3,B,Hostel,75% and Above
+STU0458,50,90.0,Student_0458,IT,2,A,Day Scholar,75% and Above
+STU0459,50,86.0,Student_0459,MECH,4,A,Hostel,75% and Above
+STU0460,50,86.0,Student_0460,AIML,4,B,Hostel,75% and Above
+STU0461,50,78.0,Student_0461,IT,4,A,Hostel,75% and Above
+STU0462,50,80.0,Student_0462,AIML,2,C,Hostel,75% and Above
+STU0463,50,68.0,Student_0463,ECE,3,C,Hostel,Below 75%
+STU0464,50,80.0,Student_0464,AIML,2,A,Hostel,75% and Above
+STU0465,50,86.0,Student_0465,CSE,4,C,Hostel,75% and Above
+STU0466,50,78.0,Student_0466,MECH,2,D,Day Scholar,75% and Above
+STU0467,50,90.0,Student_0467,EEE,2,A,Day Scholar,75% and Above
+STU0468,50,80.0,Student_0468,AIML,2,B,Hostel,75% and Above
+STU0469,50,86.0,Student_0469,IT,3,D,Hostel,75% and Above
+STU0470,50,86.0,Student_0470,CSE,1,A,Hostel,75% and Above
+STU0471,50,88.0,Student_0471,EEE,1,B,Day Scholar,75% and Above
+STU0472,50,78.0,Student_0472,MECH,2,C,Day Scholar,75% and Above
+STU0473,50,86.0,Student_0473,EEE,1,B,Hostel,75% and Above
+STU0474,50,76.0,Student_0474,CSE,1,D,Day Scholar,75% and Above
+STU0475,50,82.0,Student_0475,CIVIL,2,C,Hostel,75% and Above
+STU0476,50,84.0,Student_0476,CIVIL,2,A,Hostel,75% and Above
+STU0477,50,80.0,Student_0477,EEE,4,C,Hostel,75% and Above
+STU0478,50,70.0,Student_0478,ECE,1,A,Hostel,Below 75%
+STU0479,50,90.0,Student_0479,IT,3,A,Day Scholar,75% and Above
+STU0480,50,90.0,Student_0480,IT,2,B,Day Scholar,75% and Above
+STU0481,50,86.0,Student_0481,EEE,4,B,Hostel,75% and Above
+STU0482,50,86.0,Student_0482,AIML,3,B,Day Scholar,75% and Above
+STU0483,50,74.0,Student_0483,AIML,1,D,Day Scholar,Below 75%
+STU0484,50,80.0,Student_0484,IT,4,D,Hostel,75% and Above
+STU0485,50,82.0,Student_0485,IT,2,B,Day Scholar,75% and Above
+STU0486,50,76.0,Student_0486,CIVIL,3,D,Hostel,75% and Above
+STU0487,50,74.0,Student_0487,ECE,2,C,Hostel,Below 75%
+STU0488,50,78.0,Student_0488,CSE,1,C,Hostel,75% and Above
+STU0489,50,86.0,Student_0489,AIML,3,D,Hostel,75% and Above
+STU0490,50,90.0,Student_0490,IT,1,D,Day Scholar,75% and Above
+STU0491,50,84.0,Student_0491,CIVIL,1,C,Hostel,75% and Above
+STU0492,50,84.0,Student_0492,MECH,4,A,Day Scholar,75% and Above
+STU0493,50,80.0,Student_0493,CIVIL,2,C,Hostel,75% and Above
+STU0494,50,90.0,Student_0494,AIML,3,C,Hostel,75% and Above
+STU0495,50,88.0,Student_0495,AIML,1,D,Day Scholar,75% and Above
+STU0496,50,84.0,Student_0496,CIVIL,1,C,Hostel,75% and Above
+STU0497,50,82.0,Student_0497,CSE,3,D,Day Scholar,75% and Above
+STU0498,50,88.0,Student_0498,EEE,1,D,Day Scholar,75% and Above
+STU0499,50,74.0,Student_0499,AIML,4,B,Hostel,Below 75%
+STU0500,50,88.0,Student_0500,CIVIL,4,C,Hostel,75% and Above
+STU0501,50,76.0,Student_0501,IT,4,A,Hostel,75% and Above
+STU0502,50,80.0,Student_0502,CIVIL,4,B,Hostel,75% and Above
+STU0503,50,72.0,Student_0503,ECE,1,D,Hostel,Below 75%
+STU0504,50,86.0,Student_0504,EEE,3,D,Hostel,75% and Above
+STU0505,50,80.0,Student_0505,MECH,3,A,Day Scholar,75% and Above
+STU0506,50,88.0,Student_0506,CSE,3,D,Day Scholar,75% and Above
+STU0507,50,84.0,Student_0507,MECH,3,C,Hostel,75% and Above
+STU0508,50,68.0,Student_0508,EEE,2,B,Day Scholar,Below 75%
+STU0509,50,84.0,Student_0509,EEE,3,D,Day Scholar,75% and Above
+STU0510,50,84.0,Student_0510,EEE,2,D,Hostel,75% and Above
+STU0511,50,84.0,Student_0511,MECH,2,A,Hostel,75% and Above
+STU0512,50,86.0,Student_0512,IT,4,C,Day Scholar,75% and Above
+STU0513,50,86.0,Student_0513,EEE,2,D,Hostel,75% and Above
+STU0514,50,84.0,Student_0514,CIVIL,1,A,Day Scholar,75% and Above
+STU0515,50,76.0,Student_0515,MECH,2,D,Hostel,75% and Above
+STU0516,50,86.0,Student_0516,EEE,4,A,Day Scholar,75% and Above
+STU0517,50,84.0,Student_0517,CIVIL,2,A,Day Scholar,75% and Above
+STU0518,50,86.0,Student_0518,IT,1,C,Day Scholar,75% and Above
+STU0519,50,82.0,Student_0519,ECE,1,D,Day Scholar,75% and Above
+STU0520,50,80.0,Student_0520,IT,1,C,Hostel,75% and Above
+STU0521,50,76.0,Student_0521,EEE,4,A,Hostel,75% and Above
+STU0522,50,76.0,Student_0522,MECH,4,B,Day Scholar,75% and Above
+STU0523,50,86.0,Student_0523,AIML,3,D,Day Scholar,75% and Above
+STU0524,50,80.0,Student_0524,EEE,4,B,Hostel,75% and Above
+STU0525,50,78.0,Student_0525,AIML,1,D,Hostel,75% and Above
+STU0526,50,96.0,Student_0526,CIVIL,1,C,Day Scholar,75% and Above
+STU0527,50,84.0,Student_0527,ECE,4,C,Day Scholar,75% and Above
+STU0528,50,76.0,Student_0528,CSE,2,C,Day Scholar,75% and Above
+STU0529,50,88.0,Student_0529,IT,4,C,Day Scholar,75% and Above
+STU0530,50,74.0,Student_0530,ECE,4,C,Day Scholar,Below 75%
+STU0531,50,88.0,Student_0531,EEE,1,B,Hostel,75% and Above
+STU0532,50,88.0,Student_0532,AIML,3,C,Day Scholar,75% and Above
+STU0533,50,80.0,Student_0533,IT,1,A,Hostel,75% and Above
+STU0534,50,76.0,Student_0534,AIML,3,A,Hostel,75% and Above
+STU0535,50,90.0,Student_0535,MECH,1,B,Hostel,75% and Above
+STU0536,50,80.0,Student_0536,AIML,4,D,Day Scholar,75% and Above
+STU0537,50,76.0,Student_0537,MECH,1,A,Hostel,75% and Above
+STU0538,50,76.0,Student_0538,CIVIL,1,D,Hostel,75% and Above
+STU0539,50,80.0,Student_0539,IT,1,B,Hostel,75% and Above
+STU0540,50,80.0,Student_0540,IT,4,D,Hostel,75% and Above
+STU0541,50,86.0,Student_0541,CSE,4,D,Day Scholar,75% and Above
+STU0542,50,84.0,Student_0542,EEE,4,D,Day Scholar,75% and Above
+STU0543,50,78.0,Student_0543,MECH,4,D,Hostel,75% and Above
+STU0544,50,86.0,Student_0544,CSE,3,B,Hostel,75% and Above
+STU0545,50,80.0,Student_0545,AIML,3,A,Day Scholar,75% and Above
+STU0546,50,92.0,Student_0546,AIML,2,C,Day Scholar,75% and Above
+STU0547,50,80.0,Student_0547,CSE,4,D,Day Scholar,75% and Above
+STU0548,50,80.0,Student_0548,IT,3,A,Hostel,75% and Above
+STU0549,50,82.0,Student_0549,AIML,1,A,Day Scholar,75% and Above
+STU0550,50,86.0,Student_0550,CIVIL,4,B,Hostel,75% and Above
+STU0551,50,82.0,Student_0551,CIVIL,2,A,Hostel,75% and Above
+STU0552,50,80.0,Student_0552,CSE,2,B,Day Scholar,75% and Above
+STU0553,50,78.0,Student_0553,MECH,2,D,Hostel,75% and Above
+STU0554,50,86.0,Student_0554,MECH,1,D,Day Scholar,75% and Above
+STU0555,50,86.0,Student_0555,CSE,3,C,Hostel,75% and Above
+STU0556,50,80.0,Student_0556,MECH,1,C,Day Scholar,75% and Above
+STU0557,50,74.0,Student_0557,IT,4,C,Hostel,Below 75%
+STU0558,50,86.0,Student_0558,IT,2,A,Hostel,75% and Above
+STU0559,50,76.0,Student_0559,MECH,1,D,Day Scholar,75% and Above
+STU0560,50,86.0,Student_0560,CIVIL,1,B,Day Scholar,75% and Above
+STU0561,50,82.0,Student_0561,MECH,3,C,Day Scholar,75% and Above
+STU0562,50,82.0,Student_0562,IT,3,B,Day Scholar,75% and Above
+STU0563,50,76.0,Student_0563,ECE,2,B,Hostel,75% and Above
+STU0564,50,86.0,Student_0564,EEE,1,C,Day Scholar,75% and Above
+STU0565,50,80.0,Student_0565,AIML,1,D,Day Scholar,75% and Above
+STU0566,50,82.0,Student_0566,ECE,3,C,Hostel,75% and Above
+STU0567,50,84.0,Student_0567,MECH,1,B,Day Scholar,75% and Above
+STU0568,50,74.0,Student_0568,CIVIL,1,C,Day Scholar,Below 75%
+STU0569,50,80.0,Student_0569,CSE,1,B,Hostel,75% and Above
+STU0570,50,74.0,Student_0570,MECH,3,B,Day Scholar,Below 75%
+STU0571,50,76.0,Student_0571,CIVIL,2,C,Day Scholar,75% and Above
+STU0572,50,86.0,Student_0572,EEE,4,A,Day Scholar,75% and Above
+STU0573,50,70.0,Student_0573,MECH,2,C,Day Scholar,Below 75%
+STU0574,50,86.0,Student_0574,IT,4,A,Day Scholar,75% and Above
+STU0575,50,80.0,Student_0575,CSE,1,B,Day Scholar,75% and Above
+STU0576,50,88.0,Student_0576,CIVIL,2,B,Hostel,75% and Above
+STU0577,50,82.0,Student_0577,CIVIL,4,A,Day Scholar,75% and Above
+STU0578,50,82.0,Student_0578,CIVIL,3,B,Hostel,75% and Above
+STU0579,50,82.0,Student_0579,EEE,3,A,Hostel,75% and Above
+STU0580,50,88.0,Student_0580,MECH,2,A,Hostel,75% and Above
+STU0581,50,78.0,Student_0581,EEE,2,B,Hostel,75% and Above
+STU0582,50,80.0,Student_0582,AIML,1,D,Day Scholar,75% and Above
+STU0583,50,82.0,Student_0583,AIML,2,A,Day Scholar,75% and Above
+STU0584,50,84.0,Student_0584,MECH,1,C,Day Scholar,75% and Above
+STU0585,50,86.0,Student_0585,IT,1,C,Hostel,75% and Above
+STU0586,50,82.0,Student_0586,EEE,3,B,Day Scholar,75% and Above
+STU0587,50,78.0,Student_0587,CSE,3,D,Day Scholar,75% and Above
+STU0588,50,82.0,Student_0588,CIVIL,4,B,Day Scholar,75% and Above
+STU0589,50,86.0,Student_0589,CIVIL,3,D,Hostel,75% and Above
+STU0590,50,78.0,Student_0590,MECH,3,A,Hostel,75% and Above
+STU0591,50,80.0,Student_0591,IT,2,A,Day Scholar,75% and Above
+STU0592,50,80.0,Student_0592,AIML,3,A,Hostel,75% and Above
+STU0593,50,74.0,Student_0593,AIML,4,A,Hostel,Below 75%
+STU0594,50,86.0,Student_0594,CIVIL,2,C,Day Scholar,75% and Above
+STU0595,50,84.0,Student_0595,MECH,4,C,Hostel,75% and Above
+STU0596,50,72.0,Student_0596,EEE,3,B,Hostel,Below 75%
+STU0597,50,74.0,Student_0597,AIML,4,D,Day Scholar,Below 75%
+STU0598,50,82.0,Student_0598,EEE,2,A,Hostel,75% and Above
+STU0599,50,86.0,Student_0599,IT,1,A,Hostel,75% and Above
+STU0600,50,84.0,Student_0600,AIML,4,D,Hostel,75% and Above
+STU0601,50,72.0,Student_0601,AIML,4,D,Hostel,Below 75%
+STU0602,50,76.0,Student_0602,ECE,2,B,Hostel,75% and Above
+STU0603,50,86.0,Student_0603,AIML,2,D,Hostel,75% and Above
+STU0604,50,86.0,Student_0604,CSE,4,A,Hostel,75% and Above
+STU0605,50,82.0,Student_0605,MECH,3,A,Hostel,75% and Above
+STU0606,50,82.0,Student_0606,MECH,4,A,Day Scholar,75% and Above
+STU0607,50,76.0,Student_0607,EEE,2,A,Day Scholar,75% and Above
+STU0608,50,86.0,Student_0608,IT,1,A,Day Scholar,75% and Above
+STU0609,50,78.0,Student_0609,AIML,1,B,Day Scholar,75% and Above
+STU0610,50,82.0,Student_0610,CSE,3,A,Hostel,75% and Above
+STU0611,50,88.0,Student_0611,EEE,4,B,Day Scholar,75% and Above
+STU0612,50,86.0,Student_0612,ECE,1,A,Day Scholar,75% and Above
+STU0613,50,84.0,Student_0613,EEE,4,C,Hostel,75% and Above
+STU0614,50,82.0,Student_0614,EEE,2,C,Hostel,75% and Above
+STU0615,50,80.0,Student_0615,AIML,1,C,Hostel,75% and Above
+STU0616,50,80.0,Student_0616,ECE,3,C,Hostel,75% and Above
+STU0617,50,82.0,Student_0617,EEE,2,B,Hostel,75% and Above
+STU0618,50,82.0,Student_0618,CSE,3,B,Day Scholar,75% and Above
+STU0619,50,84.0,Student_0619,CSE,2,D,Hostel,75% and Above
+STU0620,50,76.0,Student_0620,MECH,1,A,Day Scholar,75% and Above
+STU0621,50,82.0,Student_0621,ECE,3,C,Day Scholar,75% and Above
+STU0622,50,84.0,Student_0622,ECE,3,B,Hostel,75% and Above
+STU0623,50,80.0,Student_0623,MECH,2,A,Day Scholar,75% and Above
+STU0624,50,86.0,Student_0624,EEE,3,A,Day Scholar,75% and Above
+STU0625,50,80.0,Student_0625,ECE,2,B,Hostel,75% and Above
+STU0626,50,84.0,Student_0626,CSE,2,C,Day Scholar,75% and Above
+STU0627,50,84.0,Student_0627,CSE,2,D,Day Scholar,75% and Above
+STU0628,50,68.0,Student_0628,AIML,2,A,Day Scholar,Below 75%
+STU0629,50,72.0,Student_0629,ECE,1,D,Hostel,Below 75%
+STU0630,50,70.0,Student_0630,EEE,2,C,Hostel,Below 75%
+STU0631,50,80.0,Student_0631,MECH,4,C,Hostel,75% and Above
+STU0632,50,74.0,Student_0632,MECH,3,D,Day Scholar,Below 75%
+STU0633,50,72.0,Student_0633,EEE,4,C,Hostel,Below 75%
+STU0634,50,84.0,Student_0634,IT,1,A,Day Scholar,75% and Above
+STU0635,50,76.0,Student_0635,CIVIL,4,D,Hostel,75% and Above
+STU0636,50,88.0,Student_0636,AIML,3,C,Day Scholar,75% and Above
+STU0637,50,84.0,Student_0637,MECH,4,D,Hostel,75% and Above
+STU0638,50,80.0,Student_0638,ECE,1,A,Hostel,75% and Above
+STU0639,50,84.0,Student_0639,AIML,2,C,Day Scholar,75% and Above
+STU0640,50,92.0,Student_0640,ECE,4,A,Hostel,75% and Above
+STU0641,50,90.0,Student_0641,IT,1,C,Day Scholar,75% and Above
+STU0642,50,88.0,Student_0642,CSE,1,B,Hostel,75% and Above
+STU0643,50,86.0,Student_0643,AIML,3,C,Hostel,75% and Above
+STU0644,50,76.0,Student_0644,MECH,3,D,Day Scholar,75% and Above
+STU0645,50,82.0,Student_0645,AIML,4,C,Day Scholar,75% and Above
+STU0646,50,78.0,Student_0646,AIML,2,A,Day Scholar,75% and Above
+STU0647,50,84.0,Student_0647,AIML,1,A,Hostel,75% and Above
+STU0648,50,86.0,Student_0648,CIVIL,4,C,Day Scholar,75% and Above
+STU0649,50,86.0,Student_0649,AIML,1,D,Hostel,75% and Above
+STU0650,50,76.0,Student_0650,ECE,1,B,Day Scholar,75% and Above
+STU0651,50,78.0,Student_0651,CSE,2,D,Day Scholar,75% and Above
+STU0652,50,80.0,Student_0652,IT,2,B,Day Scholar,75% and Above
+STU0653,50,78.0,Student_0653,EEE,4,A,Day Scholar,75% and Above
+STU0654,50,76.0,Student_0654,AIML,2,D,Day Scholar,75% and Above
+STU0655,50,90.0,Student_0655,MECH,2,B,Day Scholar,75% and Above
+STU0656,50,86.0,Student_0656,AIML,4,C,Hostel,75% and Above
+STU0657,50,82.0,Student_0657,MECH,2,A,Day Scholar,75% and Above
+STU0658,50,82.0,Student_0658,ECE,3,C,Hostel,75% and Above
+STU0659,50,76.0,Student_0659,MECH,1,A,Day Scholar,75% and Above
+STU0660,50,78.0,Student_0660,EEE,1,D,Day Scholar,75% and Above
+STU0661,50,76.0,Student_0661,CSE,1,D,Day Scholar,75% and Above
+STU0662,50,76.0,Student_0662,MECH,1,A,Hostel,75% and Above
+STU0663,50,88.0,Student_0663,MECH,4,A,Hostel,75% and Above
+STU0664,50,78.0,Student_0664,CSE,1,A,Day Scholar,75% and Above
+STU0665,50,74.0,Student_0665,EEE,1,D,Hostel,Below 75%
+STU0666,50,74.0,Student_0666,AIML,1,B,Day Scholar,Below 75%
+STU0667,50,88.0,Student_0667,MECH,1,C,Day Scholar,75% and Above
+STU0668,50,86.0,Student_0668,CSE,3,C,Hostel,75% and Above
+STU0669,50,88.0,Student_0669,ECE,1,D,Hostel,75% and Above
+STU0670,50,84.0,Student_0670,CSE,3,C,Hostel,75% and Above
+STU0671,50,76.0,Student_0671,ECE,4,A,Hostel,75% and Above
+STU0672,50,76.0,Student_0672,EEE,2,B,Day Scholar,75% and Above
+STU0673,50,78.0,Student_0673,AIML,1,C,Hostel,75% and Above
+STU0674,50,76.0,Student_0674,CSE,2,B,Hostel,75% and Above
+STU0675,50,72.0,Student_0675,IT,2,A,Day Scholar,Below 75%
+STU0676,50,78.0,Student_0676,IT,4,C,Hostel,75% and Above
+STU0677,50,84.0,Student_0677,CIVIL,2,D,Hostel,75% and Above
+STU0678,50,82.0,Student_0678,MECH,3,B,Hostel,75% and Above
+STU0679,50,72.0,Student_0679,EEE,2,A,Hostel,Below 75%
+STU0680,50,78.0,Student_0680,CSE,2,B,Day Scholar,75% and Above
+STU0681,50,90.0,Student_0681,IT,2,C,Day Scholar,75% and Above
+STU0682,50,74.0,Student_0682,MECH,1,C,Hostel,Below 75%
+STU0683,50,82.0,Student_0683,IT,1,D,Hostel,75% and Above
+STU0684,50,84.0,Student_0684,CSE,3,A,Day Scholar,75% and Above
+STU0685,50,82.0,Student_0685,ECE,3,A,Hostel,75% and Above
+STU0686,50,86.0,Student_0686,CSE,1,D,Hostel,75% and Above
+STU0687,50,78.0,Student_0687,CIVIL,3,D,Hostel,75% and Above
+STU0688,50,92.0,Student_0688,CSE,1,A,Hostel,75% and Above
+STU0689,50,86.0,Student_0689,CSE,4,B,Hostel,75% and Above
+STU0690,50,78.0,Student_0690,CIVIL,2,B,Hostel,75% and Above
+STU0691,50,82.0,Student_0691,EEE,2,D,Hostel,75% and Above
+STU0692,50,82.0,Student_0692,CSE,3,B,Hostel,75% and Above
+STU0693,50,76.0,Student_0693,CIVIL,1,A,Hostel,75% and Above
+STU0694,50,76.0,Student_0694,MECH,1,C,Day Scholar,75% and Above
+STU0695,50,92.0,Student_0695,ECE,3,C,Day Scholar,75% and Above
+STU0696,50,76.0,Student_0696,ECE,1,B,Day Scholar,75% and Above
+STU0697,50,84.0,Student_0697,CSE,4,D,Hostel,75% and Above
+STU0698,50,86.0,Student_0698,EEE,2,D,Hostel,75% and Above
+STU0699,50,78.0,Student_0699,EEE,3,D,Day Scholar,75% and Above
+STU0700,50,84.0,Student_0700,MECH,3,D,Hostel,75% and Above
+STU0701,50,86.0,Student_0701,CSE,1,D,Day Scholar,75% and Above
+STU0702,50,84.0,Student_0702,ECE,3,B,Hostel,75% and Above
+STU0703,50,84.0,Student_0703,EEE,4,C,Day Scholar,75% and Above
+STU0704,50,90.0,Student_0704,CSE,1,C,Day Scholar,75% and Above
+STU0705,50,88.0,Student_0705,IT,1,B,Day Scholar,75% and Above
+STU0706,50,76.0,Student_0706,EEE,1,D,Hostel,75% and Above
+STU0707,50,90.0,Student_0707,CIVIL,1,B,Day Scholar,75% and Above
+STU0708,50,72.0,Student_0708,IT,4,C,Hostel,Below 75%
+STU0709,50,84.0,Student_0709,EEE,1,A,Hostel,75% and Above
+STU0710,50,92.0,Student_0710,ECE,3,B,Hostel,75% and Above
+STU0711,50,78.0,Student_0711,AIML,4,D,Hostel,75% and Above
+STU0712,50,84.0,Student_0712,IT,2,C,Hostel,75% and Above
+STU0713,50,78.0,Student_0713,MECH,2,C,Hostel,75% and Above
+STU0714,50,84.0,Student_0714,MECH,3,C,Hostel,75% and Above
+STU0715,50,84.0,Student_0715,ECE,3,C,Day Scholar,75% and Above
+STU0716,50,72.0,Student_0716,EEE,4,D,Day Scholar,Below 75%
+STU0717,50,82.0,Student_0717,CSE,2,A,Day Scholar,75% and Above
+STU0718,50,80.0,Student_0718,EEE,2,C,Hostel,75% and Above
+STU0719,50,84.0,Student_0719,ECE,2,B,Hostel,75% and Above
+STU0720,50,82.0,Student_0720,MECH,2,A,Hostel,75% and Above
+STU0721,50,84.0,Student_0721,EEE,2,C,Hostel,75% and Above
+STU0722,50,88.0,Student_0722,MECH,1,A,Day Scholar,75% and Above
+STU0723,50,72.0,Student_0723,IT,3,B,Hostel,Below 75%
+STU0724,50,76.0,Student_0724,CSE,1,C,Day Scholar,75% and Above
+STU0725,50,88.0,Student_0725,IT,2,B,Hostel,75% and Above
+STU0726,50,80.0,Student_0726,MECH,4,D,Day Scholar,75% and Above
+STU0727,50,78.0,Student_0727,MECH,4,C,Hostel,75% and Above
+STU0728,50,84.0,Student_0728,AIML,2,C,Day Scholar,75% and Above
+STU0729,50,72.0,Student_0729,AIML,2,C,Hostel,Below 75%
+STU0730,50,82.0,Student_0730,IT,4,C,Day Scholar,75% and Above
+STU0731,50,86.0,Student_0731,CIVIL,1,D,Hostel,75% and Above
+STU0732,50,80.0,Student_0732,IT,1,C,Day Scholar,75% and Above
+STU0733,50,76.0,Student_0733,AIML,2,A,Day Scholar,75% and Above
+STU0734,50,80.0,Student_0734,MECH,1,C,Hostel,75% and Above
+STU0735,50,70.0,Student_0735,ECE,4,D,Day Scholar,Below 75%
+STU0736,50,74.0,Student_0736,IT,1,C,Hostel,Below 75%
+STU0737,50,88.0,Student_0737,MECH,2,A,Hostel,75% and Above
+STU0738,50,78.0,Student_0738,ECE,4,D,Hostel,75% and Above
+STU0739,50,92.0,Student_0739,ECE,1,D,Day Scholar,75% and Above
+STU0740,50,90.0,Student_0740,AIML,3,A,Day Scholar,75% and Above
+STU0741,50,74.0,Student_0741,IT,4,A,Hostel,Below 75%
+STU0742,50,86.0,Student_0742,EEE,4,A,Hostel,75% and Above
+STU0743,50,82.0,Student_0743,CSE,3,A,Day Scholar,75% and Above
+STU0744,50,84.0,Student_0744,AIML,3,A,Day Scholar,75% and Above
+STU0745,50,82.0,Student_0745,AIML,4,D,Day Scholar,75% and Above
+STU0746,50,90.0,Student_0746,EEE,3,D,Hostel,75% and Above
+STU0747,50,90.0,Student_0747,CSE,2,C,Hostel,75% and Above
+STU0748,50,72.0,Student_0748,MECH,2,C,Hostel,Below 75%
+STU0749,50,84.0,Student_0749,CIVIL,2,B,Hostel,75% and Above
+STU0750,50,96.0,Student_0750,IT,4,C,Hostel,75% and Above
+STU0751,50,82.0,Student_0751,CIVIL,3,C,Day Scholar,75% and Above
+STU0752,50,84.0,Student_0752,MECH,3,A,Hostel,75% and Above
+STU0753,50,80.0,Student_0753,AIML,1,A,Day Scholar,75% and Above
+STU0754,50,90.0,Student_0754,CSE,1,C,Day Scholar,75% and Above
+STU0755,50,78.0,Student_0755,AIML,3,B,Hostel,75% and Above
+STU0756,50,80.0,Student_0756,ECE,3,A,Day Scholar,75% and Above
+STU0757,50,76.0,Student_0757,AIML,3,C,Hostel,75% and Above
+STU0758,50,86.0,Student_0758,AIML,4,C,Day Scholar,75% and Above
+STU0759,50,84.0,Student_0759,MECH,3,D,Hostel,75% and Above
+STU0760,50,78.0,Student_0760,MECH,1,B,Hostel,75% and Above
+STU0761,50,74.0,Student_0761,MECH,4,D,Day Scholar,Below 75%
+STU0762,50,76.0,Student_0762,CIVIL,3,B,Hostel,75% and Above
+STU0763,50,92.0,Student_0763,ECE,1,A,Day Scholar,75% and Above
+STU0764,50,84.0,Student_0764,MECH,4,B,Hostel,75% and Above
+STU0765,50,82.0,Student_0765,CSE,3,C,Hostel,75% and Above
+STU0766,50,86.0,Student_0766,CIVIL,3,C,Hostel,75% and Above
+STU0767,50,92.0,Student_0767,EEE,3,B,Day Scholar,75% and Above
+STU0768,50,82.0,Student_0768,CSE,4,B,Day Scholar,75% and Above
+STU0769,50,88.0,Student_0769,IT,1,B,Hostel,75% and Above
+STU0770,50,80.0,Student_0770,IT,1,D,Day Scholar,75% and Above
+STU0771,50,86.0,Student_0771,CSE,2,B,Hostel,75% and Above
+STU0772,50,78.0,Student_0772,MECH,3,A,Day Scholar,75% and Above
+STU0773,50,78.0,Student_0773,EEE,2,D,Day Scholar,75% and Above
+STU0774,50,70.0,Student_0774,EEE,2,D,Hostel,Below 75%
+STU0775,50,78.0,Student_0775,CIVIL,1,B,Hostel,75% and Above
+STU0776,50,90.0,Student_0776,EEE,4,A,Hostel,75% and Above
+STU0777,50,76.0,Student_0777,IT,4,D,Hostel,75% and Above
+STU0778,50,86.0,Student_0778,ECE,1,C,Hostel,75% and Above
+STU0779,50,78.0,Student_0779,MECH,4,D,Day Scholar,75% and Above
+STU0780,50,70.0,Student_0780,EEE,2,B,Day Scholar,Below 75%
+STU0781,50,86.0,Student_0781,CIVIL,3,A,Hostel,75% and Above
+STU0782,50,72.0,Student_0782,IT,1,B,Hostel,Below 75%
+STU0783,50,78.0,Student_0783,ECE,3,C,Hostel,75% and Above
+STU0784,50,86.0,Student_0784,AIML,4,C,Day Scholar,75% and Above
+STU0785,50,76.0,Student_0785,AIML,3,C,Hostel,75% and Above
+STU0786,50,86.0,Student_0786,ECE,4,B,Hostel,75% and Above
+STU0787,50,88.0,Student_0787,IT,4,D,Day Scholar,75% and Above
+STU0788,50,72.0,Student_0788,CIVIL,2,B,Day Scholar,Below 75%
+STU0789,50,86.0,Student_0789,ECE,4,A,Day Scholar,75% and Above
+STU0790,50,80.0,Student_0790,MECH,2,D,Day Scholar,75% and Above
+STU0791,50,72.0,Student_0791,MECH,2,C,Hostel,Below 75%
+STU0792,50,80.0,Student_0792,AIML,2,B,Day Scholar,75% and Above
+STU0793,50,82.0,Student_0793,EEE,1,C,Day Scholar,75% and Above
+STU0794,50,92.0,Student_0794,CIVIL,1,C,Hostel,75% and Above
+STU0795,50,72.0,Student_0795,AIML,4,A,Hostel,Below 75%
+STU0796,50,88.0,Student_0796,EEE,2,D,Hostel,75% and Above
+STU0797,50,78.0,Student_0797,EEE,1,A,Day Scholar,75% and Above
+STU0798,50,84.0,Student_0798,MECH,2,A,Hostel,75% and Above
+STU0799,50,86.0,Student_0799,IT,3,A,Day Scholar,75% and Above
+STU0800,50,84.0,Student_0800,CSE,3,C,Day Scholar,75% and Above
+STU0801,50,86.0,Student_0801,IT,3,A,Day Scholar,75% and Above
+STU0802,50,78.0,Student_0802,CSE,4,A,Hostel,75% and Above
+STU0803,50,78.0,Student_0803,ECE,2,D,Day Scholar,75% and Above
+STU0804,50,80.0,Student_0804,MECH,3,D,Hostel,75% and Above
+STU0805,50,84.0,Student_0805,EEE,1,A,Hostel,75% and Above
+STU0806,50,82.0,Student_0806,CIVIL,3,D,Hostel,75% and Above
+STU0807,50,78.0,Student_0807,CSE,3,D,Day Scholar,75% and Above
+STU0808,50,80.0,Student_0808,IT,3,A,Day Scholar,75% and Above
+STU0809,50,82.0,Student_0809,EEE,4,C,Day Scholar,75% and Above
+STU0810,50,82.0,Student_0810,CSE,1,A,Hostel,75% and Above
+STU0811,50,86.0,Student_0811,CSE,2,D,Day Scholar,75% and Above
+STU0812,50,76.0,Student_0812,CSE,1,C,Day Scholar,75% and Above
+STU0813,50,76.0,Student_0813,CIVIL,2,B,Day Scholar,75% and Above
+STU0814,50,84.0,Student_0814,MECH,4,C,Day Scholar,75% and Above
+STU0815,50,80.0,Student_0815,CIVIL,4,D,Day Scholar,75% and Above
+STU0816,50,80.0,Student_0816,AIML,4,C,Hostel,75% and Above
+STU0817,50,82.0,Student_0817,EEE,4,A,Hostel,75% and Above
+STU0818,50,80.0,Student_0818,MECH,2,B,Hostel,75% and Above
+STU0819,50,70.0,Student_0819,MECH,3,B,Hostel,Below 75%
+STU0820,50,82.0,Student_0820,MECH,2,B,Day Scholar,75% and Above
+STU0821,50,90.0,Student_0821,IT,1,D,Hostel,75% and Above
+STU0822,50,78.0,Student_0822,MECH,4,D,Day Scholar,75% and Above
+STU0823,50,82.0,Student_0823,CIVIL,4,B,Hostel,75% and Above
+STU0824,50,82.0,Student_0824,MECH,1,C,Hostel,75% and Above
+STU0825,50,76.0,Student_0825,ECE,2,B,Hostel,75% and Above
+STU0826,50,78.0,Student_0826,EEE,3,C,Day Scholar,75% and Above
+STU0827,50,80.0,Student_0827,MECH,3,C,Day Scholar,75% and Above
+STU0828,50,76.0,Student_0828,EEE,1,D,Hostel,75% and Above
+STU0829,50,86.0,Student_0829,ECE,3,C,Day Scholar,75% and Above
+STU0830,50,82.0,Student_0830,ECE,2,B,Hostel,75% and Above
+STU0831,50,84.0,Student_0831,EEE,2,D,Hostel,75% and Above
+STU0832,50,90.0,Student_0832,CSE,1,A,Hostel,75% and Above
+STU0833,50,86.0,Student_0833,AIML,2,A,Day Scholar,75% and Above
+STU0834,50,76.0,Student_0834,IT,4,D,Hostel,75% and Above
+STU0835,50,82.0,Student_0835,CSE,1,B,Hostel,75% and Above
+STU0836,50,84.0,Student_0836,CSE,2,A,Hostel,75% and Above
+STU0837,50,90.0,Student_0837,CIVIL,1,A,Day Scholar,75% and Above
+STU0838,50,80.0,Student_0838,IT,3,C,Hostel,75% and Above
+STU0839,50,76.0,Student_0839,IT,2,C,Day Scholar,75% and Above
+STU0840,50,80.0,Student_0840,CSE,4,B,Hostel,75% and Above
+STU0841,50,76.0,Student_0841,MECH,2,D,Day Scholar,75% and Above
+STU0842,50,84.0,Student_0842,CIVIL,1,B,Hostel,75% and Above
+STU0843,50,74.0,Student_0843,CIVIL,1,D,Hostel,Below 75%
+STU0844,50,78.0,Student_0844,ECE,2,A,Day Scholar,75% and Above
+STU0845,50,80.0,Student_0845,IT,4,C,Day Scholar,75% and Above
+STU0846,50,80.0,Student_0846,CSE,4,B,Hostel,75% and Above
+STU0847,50,86.0,Student_0847,ECE,4,B,Day Scholar,75% and Above
+STU0848,50,74.0,Student_0848,EEE,1,D,Hostel,Below 75%
+STU0849,50,80.0,Student_0849,AIML,2,D,Hostel,75% and Above
+STU0850,50,84.0,Student_0850,CIVIL,3,B,Hostel,75% and Above
+STU0851,50,84.0,Student_0851,EEE,1,D,Day Scholar,75% and Above
+STU0852,50,84.0,Student_0852,EEE,4,B,Hostel,75% and Above
+STU0853,50,86.0,Student_0853,MECH,2,B,Day Scholar,75% and Above
+STU0854,50,86.0,Student_0854,AIML,4,B,Hostel,75% and Above
+STU0855,50,80.0,Student_0855,EEE,3,A,Day Scholar,75% and Above
+STU0856,50,80.0,Student_0856,EEE,4,D,Day Scholar,75% and Above
+STU0857,50,86.0,Student_0857,AIML,4,C,Hostel,75% and Above
+STU0858,50,74.0,Student_0858,AIML,3,C,Day Scholar,Below 75%
+STU0859,50,84.0,Student_0859,EEE,2,D,Hostel,75% and Above
+STU0860,50,78.0,Student_0860,AIML,1,B,Hostel,75% and Above
+STU0861,50,84.0,Student_0861,EEE,2,C,Hostel,75% and Above
+STU0862,50,86.0,Student_0862,EEE,3,C,Hostel,75% and Above
+STU0863,50,84.0,Student_0863,MECH,4,D,Hostel,75% and Above
+STU0864,50,90.0,Student_0864,CSE,2,C,Day Scholar,75% and Above
+STU0865,50,90.0,Student_0865,EEE,1,B,Hostel,75% and Above
+STU0866,50,82.0,Student_0866,ECE,3,D,Day Scholar,75% and Above
+STU0867,50,57.99999999999999,Student_0867,CIVIL,2,B,Day Scholar,Below 75%
+STU0868,50,74.0,Student_0868,IT,1,C,Hostel,Below 75%
+STU0869,50,82.0,Student_0869,CSE,3,C,Day Scholar,75% and Above
+STU0870,50,70.0,Student_0870,CSE,1,B,Hostel,Below 75%
+STU0871,50,86.0,Student_0871,CSE,3,A,Day Scholar,75% and Above
+STU0872,50,80.0,Student_0872,MECH,4,C,Day Scholar,75% and Above
+STU0873,50,86.0,Student_0873,EEE,2,A,Day Scholar,75% and Above
+STU0874,50,80.0,Student_0874,MECH,1,C,Hostel,75% and Above
+STU0875,50,76.0,Student_0875,EEE,3,A,Day Scholar,75% and Above
+STU0876,50,86.0,Student_0876,MECH,1,A,Hostel,75% and Above
+STU0877,50,86.0,Student_0877,MECH,1,A,Day Scholar,75% and Above
+STU0878,50,82.0,Student_0878,CIVIL,2,B,Day Scholar,75% and Above
+STU0879,50,76.0,Student_0879,ECE,4,A,Day Scholar,75% and Above
+STU0880,50,72.0,Student_0880,MECH,1,A,Day Scholar,Below 75%
+STU0881,50,76.0,Student_0881,CIVIL,3,A,Hostel,75% and Above
+STU0882,50,84.0,Student_0882,AIML,3,C,Hostel,75% and Above
+STU0883,50,84.0,Student_0883,ECE,4,A,Day Scholar,75% and Above
+STU0884,50,80.0,Student_0884,MECH,3,C,Day Scholar,75% and Above
+STU0885,50,88.0,Student_0885,IT,4,A,Hostel,75% and Above
+STU0886,50,80.0,Student_0886,CSE,3,A,Hostel,75% and Above
+STU0887,50,84.0,Student_0887,AIML,2,B,Hostel,75% and Above
+STU0888,50,78.0,Student_0888,AIML,1,C,Hostel,75% and Above
+STU0889,50,72.0,Student_0889,CIVIL,2,A,Day Scholar,Below 75%
+STU0890,50,78.0,Student_0890,AIML,1,C,Day Scholar,75% and Above
+STU0891,50,82.0,Student_0891,ECE,1,C,Hostel,75% and Above
+STU0892,50,86.0,Student_0892,MECH,1,D,Hostel,75% and Above
+STU0893,50,80.0,Student_0893,MECH,2,B,Hostel,75% and Above
+STU0894,50,78.0,Student_0894,IT,1,B,Hostel,75% and Above
+STU0895,50,80.0,Student_0895,CSE,2,B,Hostel,75% and Above
+STU0896,50,82.0,Student_0896,CIVIL,4,D,Hostel,75% and Above
+STU0897,50,90.0,Student_0897,CSE,3,D,Day Scholar,75% and Above
+STU0898,50,86.0,Student_0898,AIML,3,B,Day Scholar,75% and Above
+STU0899,50,84.0,Student_0899,IT,1,D,Day Scholar,75% and Above
+STU0900,50,76.0,Student_0900,CSE,2,D,Hostel,75% and Above
+STU0901,50,80.0,Student_0901,ECE,3,D,Hostel,75% and Above
+STU0902,50,78.0,Student_0902,MECH,2,B,Hostel,75% and Above
+STU0903,50,78.0,Student_0903,AIML,2,B,Day Scholar,75% and Above
+STU0904,50,80.0,Student_0904,IT,1,B,Hostel,75% and Above
+STU0905,50,86.0,Student_0905,CSE,3,D,Hostel,75% and Above
+STU0906,50,80.0,Student_0906,CIVIL,1,B,Day Scholar,75% and Above
+STU0907,50,70.0,Student_0907,ECE,1,D,Hostel,Below 75%
+STU0908,50,86.0,Student_0908,ECE,3,A,Day Scholar,75% and Above
+STU0909,50,76.0,Student_0909,CSE,3,D,Day Scholar,75% and Above
+STU0910,50,78.0,Student_0910,MECH,4,C,Hostel,75% and Above
+STU0911,50,90.0,Student_0911,CSE,4,B,Day Scholar,75% and Above
+STU0912,50,80.0,Student_0912,AIML,2,B,Hostel,75% and Above
+STU0913,50,78.0,Student_0913,CSE,3,C,Day Scholar,75% and Above
+STU0914,50,84.0,Student_0914,ECE,4,D,Hostel,75% and Above
+STU0915,50,80.0,Student_0915,IT,2,A,Day Scholar,75% and Above
+STU0916,50,86.0,Student_0916,CSE,2,C,Hostel,75% and Above
+STU0917,50,84.0,Student_0917,MECH,2,C,Day Scholar,75% and Above
+STU0918,50,92.0,Student_0918,IT,4,D,Day Scholar,75% and Above
+STU0919,50,78.0,Student_0919,CIVIL,3,B,Day Scholar,75% and Above
+STU0920,50,84.0,Student_0920,EEE,1,D,Hostel,75% and Above
+STU0921,50,70.0,Student_0921,CSE,2,C,Hostel,Below 75%
+STU0922,50,84.0,Student_0922,MECH,4,C,Day Scholar,75% and Above
+STU0923,50,72.0,Student_0923,IT,4,B,Hostel,Below 75%
+STU0924,50,82.0,Student_0924,MECH,1,B,Day Scholar,75% and Above
+STU0925,50,80.0,Student_0925,CIVIL,1,B,Hostel,75% and Above
+STU0926,50,80.0,Student_0926,ECE,4,D,Day Scholar,75% and Above
+STU0927,50,86.0,Student_0927,MECH,3,B,Hostel,75% and Above
+STU0928,50,84.0,Student_0928,IT,1,C,Day Scholar,75% and Above
+STU0929,50,86.0,Student_0929,MECH,4,C,Day Scholar,75% and Above
+STU0930,50,80.0,Student_0930,MECH,1,A,Day Scholar,75% and Above
+STU0931,50,80.0,Student_0931,MECH,3,D,Day Scholar,75% and Above
+STU0932,50,82.0,Student_0932,AIML,2,A,Hostel,75% and Above
+STU0933,50,88.0,Student_0933,AIML,1,C,Day Scholar,75% and Above
+STU0934,50,86.0,Student_0934,ECE,3,A,Hostel,75% and Above
+STU0935,50,78.0,Student_0935,CSE,4,C,Hostel,75% and Above
+STU0936,50,74.0,Student_0936,MECH,1,A,Day Scholar,Below 75%
+STU0937,50,88.0,Student_0937,CIVIL,1,B,Hostel,75% and Above
+STU0938,50,78.0,Student_0938,CSE,4,A,Hostel,75% and Above
+STU0939,50,86.0,Student_0939,CIVIL,2,B,Hostel,75% and Above
+STU0940,50,84.0,Student_0940,CSE,4,B,Day Scholar,75% and Above
+STU0941,50,84.0,Student_0941,ECE,1,D,Hostel,75% and Above
+STU0942,50,80.0,Student_0942,MECH,4,B,Hostel,75% and Above
+STU0943,50,86.0,Student_0943,MECH,3,B,Day Scholar,75% and Above
+STU0944,50,76.0,Student_0944,EEE,4,A,Day Scholar,75% and Above
+STU0945,50,74.0,Student_0945,CIVIL,1,C,Hostel,Below 75%
+STU0946,50,76.0,Student_0946,CSE,4,D,Day Scholar,75% and Above
+STU0947,50,76.0,Student_0947,CSE,2,B,Hostel,75% and Above
+STU0948,50,82.0,Student_0948,AIML,4,D,Hostel,75% and Above
+STU0949,50,82.0,Student_0949,EEE,2,A,Hostel,75% and Above
+STU0950,50,82.0,Student_0950,IT,3,B,Day Scholar,75% and Above
+STU0951,50,70.0,Student_0951,IT,2,A,Hostel,Below 75%
+STU0952,50,68.0,Student_0952,AIML,4,D,Day Scholar,Below 75%
+STU0953,50,84.0,Student_0953,AIML,1,A,Day Scholar,75% and Above
+STU0954,50,72.0,Student_0954,AIML,2,D,Hostel,Below 75%
+STU0955,50,80.0,Student_0955,CIVIL,3,A,Day Scholar,75% and Above
+STU0956,50,90.0,Student_0956,CIVIL,2,D,Day Scholar,75% and Above
+STU0957,50,82.0,Student_0957,ECE,2,C,Day Scholar,75% and Above
+STU0958,50,80.0,Student_0958,ECE,2,A,Day Scholar,75% and Above
+STU0959,50,78.0,Student_0959,AIML,3,A,Day Scholar,75% and Above
+STU0960,50,88.0,Student_0960,EEE,4,C,Hostel,75% and Above
+STU0961,50,78.0,Student_0961,CSE,2,C,Day Scholar,75% and Above
+STU0962,50,82.0,Student_0962,CIVIL,2,A,Hostel,75% and Above
+STU0963,50,88.0,Student_0963,EEE,1,C,Hostel,75% and Above
+STU0964,50,80.0,Student_0964,MECH,3,B,Hostel,75% and Above
+STU0965,50,84.0,Student_0965,CIVIL,2,D,Hostel,75% and Above
+STU0966,50,82.0,Student_0966,CIVIL,3,D,Hostel,75% and Above
+STU0967,50,86.0,Student_0967,ECE,2,D,Hostel,75% and Above
+STU0968,50,74.0,Student_0968,CSE,4,B,Day Scholar,Below 75%
+STU0969,50,76.0,Student_0969,CSE,4,C,Day Scholar,75% and Above
+STU0970,50,82.0,Student_0970,IT,2,C,Day Scholar,75% and Above
+STU0971,50,84.0,Student_0971,IT,4,A,Hostel,75% and Above
+STU0972,50,80.0,Student_0972,IT,2,C,Day Scholar,75% and Above
+STU0973,50,82.0,Student_0973,IT,4,A,Day Scholar,75% and Above
+STU0974,50,80.0,Student_0974,MECH,1,B,Day Scholar,75% and Above
+STU0975,50,86.0,Student_0975,MECH,1,D,Hostel,75% and Above
+STU0976,50,84.0,Student_0976,CIVIL,1,D,Day Scholar,75% and Above
+STU0977,50,80.0,Student_0977,AIML,3,D,Hostel,75% and Above
+STU0978,50,82.0,Student_0978,ECE,3,C,Day Scholar,75% and Above
+STU0979,50,80.0,Student_0979,ECE,1,A,Hostel,75% and Above
+STU0980,50,78.0,Student_0980,IT,3,A,Hostel,75% and Above
+STU0981,50,88.0,Student_0981,CIVIL,4,B,Hostel,75% and Above
+STU0982,50,76.0,Student_0982,EEE,2,C,Day Scholar,75% and Above
+STU0983,50,76.0,Student_0983,AIML,2,B,Day Scholar,75% and Above
+STU0984,50,80.0,Student_0984,CIVIL,2,A,Hostel,75% and Above
+STU0985,50,88.0,Student_0985,AIML,1,A,Day Scholar,75% and Above
+STU0986,50,90.0,Student_0986,AIML,3,D,Hostel,75% and Above
+STU0987,50,88.0,Student_0987,AIML,4,C,Hostel,75% and Above
+STU0988,50,76.0,Student_0988,CIVIL,4,A,Day Scholar,75% and Above
+STU0989,50,82.0,Student_0989,IT,1,D,Day Scholar,75% and Above
+STU0990,50,80.0,Student_0990,ECE,4,C,Day Scholar,75% and Above
+STU0991,50,88.0,Student_0991,ECE,4,B,Hostel,75% and Above
+STU0992,50,82.0,Student_0992,IT,4,C,Hostel,75% and Above
+STU0993,50,80.0,Student_0993,AIML,4,C,Day Scholar,75% and Above
+STU0994,50,80.0,Student_0994,EEE,3,A,Hostel,75% and Above
+STU0995,50,78.0,Student_0995,CSE,4,A,Day Scholar,75% and Above
+STU0996,50,88.0,Student_0996,CIVIL,2,C,Hostel,75% and Above
+STU0997,50,86.0,Student_0997,CSE,1,A,Day Scholar,75% and Above
+STU0998,50,74.0,Student_0998,IT,3,A,Day Scholar,Below 75%
+STU0999,50,88.0,Student_0999,EEE,4,A,Hostel,75% and Above
+STU1000,50,74.0,Student_1000,CIVIL,3,D,Day Scholar,Below 75%
+STU1001,50,86.0,Student_1001,IT,4,D,Day Scholar,75% and Above
+STU1002,50,84.0,Student_1002,AIML,2,C,Hostel,75% and Above
+STU1003,50,78.0,Student_1003,ECE,1,A,Day Scholar,75% and Above
+STU1004,50,82.0,Student_1004,CSE,4,D,Hostel,75% and Above
+STU1005,50,72.0,Student_1005,MECH,4,C,Day Scholar,Below 75%
+STU1006,50,74.0,Student_1006,MECH,4,A,Hostel,Below 75%
+STU1007,50,88.0,Student_1007,EEE,4,B,Day Scholar,75% and Above
+STU1008,50,84.0,Student_1008,AIML,1,A,Day Scholar,75% and Above
+STU1009,50,74.0,Student_1009,CSE,1,A,Day Scholar,Below 75%
+STU1010,50,82.0,Student_1010,AIML,2,D,Day Scholar,75% and Above
+STU1011,50,78.0,Student_1011,CSE,1,C,Hostel,75% and Above
+STU1012,50,78.0,Student_1012,EEE,4,C,Hostel,75% and Above
+STU1013,50,90.0,Student_1013,EEE,2,D,Hostel,75% and Above
+STU1014,50,90.0,Student_1014,MECH,2,A,Hostel,75% and Above
+STU1015,50,86.0,Student_1015,AIML,2,B,Hostel,75% and Above
+STU1016,50,86.0,Student_1016,CIVIL,4,A,Hostel,75% and Above
+STU1017,50,80.0,Student_1017,MECH,3,A,Hostel,75% and Above
+STU1018,50,84.0,Student_1018,AIML,4,B,Day Scholar,75% and Above
+STU1019,50,72.0,Student_1019,MECH,1,D,Day Scholar,Below 75%
+STU1020,50,74.0,Student_1020,CIVIL,1,C,Day Scholar,Below 75%
+STU1021,50,86.0,Student_1021,ECE,4,D,Day Scholar,75% and Above
+STU1022,50,84.0,Student_1022,ECE,4,D,Hostel,75% and Above
+STU1023,50,78.0,Student_1023,ECE,2,A,Hostel,75% and Above
+STU1024,50,86.0,Student_1024,ECE,4,C,Hostel,75% and Above
+STU1025,50,92.0,Student_1025,IT,2,C,Day Scholar,75% and Above
+STU1026,50,80.0,Student_1026,CSE,1,D,Hostel,75% and Above
+STU1027,50,84.0,Student_1027,IT,2,B,Day Scholar,75% and Above
+STU1028,50,78.0,Student_1028,IT,4,D,Hostel,75% and Above
+STU1029,50,76.0,Student_1029,IT,1,B,Hostel,75% and Above
+STU1030,50,86.0,Student_1030,ECE,3,C,Hostel,75% and Above
+STU1031,50,80.0,Student_1031,CIVIL,2,D,Hostel,75% and Above
+STU1032,50,80.0,Student_1032,EEE,1,A,Day Scholar,75% and Above
+STU1033,50,76.0,Student_1033,EEE,2,D,Day Scholar,75% and Above
+STU1034,50,82.0,Student_1034,CSE,1,C,Hostel,75% and Above
+STU1035,50,84.0,Student_1035,ECE,1,A,Day Scholar,75% and Above
+STU1036,50,84.0,Student_1036,ECE,2,A,Hostel,75% and Above
+STU1037,50,80.0,Student_1037,ECE,3,B,Hostel,75% and Above
+STU1038,50,82.0,Student_1038,MECH,1,A,Hostel,75% and Above
+STU1039,50,80.0,Student_1039,AIML,1,A,Hostel,75% and Above
+STU1040,50,82.0,Student_1040,MECH,1,D,Day Scholar,75% and Above
+STU1041,50,76.0,Student_1041,AIML,3,C,Hostel,75% and Above
+STU1042,50,80.0,Student_1042,ECE,3,B,Hostel,75% and Above
+STU1043,50,78.0,Student_1043,ECE,4,D,Day Scholar,75% and Above
+STU1044,50,80.0,Student_1044,MECH,2,A,Hostel,75% and Above
+STU1045,50,88.0,Student_1045,MECH,3,A,Day Scholar,75% and Above
+STU1046,50,82.0,Student_1046,AIML,2,B,Hostel,75% and Above
+STU1047,50,82.0,Student_1047,EEE,4,C,Hostel,75% and Above
+STU1048,50,84.0,Student_1048,AIML,2,B,Hostel,75% and Above
+STU1049,50,86.0,Student_1049,MECH,3,D,Hostel,75% and Above
+STU1050,50,80.0,Student_1050,CIVIL,2,B,Hostel,75% and Above
+STU1051,50,74.0,Student_1051,MECH,3,A,Hostel,Below 75%
+STU1052,50,92.0,Student_1052,CIVIL,2,D,Day Scholar,75% and Above
+STU1053,50,76.0,Student_1053,CSE,3,A,Hostel,75% and Above
+STU1054,50,82.0,Student_1054,MECH,3,C,Day Scholar,75% and Above
+STU1055,50,78.0,Student_1055,CSE,2,A,Day Scholar,75% and Above
+STU1056,50,84.0,Student_1056,EEE,4,A,Hostel,75% and Above
+STU1057,50,78.0,Student_1057,AIML,1,B,Day Scholar,75% and Above
+STU1058,50,88.0,Student_1058,CIVIL,4,A,Hostel,75% and Above
+STU1059,50,82.0,Student_1059,AIML,2,D,Day Scholar,75% and Above
+STU1060,50,86.0,Student_1060,CSE,4,D,Hostel,75% and Above
+STU1061,50,88.0,Student_1061,CIVIL,3,C,Day Scholar,75% and Above
+STU1062,50,76.0,Student_1062,AIML,1,D,Day Scholar,75% and Above
+STU1063,50,84.0,Student_1063,MECH,2,B,Hostel,75% and Above
+STU1064,50,88.0,Student_1064,ECE,2,C,Day Scholar,75% and Above
+STU1065,50,74.0,Student_1065,CSE,2,D,Hostel,Below 75%
+STU1066,50,76.0,Student_1066,AIML,1,B,Hostel,75% and Above
+STU1067,50,84.0,Student_1067,CSE,3,D,Hostel,75% and Above
+STU1068,50,80.0,Student_1068,IT,2,D,Hostel,75% and Above
+STU1069,50,82.0,Student_1069,CSE,4,A,Hostel,75% and Above
+STU1070,50,84.0,Student_1070,CIVIL,2,D,Day Scholar,75% and Above
+STU1071,50,72.0,Student_1071,IT,2,D,Day Scholar,Below 75%
+STU1072,50,86.0,Student_1072,CIVIL,2,B,Day Scholar,75% and Above
+STU1073,50,84.0,Student_1073,ECE,2,B,Hostel,75% and Above
+STU1074,50,78.0,Student_1074,IT,3,A,Day Scholar,75% and Above
+STU1075,50,84.0,Student_1075,MECH,4,D,Day Scholar,75% and Above
+STU1076,50,86.0,Student_1076,CSE,3,A,Day Scholar,75% and Above
+STU1077,50,90.0,Student_1077,AIML,4,D,Day Scholar,75% and Above
+STU1078,50,90.0,Student_1078,EEE,2,C,Day Scholar,75% and Above
+STU1079,50,78.0,Student_1079,CSE,1,C,Hostel,75% and Above
+STU1080,50,78.0,Student_1080,CSE,3,A,Hostel,75% and Above
+STU1081,50,86.0,Student_1081,ECE,1,A,Day Scholar,75% and Above
+STU1082,50,86.0,Student_1082,MECH,3,A,Hostel,75% and Above
+STU1083,50,82.0,Student_1083,EEE,2,B,Hostel,75% and Above
+STU1084,50,70.0,Student_1084,IT,3,B,Day Scholar,Below 75%
+STU1085,50,70.0,Student_1085,IT,2,B,Day Scholar,Below 75%
+STU1086,50,80.0,Student_1086,IT,3,A,Hostel,75% and Above
+STU1087,50,80.0,Student_1087,CIVIL,2,D,Day Scholar,75% and Above
+STU1088,50,80.0,Student_1088,CIVIL,2,C,Hostel,75% and Above
+STU1089,50,94.0,Student_1089,AIML,4,A,Hostel,75% and Above
+STU1090,50,72.0,Student_1090,EEE,2,B,Day Scholar,Below 75%
+STU1091,50,80.0,Student_1091,IT,4,B,Hostel,75% and Above
+STU1092,50,82.0,Student_1092,CIVIL,2,A,Hostel,75% and Above
+STU1093,50,88.0,Student_1093,AIML,1,A,Hostel,75% and Above
+STU1094,50,88.0,Student_1094,MECH,2,B,Day Scholar,75% and Above
+STU1095,50,78.0,Student_1095,AIML,1,D,Day Scholar,75% and Above
+STU1096,50,72.0,Student_1096,CIVIL,1,B,Day Scholar,Below 75%
+STU1097,50,80.0,Student_1097,ECE,2,B,Day Scholar,75% and Above
+STU1098,50,86.0,Student_1098,ECE,1,A,Hostel,75% and Above
+STU1099,50,82.0,Student_1099,IT,4,D,Day Scholar,75% and Above
+STU1100,50,78.0,Student_1100,ECE,3,B,Day Scholar,75% and Above
+STU1101,50,82.0,Student_1101,IT,2,B,Day Scholar,75% and Above
+STU1102,50,86.0,Student_1102,IT,1,C,Day Scholar,75% and Above
+STU1103,50,84.0,Student_1103,CIVIL,2,A,Hostel,75% and Above
+STU1104,50,68.0,Student_1104,ECE,4,C,Hostel,Below 75%
+STU1105,50,90.0,Student_1105,IT,2,C,Hostel,75% and Above
+STU1106,50,78.0,Student_1106,EEE,2,B,Day Scholar,75% and Above
+STU1107,50,74.0,Student_1107,MECH,1,A,Day Scholar,Below 75%
+STU1108,50,80.0,Student_1108,AIML,4,D,Hostel,75% and Above
+STU1109,50,82.0,Student_1109,AIML,3,B,Day Scholar,75% and Above
+STU1110,50,84.0,Student_1110,CIVIL,3,D,Day Scholar,75% and Above
+STU1111,50,90.0,Student_1111,ECE,1,D,Hostel,75% and Above
+STU1112,50,76.0,Student_1112,ECE,2,A,Hostel,75% and Above
+STU1113,50,88.0,Student_1113,IT,1,C,Day Scholar,75% and Above
+STU1114,50,80.0,Student_1114,CSE,1,A,Day Scholar,75% and Above
+STU1115,50,80.0,Student_1115,IT,1,D,Day Scholar,75% and Above
+STU1116,50,86.0,Student_1116,MECH,2,B,Hostel,75% and Above
+STU1117,50,88.0,Student_1117,EEE,4,D,Hostel,75% and Above
+STU1118,50,78.0,Student_1118,AIML,1,B,Hostel,75% and Above
+STU1119,50,80.0,Student_1119,IT,2,B,Hostel,75% and Above
+STU1120,50,82.0,Student_1120,CSE,4,A,Day Scholar,75% and Above
+STU1121,50,74.0,Student_1121,CSE,1,D,Hostel,Below 75%
+STU1122,50,78.0,Student_1122,IT,3,C,Hostel,75% and Above
+STU1123,50,88.0,Student_1123,CIVIL,4,D,Day Scholar,75% and Above
+STU1124,50,70.0,Student_1124,AIML,1,D,Day Scholar,Below 75%
+STU1125,50,94.0,Student_1125,CIVIL,4,C,Day Scholar,75% and Above
+STU1126,50,88.0,Student_1126,EEE,4,A,Hostel,75% and Above
+STU1127,50,88.0,Student_1127,CSE,4,D,Day Scholar,75% and Above
+STU1128,50,76.0,Student_1128,CSE,4,D,Day Scholar,75% and Above
+STU1129,50,84.0,Student_1129,MECH,4,B,Hostel,75% and Above
+STU1130,50,90.0,Student_1130,EEE,4,D,Hostel,75% and Above
+STU1131,50,72.0,Student_1131,CSE,1,C,Day Scholar,Below 75%
+STU1132,50,80.0,Student_1132,EEE,3,B,Hostel,75% and Above
+STU1133,50,86.0,Student_1133,AIML,2,A,Day Scholar,75% and Above
+STU1134,50,82.0,Student_1134,ECE,4,B,Day Scholar,75% and Above
+STU1135,50,80.0,Student_1135,CSE,2,C,Hostel,75% and Above
+STU1136,50,80.0,Student_1136,MECH,1,C,Day Scholar,75% and Above
+STU1137,50,80.0,Student_1137,AIML,4,B,Hostel,75% and Above
+STU1138,50,86.0,Student_1138,IT,3,A,Hostel,75% and Above
+STU1139,50,92.0,Student_1139,EEE,2,B,Hostel,75% and Above
+STU1140,50,84.0,Student_1140,IT,4,A,Day Scholar,75% and Above
+STU1141,50,84.0,Student_1141,CIVIL,1,B,Hostel,75% and Above
+STU1142,50,82.0,Student_1142,AIML,3,C,Hostel,75% and Above
+STU1143,50,88.0,Student_1143,IT,2,D,Day Scholar,75% and Above
+STU1144,50,80.0,Student_1144,CSE,2,D,Day Scholar,75% and Above
+STU1145,50,84.0,Student_1145,EEE,4,A,Day Scholar,75% and Above
+STU1146,50,84.0,Student_1146,ECE,3,A,Day Scholar,75% and Above
+STU1147,50,90.0,Student_1147,AIML,3,A,Hostel,75% and Above
+STU1148,50,82.0,Student_1148,CSE,3,C,Hostel,75% and Above
+STU1149,50,80.0,Student_1149,MECH,3,B,Hostel,75% and Above
+STU1150,50,88.0,Student_1150,CIVIL,1,C,Day Scholar,75% and Above
+STU1151,50,82.0,Student_1151,EEE,3,D,Day Scholar,75% and Above
+STU1152,50,88.0,Student_1152,AIML,2,A,Hostel,75% and Above
+STU1153,50,78.0,Student_1153,AIML,2,B,Day Scholar,75% and Above
+STU1154,50,84.0,Student_1154,ECE,1,D,Day Scholar,75% and Above
+STU1155,50,76.0,Student_1155,ECE,2,D,Hostel,75% and Above
+STU1156,50,80.0,Student_1156,MECH,2,D,Hostel,75% and Above
+STU1157,50,76.0,Student_1157,CIVIL,3,C,Day Scholar,75% and Above
+STU1158,50,80.0,Student_1158,MECH,2,A,Day Scholar,75% and Above
+STU1159,50,80.0,Student_1159,CSE,1,D,Day Scholar,75% and Above
+STU1160,50,92.0,Student_1160,CSE,3,A,Hostel,75% and Above
+STU1161,50,82.0,Student_1161,MECH,4,C,Hostel,75% and Above
+STU1162,50,80.0,Student_1162,CIVIL,3,D,Hostel,75% and Above
+STU1163,50,84.0,Student_1163,MECH,1,C,Hostel,75% and Above
+STU1164,50,80.0,Student_1164,CIVIL,3,C,Hostel,75% and Above
+STU1165,50,88.0,Student_1165,CIVIL,3,A,Day Scholar,75% and Above
+STU1166,50,80.0,Student_1166,IT,1,D,Day Scholar,75% and Above
+STU1167,50,82.0,Student_1167,EEE,3,C,Day Scholar,75% and Above
+STU1168,50,74.0,Student_1168,CIVIL,1,D,Hostel,Below 75%
+STU1169,50,84.0,Student_1169,ECE,1,A,Hostel,75% and Above
+STU1170,50,84.0,Student_1170,CIVIL,4,C,Hostel,75% and Above
+STU1171,50,88.0,Student_1171,CIVIL,2,A,Day Scholar,75% and Above
+STU1172,50,84.0,Student_1172,CIVIL,2,D,Hostel,75% and Above
+STU1173,50,72.0,Student_1173,IT,3,D,Hostel,Below 75%
+STU1174,50,82.0,Student_1174,IT,3,A,Day Scholar,75% and Above
+STU1175,50,80.0,Student_1175,CSE,4,B,Hostel,75% and Above
+STU1176,50,84.0,Student_1176,IT,4,C,Day Scholar,75% and Above
+STU1177,50,92.0,Student_1177,ECE,4,D,Hostel,75% and Above
+STU1178,50,86.0,Student_1178,ECE,1,D,Hostel,75% and Above
+STU1179,50,72.0,Student_1179,IT,4,C,Day Scholar,Below 75%
+STU1180,50,84.0,Student_1180,MECH,4,A,Day Scholar,75% and Above
+STU1181,50,80.0,Student_1181,EEE,3,A,Day Scholar,75% and Above
+STU1182,50,82.0,Student_1182,IT,4,A,Day Scholar,75% and Above
+STU1183,50,88.0,Student_1183,CIVIL,1,B,Day Scholar,75% and Above
+STU1184,50,88.0,Student_1184,AIML,1,B,Day Scholar,75% and Above
+STU1185,50,78.0,Student_1185,EEE,3,D,Hostel,75% and Above
+STU1186,50,82.0,Student_1186,EEE,4,A,Hostel,75% and Above
+STU1187,50,90.0,Student_1187,ECE,4,C,Day Scholar,75% and Above
+STU1188,50,84.0,Student_1188,EEE,1,D,Hostel,75% and Above
+STU1189,50,80.0,Student_1189,IT,4,C,Day Scholar,75% and Above
+STU1190,50,80.0,Student_1190,CIVIL,4,D,Hostel,75% and Above
+STU1191,50,88.0,Student_1191,CIVIL,4,B,Day Scholar,75% and Above
+STU1192,50,90.0,Student_1192,CSE,2,D,Hostel,75% and Above
+STU1193,50,80.0,Student_1193,CIVIL,3,B,Hostel,75% and Above
+STU1194,50,82.0,Student_1194,CIVIL,2,D,Hostel,75% and Above
+STU1195,50,76.0,Student_1195,ECE,3,A,Hostel,75% and Above
+STU1196,50,70.0,Student_1196,CIVIL,1,C,Hostel,Below 75%
+STU1197,50,82.0,Student_1197,CSE,4,A,Day Scholar,75% and Above
+STU1198,50,80.0,Student_1198,AIML,3,D,Day Scholar,75% and Above
+STU1199,50,82.0,Student_1199,IT,2,D,Day Scholar,75% and Above
+STU1200,50,84.0,Student_1200,ECE,4,D,Hostel,75% and Above
+STU1201,50,72.0,Student_1201,AIML,1,B,Day Scholar,Below 75%
+STU1202,50,76.0,Student_1202,ECE,3,C,Hostel,75% and Above
+STU1203,50,82.0,Student_1203,MECH,3,C,Hostel,75% and Above
+STU1204,50,82.0,Student_1204,EEE,3,D,Hostel,75% and Above
+STU1205,50,92.0,Student_1205,MECH,4,D,Day Scholar,75% and Above
+STU1206,50,90.0,Student_1206,CIVIL,2,B,Hostel,75% and Above
+STU1207,50,86.0,Student_1207,AIML,2,A,Day Scholar,75% and Above
+STU1208,50,80.0,Student_1208,CIVIL,3,A,Day Scholar,75% and Above
+STU1209,50,80.0,Student_1209,EEE,1,C,Hostel,75% and Above
+STU1210,50,72.0,Student_1210,ECE,1,B,Hostel,Below 75%
+STU1211,50,86.0,Student_1211,EEE,2,D,Day Scholar,75% and Above
+STU1212,50,70.0,Student_1212,CSE,1,C,Day Scholar,Below 75%
+STU1213,50,80.0,Student_1213,EEE,2,B,Day Scholar,75% and Above
+STU1214,50,82.0,Student_1214,CSE,3,A,Day Scholar,75% and Above
+STU1215,50,80.0,Student_1215,EEE,2,B,Day Scholar,75% and Above
+STU1216,50,86.0,Student_1216,IT,2,A,Day Scholar,75% and Above
+STU1217,50,72.0,Student_1217,CSE,3,B,Hostel,Below 75%
+STU1218,50,82.0,Student_1218,AIML,1,C,Day Scholar,75% and Above
+STU1219,50,74.0,Student_1219,CIVIL,2,A,Day Scholar,Below 75%
+STU1220,50,88.0,Student_1220,CIVIL,2,C,Day Scholar,75% and Above
+STU1221,50,78.0,Student_1221,MECH,3,C,Day Scholar,75% and Above
+STU1222,50,88.0,Student_1222,CIVIL,1,A,Hostel,75% and Above
+STU1223,50,82.0,Student_1223,ECE,2,A,Hostel,75% and Above
+STU1224,50,78.0,Student_1224,IT,3,D,Day Scholar,75% and Above
+STU1225,50,80.0,Student_1225,EEE,2,D,Day Scholar,75% and Above
+STU1226,50,84.0,Student_1226,MECH,4,D,Day Scholar,75% and Above
+STU1227,50,80.0,Student_1227,ECE,3,C,Hostel,75% and Above
+STU1228,50,78.0,Student_1228,ECE,1,C,Hostel,75% and Above
+STU1229,50,80.0,Student_1229,CSE,1,D,Hostel,75% and Above
+STU1230,50,92.0,Student_1230,CIVIL,1,C,Hostel,75% and Above
+STU1231,50,90.0,Student_1231,AIML,1,C,Hostel,75% and Above
+STU1232,50,86.0,Student_1232,AIML,2,A,Hostel,75% and Above
+STU1233,50,90.0,Student_1233,MECH,2,A,Day Scholar,75% and Above
+STU1234,50,86.0,Student_1234,IT,1,C,Hostel,75% and Above
+STU1235,50,90.0,Student_1235,AIML,1,D,Hostel,75% and Above
+STU1236,50,80.0,Student_1236,EEE,1,B,Day Scholar,75% and Above
+STU1237,50,82.0,Student_1237,AIML,2,D,Hostel,75% and Above
+STU1238,50,82.0,Student_1238,MECH,1,B,Day Scholar,75% and Above
+STU1239,50,78.0,Student_1239,AIML,1,D,Hostel,75% and Above
+STU1240,50,80.0,Student_1240,EEE,4,A,Day Scholar,75% and Above
+STU1241,50,78.0,Student_1241,CSE,4,C,Day Scholar,75% and Above
+STU1242,50,82.0,Student_1242,IT,1,C,Day Scholar,75% and Above
+STU1243,50,76.0,Student_1243,MECH,3,A,Day Scholar,75% and Above
+STU1244,50,86.0,Student_1244,CSE,1,B,Day Scholar,75% and Above
+STU1245,50,82.0,Student_1245,CSE,4,B,Hostel,75% and Above
+STU1246,50,86.0,Student_1246,CSE,3,B,Hostel,75% and Above
+STU1247,50,90.0,Student_1247,ECE,3,A,Day Scholar,75% and Above
+STU1248,50,80.0,Student_1248,IT,1,B,Day Scholar,75% and Above
+STU1249,50,92.0,Student_1249,CIVIL,4,A,Day Scholar,75% and Above
+STU1250,50,88.0,Student_1250,IT,4,D,Hostel,75% and Above
+STU1251,50,76.0,Student_1251,ECE,3,D,Day Scholar,75% and Above
+STU1252,50,80.0,Student_1252,CIVIL,1,A,Day Scholar,75% and Above
+STU1253,50,82.0,Student_1253,IT,2,C,Day Scholar,75% and Above
+STU1254,50,82.0,Student_1254,CSE,2,D,Day Scholar,75% and Above
+STU1255,50,84.0,Student_1255,MECH,4,B,Hostel,75% and Above
+STU1256,50,76.0,Student_1256,CIVIL,2,A,Day Scholar,75% and Above
+STU1257,50,84.0,Student_1257,EEE,4,B,Day Scholar,75% and Above
+STU1258,50,84.0,Student_1258,EEE,4,B,Hostel,75% and Above
+STU1259,50,82.0,Student_1259,AIML,4,C,Day Scholar,75% and Above
+STU1260,50,82.0,Student_1260,CIVIL,2,B,Day Scholar,75% and Above
+STU1261,50,86.0,Student_1261,MECH,4,C,Hostel,75% and Above
+STU1262,50,86.0,Student_1262,ECE,3,D,Hostel,75% and Above
+STU1263,50,90.0,Student_1263,CSE,1,A,Hostel,75% and Above
+STU1264,50,86.0,Student_1264,AIML,1,B,Day Scholar,75% and Above
+STU1265,50,82.0,Student_1265,EEE,4,A,Day Scholar,75% and Above
+STU1266,50,90.0,Student_1266,ECE,1,B,Hostel,75% and Above
+STU1267,50,66.0,Student_1267,ECE,2,A,Hostel,Below 75%
+STU1268,50,86.0,Student_1268,CSE,2,B,Hostel,75% and Above
+STU1269,50,88.0,Student_1269,CIVIL,1,B,Day Scholar,75% and Above
+STU1270,50,84.0,Student_1270,EEE,2,B,Day Scholar,75% and Above
+STU1271,50,88.0,Student_1271,MECH,1,B,Hostel,75% and Above
+STU1272,50,82.0,Student_1272,ECE,1,B,Day Scholar,75% and Above
+STU1273,50,72.0,Student_1273,CSE,1,B,Hostel,Below 75%
+STU1274,50,90.0,Student_1274,MECH,4,B,Day Scholar,75% and Above
+STU1275,50,84.0,Student_1275,CIVIL,1,B,Day Scholar,75% and Above
+STU1276,50,86.0,Student_1276,EEE,4,B,Day Scholar,75% and Above
+STU1277,50,80.0,Student_1277,CIVIL,1,A,Day Scholar,75% and Above
+STU1278,50,78.0,Student_1278,ECE,1,C,Hostel,75% and Above
+STU1279,50,88.0,Student_1279,MECH,1,B,Day Scholar,75% and Above
+STU1280,50,88.0,Student_1280,MECH,2,C,Day Scholar,75% and Above
+STU1281,50,84.0,Student_1281,MECH,4,B,Hostel,75% and Above
+STU1282,50,80.0,Student_1282,ECE,4,B,Day Scholar,75% and Above
+STU1283,50,76.0,Student_1283,ECE,1,A,Hostel,75% and Above
+STU1284,50,84.0,Student_1284,CIVIL,1,D,Hostel,75% and Above
+STU1285,50,86.0,Student_1285,AIML,2,D,Day Scholar,75% and Above
+STU1286,50,88.0,Student_1286,CIVIL,2,A,Day Scholar,75% and Above
+STU1287,50,76.0,Student_1287,EEE,2,C,Hostel,75% and Above
+STU1288,50,86.0,Student_1288,CSE,4,D,Hostel,75% and Above
+STU1289,50,86.0,Student_1289,MECH,4,A,Hostel,75% and Above
+STU1290,50,84.0,Student_1290,AIML,4,A,Day Scholar,75% and Above
+STU1291,50,78.0,Student_1291,CSE,1,D,Hostel,75% and Above
+STU1292,50,78.0,Student_1292,AIML,4,C,Hostel,75% and Above
+STU1293,50,86.0,Student_1293,IT,3,A,Hostel,75% and Above
+STU1294,50,80.0,Student_1294,CIVIL,3,B,Day Scholar,75% and Above
+STU1295,50,84.0,Student_1295,ECE,2,C,Hostel,75% and Above
+STU1296,50,86.0,Student_1296,MECH,4,C,Day Scholar,75% and Above
+STU1297,50,90.0,Student_1297,CIVIL,3,D,Day Scholar,75% and Above
+STU1298,50,68.0,Student_1298,CSE,2,D,Hostel,Below 75%
+STU1299,50,84.0,Student_1299,IT,4,B,Day Scholar,75% and Above
+STU1300,50,90.0,Student_1300,IT,1,A,Hostel,75% and Above
+STU1301,50,80.0,Student_1301,IT,3,D,Day Scholar,75% and Above
+STU1302,50,74.0,Student_1302,CSE,1,D,Day Scholar,Below 75%
+STU1303,50,86.0,Student_1303,CSE,4,C,Hostel,75% and Above
+STU1304,50,72.0,Student_1304,CSE,3,D,Hostel,Below 75%
+STU1305,50,76.0,Student_1305,CSE,4,D,Hostel,75% and Above
+STU1306,50,88.0,Student_1306,IT,1,D,Day Scholar,75% and Above
+STU1307,50,74.0,Student_1307,IT,3,D,Day Scholar,Below 75%
+STU1308,50,80.0,Student_1308,AIML,1,C,Hostel,75% and Above
+STU1309,50,92.0,Student_1309,CIVIL,4,B,Hostel,75% and Above
+STU1310,50,70.0,Student_1310,MECH,4,B,Day Scholar,Below 75%
+STU1311,50,90.0,Student_1311,ECE,1,A,Day Scholar,75% and Above
+STU1312,50,84.0,Student_1312,IT,3,D,Day Scholar,75% and Above
+STU1313,50,78.0,Student_1313,ECE,1,C,Hostel,75% and Above
+STU1314,50,76.0,Student_1314,CIVIL,4,A,Day Scholar,75% and Above
+STU1315,50,78.0,Student_1315,CIVIL,1,A,Hostel,75% and Above
+STU1316,50,84.0,Student_1316,ECE,4,B,Day Scholar,75% and Above
+STU1317,50,82.0,Student_1317,IT,1,C,Day Scholar,75% and Above
+STU1318,50,80.0,Student_1318,ECE,3,C,Hostel,75% and Above
+STU1319,50,82.0,Student_1319,AIML,3,C,Hostel,75% and Above
+STU1320,50,78.0,Student_1320,EEE,1,B,Hostel,75% and Above
+STU1321,50,84.0,Student_1321,IT,1,B,Day Scholar,75% and Above
+STU1322,50,88.0,Student_1322,IT,3,B,Day Scholar,75% and Above
+STU1323,50,78.0,Student_1323,MECH,4,B,Day Scholar,75% and Above
+STU1324,50,86.0,Student_1324,CSE,3,B,Hostel,75% and Above
+STU1325,50,84.0,Student_1325,EEE,4,D,Day Scholar,75% and Above
+STU1326,50,82.0,Student_1326,CIVIL,1,D,Hostel,75% and Above
+STU1327,50,84.0,Student_1327,IT,1,C,Hostel,75% and Above
+STU1328,50,78.0,Student_1328,ECE,4,A,Hostel,75% and Above
+STU1329,50,82.0,Student_1329,EEE,1,C,Day Scholar,75% and Above
+STU1330,50,80.0,Student_1330,MECH,4,A,Day Scholar,75% and Above
+STU1331,50,76.0,Student_1331,CIVIL,2,B,Hostel,75% and Above
+STU1332,50,80.0,Student_1332,CSE,3,A,Day Scholar,75% and Above
+STU1333,50,88.0,Student_1333,CSE,2,C,Hostel,75% and Above
+STU1334,50,70.0,Student_1334,MECH,4,C,Hostel,Below 75%
+STU1335,50,82.0,Student_1335,MECH,3,A,Day Scholar,75% and Above
+STU1336,50,88.0,Student_1336,ECE,4,D,Hostel,75% and Above
+STU1337,50,74.0,Student_1337,IT,3,B,Hostel,Below 75%
+STU1338,50,66.0,Student_1338,CSE,3,B,Day Scholar,Below 75%
+STU1339,50,82.0,Student_1339,CIVIL,3,C,Hostel,75% and Above
+STU1340,50,84.0,Student_1340,EEE,3,D,Hostel,75% and Above
+STU1341,50,78.0,Student_1341,CIVIL,4,A,Hostel,75% and Above
+STU1342,50,78.0,Student_1342,AIML,3,B,Hostel,75% and Above
+STU1343,50,90.0,Student_1343,AIML,3,D,Hostel,75% and Above
+STU1344,50,82.0,Student_1344,MECH,2,B,Hostel,75% and Above
+STU1345,50,80.0,Student_1345,ECE,1,D,Hostel,75% and Above
+STU1346,50,84.0,Student_1346,AIML,1,D,Day Scholar,75% and Above
+STU1347,50,88.0,Student_1347,CSE,2,C,Day Scholar,75% and Above
+STU1348,50,76.0,Student_1348,CIVIL,2,B,Hostel,75% and Above
+STU1349,50,76.0,Student_1349,CIVIL,4,A,Hostel,75% and Above
+STU1350,50,80.0,Student_1350,MECH,4,C,Day Scholar,75% and Above
+STU1351,50,86.0,Student_1351,IT,4,C,Day Scholar,75% and Above
+STU1352,50,80.0,Student_1352,IT,2,A,Day Scholar,75% and Above
+STU1353,50,80.0,Student_1353,EEE,2,C,Day Scholar,75% and Above
+STU1354,50,90.0,Student_1354,MECH,3,D,Day Scholar,75% and Above
+STU1355,50,92.0,Student_1355,EEE,4,D,Hostel,75% and Above
+STU1356,50,88.0,Student_1356,IT,4,B,Day Scholar,75% and Above
+STU1357,50,90.0,Student_1357,MECH,4,B,Day Scholar,75% and Above
+STU1358,50,90.0,Student_1358,MECH,1,A,Day Scholar,75% and Above
+STU1359,50,86.0,Student_1359,MECH,3,B,Hostel,75% and Above
+STU1360,50,80.0,Student_1360,IT,4,D,Hostel,75% and Above
+STU1361,50,78.0,Student_1361,EEE,4,A,Hostel,75% and Above
+STU1362,50,70.0,Student_1362,EEE,4,A,Hostel,Below 75%
+STU1363,50,86.0,Student_1363,MECH,1,B,Hostel,75% and Above
+STU1364,50,80.0,Student_1364,AIML,1,D,Hostel,75% and Above
+STU1365,50,82.0,Student_1365,ECE,2,A,Day Scholar,75% and Above
+STU1366,50,84.0,Student_1366,IT,3,D,Hostel,75% and Above
+STU1367,50,80.0,Student_1367,ECE,2,D,Hostel,75% and Above
+STU1368,50,76.0,Student_1368,ECE,3,D,Day Scholar,75% and Above
+STU1369,50,82.0,Student_1369,EEE,1,B,Hostel,75% and Above
+STU1370,50,86.0,Student_1370,EEE,4,C,Day Scholar,75% and Above
+STU1371,50,78.0,Student_1371,AIML,2,C,Day Scholar,75% and Above
+STU1372,50,78.0,Student_1372,ECE,4,A,Hostel,75% and Above
+STU1373,50,74.0,Student_1373,ECE,2,D,Day Scholar,Below 75%
+STU1374,50,78.0,Student_1374,MECH,1,B,Day Scholar,75% and Above
+STU1375,50,78.0,Student_1375,EEE,1,D,Day Scholar,75% and Above
+STU1376,50,86.0,Student_1376,ECE,1,D,Day Scholar,75% and Above
+STU1377,50,66.0,Student_1377,CIVIL,2,B,Hostel,Below 75%
+STU1378,50,76.0,Student_1378,AIML,3,C,Day Scholar,75% and Above
+STU1379,50,80.0,Student_1379,CIVIL,2,D,Hostel,75% and Above
+STU1380,50,88.0,Student_1380,CIVIL,3,D,Day Scholar,75% and Above
+STU1381,50,88.0,Student_1381,IT,2,C,Day Scholar,75% and Above
+STU1382,50,82.0,Student_1382,IT,2,B,Day Scholar,75% and Above
+STU1383,50,82.0,Student_1383,AIML,1,A,Hostel,75% and Above
+STU1384,50,90.0,Student_1384,CIVIL,4,C,Hostel,75% and Above
+STU1385,50,78.0,Student_1385,ECE,4,A,Hostel,75% and Above
+STU1386,50,78.0,Student_1386,EEE,3,A,Day Scholar,75% and Above
+STU1387,50,88.0,Student_1387,AIML,4,C,Day Scholar,75% and Above
+STU1388,50,80.0,Student_1388,MECH,2,D,Day Scholar,75% and Above
+STU1389,50,82.0,Student_1389,CIVIL,2,A,Day Scholar,75% and Above
+STU1390,50,88.0,Student_1390,AIML,1,A,Hostel,75% and Above
+STU1391,50,86.0,Student_1391,CSE,1,B,Day Scholar,75% and Above
+STU1392,50,82.0,Student_1392,CSE,4,D,Hostel,75% and Above
+STU1393,50,82.0,Student_1393,IT,3,A,Day Scholar,75% and Above
+STU1394,50,88.0,Student_1394,EEE,4,B,Hostel,75% and Above
+STU1395,50,86.0,Student_1395,ECE,4,D,Hostel,75% and Above
+STU1396,50,86.0,Student_1396,EEE,4,C,Day Scholar,75% and Above
+STU1397,50,82.0,Student_1397,EEE,4,C,Day Scholar,75% and Above
+STU1398,50,84.0,Student_1398,EEE,2,B,Hostel,75% and Above
+STU1399,50,80.0,Student_1399,EEE,3,C,Day Scholar,75% and Above
+STU1400,50,78.0,Student_1400,MECH,2,A,Day Scholar,75% and Above
+STU1401,50,84.0,Student_1401,MECH,3,D,Hostel,75% and Above
+STU1402,50,80.0,Student_1402,IT,1,A,Hostel,75% and Above
+STU1403,50,84.0,Student_1403,AIML,4,A,Hostel,75% and Above
+STU1404,50,70.0,Student_1404,CSE,2,C,Hostel,Below 75%
+STU1405,50,84.0,Student_1405,EEE,3,A,Day Scholar,75% and Above
+STU1406,50,72.0,Student_1406,IT,1,C,Hostel,Below 75%
+STU1407,50,86.0,Student_1407,AIML,1,D,Hostel,75% and Above
+STU1408,50,88.0,Student_1408,CSE,4,D,Hostel,75% and Above
+STU1409,50,84.0,Student_1409,CIVIL,3,A,Day Scholar,75% and Above
+STU1410,50,90.0,Student_1410,ECE,2,B,Hostel,75% and Above
+STU1411,50,80.0,Student_1411,MECH,4,C,Day Scholar,75% and Above
+STU1412,50,88.0,Student_1412,CIVIL,2,C,Hostel,75% and Above
+STU1413,50,96.0,Student_1413,CSE,1,A,Hostel,75% and Above
+STU1414,50,84.0,Student_1414,CIVIL,2,C,Day Scholar,75% and Above
+STU1415,50,86.0,Student_1415,ECE,2,C,Hostel,75% and Above
+STU1416,50,84.0,Student_1416,IT,4,B,Hostel,75% and Above
+STU1417,50,92.0,Student_1417,CSE,2,B,Day Scholar,75% and Above
+STU1418,50,90.0,Student_1418,CIVIL,4,A,Hostel,75% and Above
+STU1419,50,82.0,Student_1419,MECH,1,B,Hostel,75% and Above
+STU1420,50,84.0,Student_1420,MECH,4,A,Hostel,75% and Above
+STU1421,50,90.0,Student_1421,AIML,4,D,Hostel,75% and Above
+STU1422,50,84.0,Student_1422,CIVIL,3,A,Day Scholar,75% and Above
+STU1423,50,80.0,Student_1423,EEE,2,D,Hostel,75% and Above
+STU1424,50,92.0,Student_1424,CIVIL,1,A,Day Scholar,75% and Above
+STU1425,50,74.0,Student_1425,IT,4,C,Hostel,Below 75%
+STU1426,50,92.0,Student_1426,CSE,1,B,Day Scholar,75% and Above
+STU1427,50,92.0,Student_1427,CSE,3,D,Hostel,75% and Above
+STU1428,50,90.0,Student_1428,IT,2,A,Day Scholar,75% and Above
+STU1429,50,76.0,Student_1429,CIVIL,4,B,Hostel,75% and Above
+STU1430,50,82.0,Student_1430,IT,2,A,Day Scholar,75% and Above
+STU1431,50,72.0,Student_1431,ECE,3,B,Day Scholar,Below 75%
+STU1432,50,82.0,Student_1432,IT,3,B,Hostel,75% and Above
+STU1433,50,88.0,Student_1433,MECH,1,A,Day Scholar,75% and Above
+STU1434,50,80.0,Student_1434,IT,4,D,Hostel,75% and Above
+STU1435,50,80.0,Student_1435,CSE,1,D,Hostel,75% and Above
+STU1436,50,78.0,Student_1436,MECH,3,C,Hostel,75% and Above
+STU1437,50,82.0,Student_1437,CSE,2,B,Hostel,75% and Above
+STU1438,50,84.0,Student_1438,AIML,1,C,Hostel,75% and Above
+STU1439,50,76.0,Student_1439,EEE,1,C,Day Scholar,75% and Above
+STU1440,50,86.0,Student_1440,CSE,2,A,Hostel,75% and Above
+STU1441,50,78.0,Student_1441,MECH,1,A,Hostel,75% and Above
+STU1442,50,82.0,Student_1442,AIML,2,A,Hostel,75% and Above
+STU1443,50,80.0,Student_1443,CSE,4,B,Hostel,75% and Above
+STU1444,50,76.0,Student_1444,ECE,2,A,Hostel,75% and Above
+STU1445,50,92.0,Student_1445,IT,4,A,Hostel,75% and Above
+STU1446,50,82.0,Student_1446,EEE,2,B,Day Scholar,75% and Above
+STU1447,50,80.0,Student_1447,CSE,3,B,Day Scholar,75% and Above
+STU1448,50,80.0,Student_1448,AIML,3,D,Hostel,75% and Above
+STU1449,50,80.0,Student_1449,ECE,4,A,Day Scholar,75% and Above
+STU1450,50,92.0,Student_1450,CIVIL,4,A,Hostel,75% and Above
+STU1451,50,92.0,Student_1451,AIML,3,A,Hostel,75% and Above
+STU1452,50,80.0,Student_1452,IT,4,D,Hostel,75% and Above
+STU1453,50,78.0,Student_1453,AIML,2,A,Hostel,75% and Above
+STU1454,50,80.0,Student_1454,ECE,2,D,Hostel,75% and Above
+STU1455,50,84.0,Student_1455,AIML,3,C,Day Scholar,75% and Above
+STU1456,50,80.0,Student_1456,ECE,1,D,Day Scholar,75% and Above
+STU1457,50,84.0,Student_1457,CSE,2,C,Day Scholar,75% and Above
+STU1458,50,82.0,Student_1458,ECE,4,A,Day Scholar,75% and Above
+STU1459,50,90.0,Student_1459,ECE,1,C,Hostel,75% and Above
+STU1460,50,80.0,Student_1460,EEE,1,D,Day Scholar,75% and Above
+STU1461,50,82.0,Student_1461,ECE,2,B,Hostel,75% and Above
+STU1462,50,86.0,Student_1462,ECE,2,C,Day Scholar,75% and Above
+STU1463,50,86.0,Student_1463,CIVIL,1,C,Day Scholar,75% and Above
+STU1464,50,74.0,Student_1464,CSE,1,A,Day Scholar,Below 75%
+STU1465,50,78.0,Student_1465,IT,3,D,Day Scholar,75% and Above
+STU1466,50,84.0,Student_1466,EEE,4,C,Hostel,75% and Above
+STU1467,50,82.0,Student_1467,CIVIL,3,C,Day Scholar,75% and Above
+STU1468,50,76.0,Student_1468,MECH,2,C,Day Scholar,75% and Above
+STU1469,50,86.0,Student_1469,CSE,3,C,Hostel,75% and Above
+STU1470,50,80.0,Student_1470,CSE,3,B,Hostel,75% and Above
+STU1471,50,86.0,Student_1471,MECH,3,D,Day Scholar,75% and Above
+STU1472,50,80.0,Student_1472,IT,3,A,Hostel,75% and Above
+STU1473,50,82.0,Student_1473,ECE,4,A,Hostel,75% and Above
+STU1474,50,86.0,Student_1474,CIVIL,4,B,Hostel,75% and Above
+STU1475,50,90.0,Student_1475,AIML,1,D,Day Scholar,75% and Above
+STU1476,50,88.0,Student_1476,EEE,2,C,Hostel,75% and Above
+STU1477,50,82.0,Student_1477,AIML,3,B,Day Scholar,75% and Above
+STU1478,50,76.0,Student_1478,MECH,1,D,Day Scholar,75% and Above
+STU1479,50,88.0,Student_1479,CSE,1,C,Day Scholar,75% and Above
+STU1480,50,74.0,Student_1480,IT,1,B,Day Scholar,Below 75%
+STU1481,50,80.0,Student_1481,CSE,4,D,Hostel,75% and Above
+STU1482,50,82.0,Student_1482,EEE,3,A,Day Scholar,75% and Above
+STU1483,50,82.0,Student_1483,CSE,3,A,Hostel,75% and Above
+STU1484,50,90.0,Student_1484,CSE,2,D,Day Scholar,75% and Above
+STU1485,50,76.0,Student_1485,EEE,3,A,Hostel,75% and Above
+STU1486,50,84.0,Student_1486,CIVIL,3,D,Day Scholar,75% and Above
+STU1487,50,86.0,Student_1487,CIVIL,1,C,Hostel,75% and Above
+STU1488,50,88.0,Student_1488,EEE,2,D,Day Scholar,75% and Above
+STU1489,50,82.0,Student_1489,IT,3,C,Day Scholar,75% and Above
+STU1490,50,82.0,Student_1490,MECH,4,B,Hostel,75% and Above
+STU1491,50,80.0,Student_1491,CSE,3,D,Day Scholar,75% and Above
+STU1492,50,78.0,Student_1492,IT,1,B,Day Scholar,75% and Above
+STU1493,50,78.0,Student_1493,CSE,4,A,Day Scholar,75% and Above
+STU1494,50,82.0,Student_1494,MECH,1,C,Hostel,75% and Above
+STU1495,50,90.0,Student_1495,CIVIL,3,D,Day Scholar,75% and Above
+STU1496,50,80.0,Student_1496,IT,4,B,Day Scholar,75% and Above
+STU1497,50,88.0,Student_1497,ECE,2,C,Hostel,75% and Above
+STU1498,50,78.0,Student_1498,ECE,2,C,Hostel,75% and Above
+STU1499,50,80.0,Student_1499,ECE,4,A,Hostel,75% and Above
+STU1500,50,78.0,Student_1500,CIVIL,4,A,Hostel,75% and Above
+STU1501,50,80.0,Student_1501,CIVIL,1,C,Hostel,75% and Above
+STU1502,50,84.0,Student_1502,MECH,4,C,Day Scholar,75% and Above
+STU1503,50,82.0,Student_1503,CSE,1,D,Day Scholar,75% and Above
+STU1504,50,88.0,Student_1504,MECH,3,C,Day Scholar,75% and Above
+STU1505,50,86.0,Student_1505,MECH,1,D,Hostel,75% and Above
+STU1506,50,88.0,Student_1506,CIVIL,4,C,Day Scholar,75% and Above
+STU1507,50,78.0,Student_1507,ECE,4,A,Hostel,75% and Above
+STU1508,50,74.0,Student_1508,AIML,3,D,Hostel,Below 75%
+STU1509,50,90.0,Student_1509,CSE,4,B,Day Scholar,75% and Above
+STU1510,50,84.0,Student_1510,CIVIL,4,A,Hostel,75% and Above
+STU1511,50,84.0,Student_1511,ECE,2,D,Hostel,75% and Above
+STU1512,50,88.0,Student_1512,IT,2,D,Day Scholar,75% and Above
+STU1513,50,84.0,Student_1513,AIML,3,B,Hostel,75% and Above
+STU1514,50,84.0,Student_1514,AIML,1,D,Hostel,75% and Above
+STU1515,50,88.0,Student_1515,CIVIL,2,C,Day Scholar,75% and Above
+STU1516,50,76.0,Student_1516,EEE,1,B,Hostel,75% and Above
+STU1517,50,94.0,Student_1517,CSE,4,A,Hostel,75% and Above
+STU1518,50,80.0,Student_1518,AIML,2,A,Day Scholar,75% and Above
+STU1519,50,84.0,Student_1519,CIVIL,3,C,Day Scholar,75% and Above
+STU1520,50,86.0,Student_1520,CIVIL,3,A,Day Scholar,75% and Above
+STU1521,50,82.0,Student_1521,ECE,3,D,Day Scholar,75% and Above
+STU1522,50,84.0,Student_1522,IT,2,D,Hostel,75% and Above
+STU1523,50,88.0,Student_1523,EEE,1,C,Hostel,75% and Above
+STU1524,50,78.0,Student_1524,CSE,4,A,Day Scholar,75% and Above
+STU1525,50,78.0,Student_1525,MECH,1,A,Hostel,75% and Above
+STU1526,50,76.0,Student_1526,IT,1,C,Hostel,75% and Above
+STU1527,50,84.0,Student_1527,IT,4,B,Day Scholar,75% and Above
+STU1528,50,84.0,Student_1528,ECE,4,A,Day Scholar,75% and Above
+STU1529,50,76.0,Student_1529,AIML,2,B,Hostel,75% and Above
+STU1530,50,76.0,Student_1530,AIML,2,A,Day Scholar,75% and Above
+STU1531,50,88.0,Student_1531,ECE,2,A,Day Scholar,75% and Above
+STU1532,50,82.0,Student_1532,CIVIL,2,A,Day Scholar,75% and Above
+STU1533,50,74.0,Student_1533,AIML,2,A,Hostel,Below 75%
+STU1534,50,80.0,Student_1534,EEE,4,D,Day Scholar,75% and Above
+STU1535,50,88.0,Student_1535,CSE,1,B,Hostel,75% and Above
+STU1536,50,86.0,Student_1536,IT,2,B,Hostel,75% and Above
+STU1537,50,76.0,Student_1537,IT,2,A,Hostel,75% and Above
+STU1538,50,82.0,Student_1538,EEE,1,A,Day Scholar,75% and Above
+STU1539,50,86.0,Student_1539,AIML,2,B,Day Scholar,75% and Above
+STU1540,50,76.0,Student_1540,IT,1,D,Day Scholar,75% and Above
+STU1541,50,82.0,Student_1541,MECH,1,C,Day Scholar,75% and Above
+STU1542,50,86.0,Student_1542,CSE,4,C,Day Scholar,75% and Above
+STU1543,50,94.0,Student_1543,CSE,3,B,Hostel,75% and Above
+STU1544,50,84.0,Student_1544,IT,4,A,Hostel,75% and Above
+STU1545,50,78.0,Student_1545,ECE,3,A,Hostel,75% and Above
+STU1546,50,82.0,Student_1546,IT,3,D,Day Scholar,75% and Above
+STU1547,50,82.0,Student_1547,ECE,3,C,Hostel,75% and Above
+STU1548,50,92.0,Student_1548,IT,2,D,Hostel,75% and Above
+STU1549,50,78.0,Student_1549,MECH,4,C,Day Scholar,75% and Above
+STU1550,50,84.0,Student_1550,CIVIL,3,B,Day Scholar,75% and Above
+STU1551,50,86.0,Student_1551,CSE,1,C,Hostel,75% and Above
+STU1552,50,84.0,Student_1552,IT,2,D,Hostel,75% and Above
+STU1553,50,78.0,Student_1553,MECH,4,D,Day Scholar,75% and Above
+STU1554,50,72.0,Student_1554,ECE,3,D,Day Scholar,Below 75%
+STU1555,50,80.0,Student_1555,ECE,1,B,Day Scholar,75% and Above
+STU1556,50,78.0,Student_1556,CSE,4,C,Day Scholar,75% and Above
+STU1557,50,84.0,Student_1557,EEE,4,C,Hostel,75% and Above
+STU1558,50,86.0,Student_1558,IT,2,D,Hostel,75% and Above
+STU1559,50,88.0,Student_1559,AIML,4,C,Day Scholar,75% and Above
+STU1560,50,84.0,Student_1560,ECE,2,A,Hostel,75% and Above
+STU1561,50,80.0,Student_1561,CIVIL,3,A,Hostel,75% and Above
+STU1562,50,82.0,Student_1562,CIVIL,2,A,Day Scholar,75% and Above
+STU1563,50,78.0,Student_1563,ECE,1,C,Hostel,75% and Above
+STU1564,50,76.0,Student_1564,EEE,2,B,Hostel,75% and Above
+STU1565,50,88.0,Student_1565,EEE,1,B,Hostel,75% and Above
+STU1566,50,86.0,Student_1566,MECH,2,B,Day Scholar,75% and Above
+STU1567,50,84.0,Student_1567,CIVIL,4,B,Day Scholar,75% and Above
+STU1568,50,84.0,Student_1568,MECH,3,A,Hostel,75% and Above
+STU1569,50,90.0,Student_1569,CIVIL,1,A,Day Scholar,75% and Above
+STU1570,50,70.0,Student_1570,IT,2,D,Day Scholar,Below 75%
+STU1571,50,78.0,Student_1571,IT,2,C,Day Scholar,75% and Above
+STU1572,50,80.0,Student_1572,AIML,2,C,Hostel,75% and Above
+STU1573,50,86.0,Student_1573,IT,4,B,Hostel,75% and Above
+STU1574,50,82.0,Student_1574,AIML,4,A,Day Scholar,75% and Above
+STU1575,50,80.0,Student_1575,IT,1,B,Hostel,75% and Above
+STU1576,50,84.0,Student_1576,CSE,1,D,Hostel,75% and Above
+STU1577,50,84.0,Student_1577,IT,4,C,Hostel,75% and Above
+STU1578,50,84.0,Student_1578,MECH,1,C,Hostel,75% and Above
+STU1579,50,74.0,Student_1579,ECE,3,B,Hostel,Below 75%
+STU1580,50,84.0,Student_1580,MECH,3,D,Day Scholar,75% and Above
+STU1581,50,88.0,Student_1581,ECE,4,C,Hostel,75% and Above
+STU1582,50,82.0,Student_1582,EEE,1,D,Hostel,75% and Above
+STU1583,50,82.0,Student_1583,MECH,2,D,Hostel,75% and Above
+STU1584,50,84.0,Student_1584,EEE,3,B,Day Scholar,75% and Above
+STU1585,50,86.0,Student_1585,AIML,4,A,Day Scholar,75% and Above
+STU1586,50,74.0,Student_1586,AIML,1,B,Day Scholar,Below 75%
+STU1587,50,74.0,Student_1587,CSE,4,A,Hostel,Below 75%
+STU1588,50,82.0,Student_1588,IT,2,D,Day Scholar,75% and Above
+STU1589,50,86.0,Student_1589,MECH,3,A,Day Scholar,75% and Above
+STU1590,50,86.0,Student_1590,EEE,4,D,Day Scholar,75% and Above
+STU1591,50,84.0,Student_1591,ECE,4,C,Day Scholar,75% and Above
+STU1592,50,84.0,Student_1592,AIML,4,C,Hostel,75% and Above
+STU1593,50,86.0,Student_1593,IT,2,C,Day Scholar,75% and Above
+STU1594,50,86.0,Student_1594,AIML,4,B,Day Scholar,75% and Above
+STU1595,50,90.0,Student_1595,ECE,2,B,Hostel,75% and Above
+STU1596,50,78.0,Student_1596,IT,2,D,Hostel,75% and Above
+STU1597,50,80.0,Student_1597,IT,2,C,Day Scholar,75% and Above
+STU1598,50,90.0,Student_1598,EEE,3,B,Hostel,75% and Above
+STU1599,50,80.0,Student_1599,EEE,3,C,Day Scholar,75% and Above
+STU1600,50,88.0,Student_1600,MECH,4,B,Hostel,75% and Above
+STU1601,50,90.0,Student_1601,MECH,4,A,Hostel,75% and Above
+STU1602,50,74.0,Student_1602,CIVIL,3,A,Day Scholar,Below 75%
+STU1603,50,92.0,Student_1603,CIVIL,1,C,Hostel,75% and Above
+STU1604,50,64.0,Student_1604,CSE,3,D,Day Scholar,Below 75%
+STU1605,50,88.0,Student_1605,AIML,2,B,Hostel,75% and Above
+STU1606,50,88.0,Student_1606,MECH,3,B,Day Scholar,75% and Above
+STU1607,50,88.0,Student_1607,EEE,2,A,Hostel,75% and Above
+STU1608,50,92.0,Student_1608,ECE,4,A,Hostel,75% and Above
+STU1609,50,84.0,Student_1609,EEE,1,D,Hostel,75% and Above
+STU1610,50,74.0,Student_1610,AIML,4,D,Hostel,Below 75%
+STU1611,50,80.0,Student_1611,CIVIL,2,D,Hostel,75% and Above
+STU1612,50,82.0,Student_1612,EEE,2,C,Day Scholar,75% and Above
+STU1613,50,68.0,Student_1613,CSE,2,A,Hostel,Below 75%
+STU1614,50,84.0,Student_1614,AIML,1,C,Day Scholar,75% and Above
+STU1615,50,78.0,Student_1615,CIVIL,3,A,Day Scholar,75% and Above
+STU1616,50,90.0,Student_1616,ECE,4,A,Day Scholar,75% and Above
+STU1617,50,78.0,Student_1617,CIVIL,4,B,Hostel,75% and Above
+STU1618,50,70.0,Student_1618,IT,3,A,Day Scholar,Below 75%
+STU1619,50,84.0,Student_1619,CSE,4,A,Hostel,75% and Above
+STU1620,50,80.0,Student_1620,AIML,1,C,Day Scholar,75% and Above
+STU1621,50,80.0,Student_1621,ECE,4,A,Day Scholar,75% and Above
+STU1622,50,80.0,Student_1622,CSE,2,C,Day Scholar,75% and Above
+STU1623,50,92.0,Student_1623,CIVIL,3,D,Day Scholar,75% and Above
+STU1624,50,84.0,Student_1624,CSE,1,A,Day Scholar,75% and Above
+STU1625,50,86.0,Student_1625,AIML,3,A,Hostel,75% and Above
+STU1626,50,86.0,Student_1626,MECH,1,C,Day Scholar,75% and Above
+STU1627,50,70.0,Student_1627,CSE,2,D,Day Scholar,Below 75%
+STU1628,50,88.0,Student_1628,IT,3,B,Hostel,75% and Above
+STU1629,50,82.0,Student_1629,CSE,4,D,Hostel,75% and Above
+STU1630,50,84.0,Student_1630,CIVIL,1,C,Hostel,75% and Above
+STU1631,50,80.0,Student_1631,CIVIL,3,D,Day Scholar,75% and Above
+STU1632,50,82.0,Student_1632,ECE,4,C,Day Scholar,75% and Above
+STU1633,50,94.0,Student_1633,CIVIL,3,C,Day Scholar,75% and Above
+STU1634,50,94.0,Student_1634,EEE,3,B,Day Scholar,75% and Above
+STU1635,50,76.0,Student_1635,AIML,3,A,Day Scholar,75% and Above
+STU1636,50,88.0,Student_1636,AIML,1,C,Day Scholar,75% and Above
+STU1637,50,74.0,Student_1637,MECH,4,C,Hostel,Below 75%
+STU1638,50,90.0,Student_1638,MECH,2,B,Hostel,75% and Above
+STU1639,50,78.0,Student_1639,AIML,1,C,Day Scholar,75% and Above
+STU1640,50,88.0,Student_1640,IT,1,A,Day Scholar,75% and Above
+STU1641,50,84.0,Student_1641,MECH,1,B,Day Scholar,75% and Above
+STU1642,50,88.0,Student_1642,ECE,2,A,Day Scholar,75% and Above
+STU1643,50,86.0,Student_1643,CIVIL,4,A,Day Scholar,75% and Above
+STU1644,50,74.0,Student_1644,AIML,4,B,Hostel,Below 75%
+STU1645,50,84.0,Student_1645,MECH,4,C,Hostel,75% and Above
+STU1646,50,86.0,Student_1646,AIML,3,A,Day Scholar,75% and Above
+STU1647,50,78.0,Student_1647,EEE,3,A,Hostel,75% and Above
+STU1648,50,82.0,Student_1648,CSE,3,A,Day Scholar,75% and Above
+STU1649,50,90.0,Student_1649,CIVIL,2,A,Day Scholar,75% and Above
+STU1650,50,76.0,Student_1650,AIML,3,B,Day Scholar,75% and Above
+STU1651,50,82.0,Student_1651,CSE,2,B,Hostel,75% and Above
+STU1652,50,86.0,Student_1652,MECH,4,D,Hostel,75% and Above
+STU1653,50,84.0,Student_1653,CSE,3,D,Day Scholar,75% and Above
+STU1654,50,78.0,Student_1654,CIVIL,3,A,Hostel,75% and Above
+STU1655,50,80.0,Student_1655,AIML,1,C,Hostel,75% and Above
+STU1656,50,88.0,Student_1656,EEE,2,A,Day Scholar,75% and Above
+STU1657,50,90.0,Student_1657,IT,4,C,Hostel,75% and Above
+STU1658,50,84.0,Student_1658,MECH,1,A,Hostel,75% and Above
+STU1659,50,84.0,Student_1659,AIML,1,D,Day Scholar,75% and Above
+STU1660,50,78.0,Student_1660,CIVIL,4,D,Day Scholar,75% and Above
+STU1661,50,88.0,Student_1661,MECH,1,C,Hostel,75% and Above
+STU1662,50,78.0,Student_1662,ECE,2,A,Day Scholar,75% and Above
+STU1663,50,76.0,Student_1663,CSE,2,C,Hostel,75% and Above
+STU1664,50,80.0,Student_1664,IT,3,D,Day Scholar,75% and Above
+STU1665,50,72.0,Student_1665,CIVIL,1,A,Day Scholar,Below 75%
+STU1666,50,80.0,Student_1666,ECE,3,A,Day Scholar,75% and Above
+STU1667,50,84.0,Student_1667,AIML,1,C,Day Scholar,75% and Above
+STU1668,50,80.0,Student_1668,EEE,2,B,Hostel,75% and Above
+STU1669,50,84.0,Student_1669,MECH,2,C,Day Scholar,75% and Above
+STU1670,50,86.0,Student_1670,CSE,2,D,Day Scholar,75% and Above
+STU1671,50,86.0,Student_1671,MECH,1,D,Day Scholar,75% and Above
+STU1672,50,88.0,Student_1672,IT,2,D,Hostel,75% and Above
+STU1673,50,84.0,Student_1673,AIML,1,D,Hostel,75% and Above
+STU1674,50,76.0,Student_1674,MECH,3,D,Day Scholar,75% and Above
+STU1675,50,84.0,Student_1675,CSE,1,B,Day Scholar,75% and Above
+STU1676,50,80.0,Student_1676,AIML,3,A,Day Scholar,75% and Above
+STU1677,50,84.0,Student_1677,MECH,1,C,Day Scholar,75% and Above
+STU1678,50,72.0,Student_1678,EEE,3,C,Day Scholar,Below 75%
+STU1679,50,84.0,Student_1679,CIVIL,2,D,Day Scholar,75% and Above
+STU1680,50,82.0,Student_1680,AIML,3,C,Hostel,75% and Above
+STU1681,50,84.0,Student_1681,CIVIL,2,D,Day Scholar,75% and Above
+STU1682,50,78.0,Student_1682,AIML,2,B,Day Scholar,75% and Above
+STU1683,50,84.0,Student_1683,EEE,3,B,Day Scholar,75% and Above
+STU1684,50,94.0,Student_1684,CIVIL,1,A,Day Scholar,75% and Above
+STU1685,50,76.0,Student_1685,ECE,1,B,Day Scholar,75% and Above
+STU1686,50,78.0,Student_1686,CSE,4,B,Day Scholar,75% and Above
+STU1687,50,78.0,Student_1687,ECE,1,A,Hostel,75% and Above
+STU1688,50,80.0,Student_1688,MECH,4,C,Hostel,75% and Above
+STU1689,50,78.0,Student_1689,EEE,1,D,Hostel,75% and Above
+STU1690,50,86.0,Student_1690,ECE,1,D,Hostel,75% and Above
+STU1691,50,74.0,Student_1691,AIML,2,C,Hostel,Below 75%
+STU1692,50,86.0,Student_1692,MECH,4,A,Hostel,75% and Above
+STU1693,50,76.0,Student_1693,MECH,1,C,Day Scholar,75% and Above
+STU1694,50,82.0,Student_1694,ECE,4,B,Day Scholar,75% and Above
+STU1695,50,84.0,Student_1695,ECE,2,A,Day Scholar,75% and Above
+STU1696,50,80.0,Student_1696,EEE,2,A,Day Scholar,75% and Above
+STU1697,50,88.0,Student_1697,CSE,4,A,Day Scholar,75% and Above
+STU1698,50,76.0,Student_1698,ECE,2,D,Day Scholar,75% and Above
+STU1699,50,90.0,Student_1699,IT,3,C,Hostel,75% and Above
+STU1700,50,86.0,Student_1700,ECE,3,A,Day Scholar,75% and Above
+STU1701,50,78.0,Student_1701,CIVIL,2,A,Hostel,75% and Above
+STU1702,50,80.0,Student_1702,AIML,3,A,Hostel,75% and Above
+STU1703,50,88.0,Student_1703,IT,1,C,Day Scholar,75% and Above
+STU1704,50,84.0,Student_1704,IT,4,D,Day Scholar,75% and Above
+STU1705,50,78.0,Student_1705,CIVIL,1,B,Day Scholar,75% and Above
+STU1706,50,84.0,Student_1706,CIVIL,4,D,Day Scholar,75% and Above
+STU1707,50,80.0,Student_1707,MECH,2,A,Day Scholar,75% and Above
+STU1708,50,84.0,Student_1708,CSE,1,D,Day Scholar,75% and Above
+STU1709,50,78.0,Student_1709,AIML,2,D,Day Scholar,75% and Above
+STU1710,50,86.0,Student_1710,EEE,2,B,Hostel,75% and Above
+STU1711,50,78.0,Student_1711,IT,4,C,Day Scholar,75% and Above
+STU1712,50,78.0,Student_1712,EEE,4,C,Day Scholar,75% and Above
+STU1713,50,84.0,Student_1713,ECE,4,D,Hostel,75% and Above
+STU1714,50,78.0,Student_1714,ECE,1,D,Day Scholar,75% and Above
+STU1715,50,82.0,Student_1715,EEE,3,C,Day Scholar,75% and Above
+STU1716,50,86.0,Student_1716,ECE,4,C,Hostel,75% and Above
+STU1717,50,76.0,Student_1717,CSE,4,B,Day Scholar,75% and Above
+STU1718,50,76.0,Student_1718,CIVIL,1,A,Day Scholar,75% and Above
+STU1719,50,84.0,Student_1719,ECE,4,D,Day Scholar,75% and Above
+STU1720,50,78.0,Student_1720,MECH,1,C,Day Scholar,75% and Above
+STU1721,50,88.0,Student_1721,ECE,2,D,Day Scholar,75% and Above
+STU1722,50,78.0,Student_1722,AIML,4,D,Day Scholar,75% and Above
+STU1723,50,78.0,Student_1723,CSE,4,C,Hostel,75% and Above
+STU1724,50,92.0,Student_1724,AIML,2,B,Day Scholar,75% and Above
+STU1725,50,86.0,Student_1725,AIML,2,D,Day Scholar,75% and Above
+STU1726,50,78.0,Student_1726,MECH,2,B,Hostel,75% and Above
+STU1727,50,78.0,Student_1727,CSE,4,C,Hostel,75% and Above
+STU1728,50,84.0,Student_1728,CSE,3,A,Day Scholar,75% and Above
+STU1729,50,82.0,Student_1729,CSE,3,A,Hostel,75% and Above
+STU1730,50,84.0,Student_1730,CSE,3,D,Day Scholar,75% and Above
+STU1731,50,80.0,Student_1731,CSE,4,C,Day Scholar,75% and Above
+STU1732,50,78.0,Student_1732,MECH,2,B,Hostel,75% and Above
+STU1733,50,84.0,Student_1733,ECE,4,D,Day Scholar,75% and Above
+STU1734,50,86.0,Student_1734,AIML,2,C,Day Scholar,75% and Above
+STU1735,50,78.0,Student_1735,CSE,4,C,Hostel,75% and Above
+STU1736,50,86.0,Student_1736,IT,4,B,Hostel,75% and Above
+STU1737,50,80.0,Student_1737,ECE,2,D,Hostel,75% and Above
+STU1738,50,82.0,Student_1738,ECE,3,C,Hostel,75% and Above
+STU1739,50,78.0,Student_1739,AIML,2,C,Day Scholar,75% and Above
+STU1740,50,84.0,Student_1740,MECH,1,C,Hostel,75% and Above
+STU1741,50,80.0,Student_1741,EEE,1,B,Hostel,75% and Above
+STU1742,50,84.0,Student_1742,EEE,2,D,Hostel,75% and Above
+STU1743,50,72.0,Student_1743,ECE,4,D,Hostel,Below 75%
+STU1744,50,86.0,Student_1744,CIVIL,1,D,Hostel,75% and Above
+STU1745,50,84.0,Student_1745,CIVIL,1,D,Day Scholar,75% and Above
+STU1746,50,76.0,Student_1746,AIML,4,A,Hostel,75% and Above
+STU1747,50,82.0,Student_1747,EEE,4,A,Day Scholar,75% and Above
+STU1748,50,88.0,Student_1748,ECE,3,D,Hostel,75% and Above
+STU1749,50,82.0,Student_1749,MECH,4,B,Hostel,75% and Above
+STU1750,50,78.0,Student_1750,EEE,2,A,Hostel,75% and Above
+STU1751,50,74.0,Student_1751,ECE,2,C,Hostel,Below 75%
+STU1752,50,78.0,Student_1752,ECE,3,A,Hostel,75% and Above
+STU1753,50,84.0,Student_1753,CSE,1,C,Hostel,75% and Above
+STU1754,50,84.0,Student_1754,MECH,1,D,Hostel,75% and Above
+STU1755,50,82.0,Student_1755,CSE,4,A,Hostel,75% and Above
+STU1756,50,90.0,Student_1756,AIML,2,B,Day Scholar,75% and Above
+STU1757,50,82.0,Student_1757,CSE,1,A,Hostel,75% and Above
+STU1758,50,88.0,Student_1758,IT,3,A,Day Scholar,75% and Above
+STU1759,50,84.0,Student_1759,CSE,3,A,Hostel,75% and Above
+STU1760,50,70.0,Student_1760,IT,2,D,Day Scholar,Below 75%
+STU1761,50,84.0,Student_1761,EEE,3,B,Hostel,75% and Above
+STU1762,50,82.0,Student_1762,CIVIL,3,A,Hostel,75% and Above
+STU1763,50,88.0,Student_1763,ECE,2,B,Hostel,75% and Above
+STU1764,50,72.0,Student_1764,IT,4,D,Day Scholar,Below 75%
+STU1765,50,86.0,Student_1765,MECH,4,C,Day Scholar,75% and Above
+STU1766,50,80.0,Student_1766,CSE,3,A,Day Scholar,75% and Above
+STU1767,50,88.0,Student_1767,IT,4,B,Day Scholar,75% and Above
+STU1768,50,74.0,Student_1768,MECH,4,B,Hostel,Below 75%
+STU1769,50,76.0,Student_1769,CIVIL,3,D,Hostel,75% and Above
+STU1770,50,86.0,Student_1770,CIVIL,4,A,Hostel,75% and Above
+STU1771,50,88.0,Student_1771,CSE,3,C,Day Scholar,75% and Above
+STU1772,50,86.0,Student_1772,AIML,1,B,Hostel,75% and Above
+STU1773,50,80.0,Student_1773,CSE,2,A,Day Scholar,75% and Above
+STU1774,50,94.0,Student_1774,EEE,2,C,Day Scholar,75% and Above
+STU1775,50,86.0,Student_1775,IT,4,B,Day Scholar,75% and Above
+STU1776,50,70.0,Student_1776,ECE,4,B,Day Scholar,Below 75%
+STU1777,50,82.0,Student_1777,AIML,4,C,Day Scholar,75% and Above
+STU1778,50,80.0,Student_1778,CSE,2,C,Hostel,75% and Above
+STU1779,50,80.0,Student_1779,MECH,1,D,Day Scholar,75% and Above
+STU1780,50,82.0,Student_1780,AIML,1,A,Day Scholar,75% and Above
+STU1781,50,80.0,Student_1781,IT,2,A,Hostel,75% and Above
+STU1782,50,76.0,Student_1782,AIML,1,D,Day Scholar,75% and Above
+STU1783,50,74.0,Student_1783,IT,2,B,Day Scholar,Below 75%
+STU1784,50,78.0,Student_1784,CSE,1,C,Hostel,75% and Above
+STU1785,50,82.0,Student_1785,IT,3,C,Hostel,75% and Above
+STU1786,50,88.0,Student_1786,AIML,3,C,Hostel,75% and Above
+STU1787,50,76.0,Student_1787,MECH,2,B,Day Scholar,75% and Above
+STU1788,50,88.0,Student_1788,CIVIL,1,C,Hostel,75% and Above
+STU1789,50,88.0,Student_1789,AIML,4,C,Hostel,75% and Above
+STU1790,50,80.0,Student_1790,IT,1,D,Hostel,75% and Above
+STU1791,50,86.0,Student_1791,CIVIL,3,B,Day Scholar,75% and Above
+STU1792,50,74.0,Student_1792,IT,3,A,Hostel,Below 75%
+STU1793,50,86.0,Student_1793,MECH,1,D,Day Scholar,75% and Above
+STU1794,50,80.0,Student_1794,IT,1,D,Day Scholar,75% and Above
+STU1795,50,92.0,Student_1795,CSE,4,A,Hostel,75% and Above
+STU1796,50,70.0,Student_1796,ECE,4,D,Day Scholar,Below 75%
+STU1797,50,80.0,Student_1797,AIML,1,B,Day Scholar,75% and Above
+STU1798,50,84.0,Student_1798,ECE,1,C,Hostel,75% and Above
+STU1799,50,84.0,Student_1799,IT,1,B,Day Scholar,75% and Above
+STU1800,50,80.0,Student_1800,MECH,1,A,Hostel,75% and Above
+STU1801,50,86.0,Student_1801,AIML,2,A,Day Scholar,75% and Above
+STU1802,50,80.0,Student_1802,IT,1,D,Day Scholar,75% and Above
+STU1803,50,88.0,Student_1803,CIVIL,4,B,Hostel,75% and Above
+STU1804,50,74.0,Student_1804,EEE,3,B,Hostel,Below 75%
+STU1805,50,82.0,Student_1805,IT,2,A,Day Scholar,75% and Above
+STU1806,50,88.0,Student_1806,ECE,1,B,Day Scholar,75% and Above
+STU1807,50,72.0,Student_1807,AIML,3,A,Hostel,Below 75%
+STU1808,50,72.0,Student_1808,ECE,2,B,Day Scholar,Below 75%
+STU1809,50,78.0,Student_1809,AIML,3,B,Day Scholar,75% and Above
+STU1810,50,82.0,Student_1810,IT,1,B,Day Scholar,75% and Above
+STU1811,50,86.0,Student_1811,CSE,1,A,Day Scholar,75% and Above
+STU1812,50,74.0,Student_1812,CIVIL,4,D,Hostel,Below 75%
+STU1813,50,72.0,Student_1813,IT,1,B,Hostel,Below 75%
+STU1814,50,80.0,Student_1814,ECE,1,A,Hostel,75% and Above
+STU1815,50,80.0,Student_1815,EEE,2,A,Hostel,75% and Above
+STU1816,50,82.0,Student_1816,EEE,4,B,Hostel,75% and Above
+STU1817,50,82.0,Student_1817,MECH,2,B,Hostel,75% and Above
+STU1818,50,86.0,Student_1818,AIML,3,D,Day Scholar,75% and Above
+STU1819,50,88.0,Student_1819,ECE,1,A,Hostel,75% and Above
+STU1820,50,76.0,Student_1820,MECH,3,A,Day Scholar,75% and Above
+STU1821,50,92.0,Student_1821,ECE,2,C,Day Scholar,75% and Above
+STU1822,50,82.0,Student_1822,AIML,1,A,Day Scholar,75% and Above
+STU1823,50,80.0,Student_1823,IT,1,D,Hostel,75% and Above
+STU1824,50,80.0,Student_1824,IT,2,C,Day Scholar,75% and Above
+STU1825,50,90.0,Student_1825,EEE,2,C,Hostel,75% and Above
+STU1826,50,90.0,Student_1826,IT,2,C,Day Scholar,75% and Above
+STU1827,50,80.0,Student_1827,IT,2,B,Day Scholar,75% and Above
+STU1828,50,68.0,Student_1828,CSE,2,B,Hostel,Below 75%
+STU1829,50,82.0,Student_1829,EEE,1,A,Day Scholar,75% and Above
+STU1830,50,80.0,Student_1830,MECH,2,C,Day Scholar,75% and Above
+STU1831,50,84.0,Student_1831,CIVIL,1,D,Day Scholar,75% and Above
+STU1832,50,90.0,Student_1832,CSE,1,B,Day Scholar,75% and Above
+STU1833,50,86.0,Student_1833,MECH,2,D,Hostel,75% and Above
+STU1834,50,92.0,Student_1834,AIML,2,D,Day Scholar,75% and Above
+STU1835,50,84.0,Student_1835,CSE,4,B,Day Scholar,75% and Above
+STU1836,50,80.0,Student_1836,MECH,1,B,Hostel,75% and Above
+STU1837,50,86.0,Student_1837,AIML,2,B,Day Scholar,75% and Above
+STU1838,50,72.0,Student_1838,EEE,2,B,Day Scholar,Below 75%
+STU1839,50,72.0,Student_1839,CIVIL,2,C,Day Scholar,Below 75%
+STU1840,50,80.0,Student_1840,AIML,4,C,Day Scholar,75% and Above
+STU1841,50,78.0,Student_1841,IT,4,C,Hostel,75% and Above
+STU1842,50,72.0,Student_1842,ECE,3,C,Day Scholar,Below 75%
+STU1843,50,84.0,Student_1843,AIML,1,A,Hostel,75% and Above
+STU1844,50,82.0,Student_1844,AIML,3,C,Day Scholar,75% and Above
+STU1845,50,82.0,Student_1845,CIVIL,2,B,Day Scholar,75% and Above
+STU1846,50,78.0,Student_1846,ECE,4,D,Day Scholar,75% and Above
+STU1847,50,84.0,Student_1847,IT,4,C,Hostel,75% and Above
+STU1848,50,68.0,Student_1848,MECH,3,A,Day Scholar,Below 75%
+STU1849,50,84.0,Student_1849,MECH,4,B,Day Scholar,75% and Above
+STU1850,50,82.0,Student_1850,AIML,2,D,Hostel,75% and Above
+STU1851,50,76.0,Student_1851,ECE,4,D,Hostel,75% and Above
+STU1852,50,90.0,Student_1852,ECE,3,C,Hostel,75% and Above
+STU1853,50,82.0,Student_1853,IT,2,D,Hostel,75% and Above
+STU1854,50,84.0,Student_1854,CIVIL,3,C,Day Scholar,75% and Above
+STU1855,50,80.0,Student_1855,EEE,4,C,Day Scholar,75% and Above
+STU1856,50,76.0,Student_1856,MECH,3,B,Day Scholar,75% and Above
+STU1857,50,78.0,Student_1857,CIVIL,3,B,Day Scholar,75% and Above
+STU1858,50,82.0,Student_1858,CSE,1,A,Hostel,75% and Above
+STU1859,50,80.0,Student_1859,MECH,4,B,Day Scholar,75% and Above
+STU1860,50,84.0,Student_1860,CIVIL,4,B,Day Scholar,75% and Above
+STU1861,50,82.0,Student_1861,MECH,3,C,Day Scholar,75% and Above
+STU1862,50,74.0,Student_1862,EEE,1,B,Day Scholar,Below 75%
+STU1863,50,90.0,Student_1863,CSE,4,C,Hostel,75% and Above
+STU1864,50,80.0,Student_1864,EEE,2,C,Day Scholar,75% and Above
+STU1865,50,80.0,Student_1865,IT,3,B,Day Scholar,75% and Above
+STU1866,50,82.0,Student_1866,CSE,4,A,Day Scholar,75% and Above
+STU1867,50,78.0,Student_1867,AIML,2,A,Hostel,75% and Above
+STU1868,50,76.0,Student_1868,CIVIL,4,D,Hostel,75% and Above
+STU1869,50,78.0,Student_1869,CSE,2,D,Day Scholar,75% and Above
+STU1870,50,88.0,Student_1870,IT,3,B,Day Scholar,75% and Above
+STU1871,50,78.0,Student_1871,IT,4,A,Day Scholar,75% and Above
+STU1872,50,86.0,Student_1872,EEE,4,C,Hostel,75% and Above
+STU1873,50,94.0,Student_1873,MECH,1,D,Day Scholar,75% and Above
+STU1874,50,86.0,Student_1874,CSE,3,C,Day Scholar,75% and Above
+STU1875,50,92.0,Student_1875,CIVIL,2,D,Day Scholar,75% and Above
+STU1876,50,88.0,Student_1876,CSE,4,B,Hostel,75% and Above
+STU1877,50,88.0,Student_1877,ECE,4,A,Day Scholar,75% and Above
+STU1878,50,86.0,Student_1878,MECH,2,D,Day Scholar,75% and Above
+STU1879,50,80.0,Student_1879,CIVIL,3,A,Hostel,75% and Above
+STU1880,50,82.0,Student_1880,CIVIL,1,C,Hostel,75% and Above
+STU1881,50,88.0,Student_1881,AIML,1,B,Day Scholar,75% and Above
+STU1882,50,88.0,Student_1882,EEE,4,A,Hostel,75% and Above
+STU1883,50,76.0,Student_1883,AIML,2,B,Day Scholar,75% and Above
+STU1884,50,92.0,Student_1884,CIVIL,4,A,Hostel,75% and Above
+STU1885,50,86.0,Student_1885,MECH,2,C,Hostel,75% and Above
+STU1886,50,80.0,Student_1886,CSE,1,C,Day Scholar,75% and Above
+STU1887,50,78.0,Student_1887,CSE,3,B,Day Scholar,75% and Above
+STU1888,50,82.0,Student_1888,MECH,2,C,Day Scholar,75% and Above
+STU1889,50,68.0,Student_1889,CIVIL,1,D,Hostel,Below 75%
+STU1890,50,76.0,Student_1890,IT,4,A,Day Scholar,75% and Above
+STU1891,50,76.0,Student_1891,CSE,2,C,Day Scholar,75% and Above
+STU1892,50,78.0,Student_1892,IT,3,D,Day Scholar,75% and Above
+STU1893,50,76.0,Student_1893,CSE,4,B,Day Scholar,75% and Above
+STU1894,50,88.0,Student_1894,CSE,4,D,Day Scholar,75% and Above
+STU1895,50,96.0,Student_1895,EEE,1,B,Hostel,75% and Above
+STU1896,50,86.0,Student_1896,EEE,2,B,Day Scholar,75% and Above
+STU1897,50,88.0,Student_1897,ECE,4,A,Day Scholar,75% and Above
+STU1898,50,82.0,Student_1898,AIML,3,A,Hostel,75% and Above
+STU1899,50,76.0,Student_1899,MECH,2,D,Day Scholar,75% and Above
+STU1900,50,78.0,Student_1900,MECH,3,A,Day Scholar,75% and Above
+STU1901,50,84.0,Student_1901,MECH,4,A,Day Scholar,75% and Above
+STU1902,50,90.0,Student_1902,ECE,3,A,Day Scholar,75% and Above
+STU1903,50,76.0,Student_1903,EEE,1,D,Day Scholar,75% and Above
+STU1904,50,94.0,Student_1904,CIVIL,3,C,Hostel,75% and Above
+STU1905,50,82.0,Student_1905,IT,2,A,Hostel,75% and Above
+STU1906,50,74.0,Student_1906,IT,3,A,Hostel,Below 75%
+STU1907,50,76.0,Student_1907,CIVIL,3,D,Day Scholar,75% and Above
+STU1908,50,82.0,Student_1908,ECE,1,C,Hostel,75% and Above
+STU1909,50,80.0,Student_1909,CIVIL,3,A,Day Scholar,75% and Above
+STU1910,50,72.0,Student_1910,MECH,3,B,Day Scholar,Below 75%
+STU1911,50,82.0,Student_1911,AIML,4,D,Day Scholar,75% and Above
+STU1912,50,66.0,Student_1912,CSE,4,A,Hostel,Below 75%
+STU1913,50,80.0,Student_1913,IT,2,A,Hostel,75% and Above
+STU1914,50,80.0,Student_1914,EEE,4,B,Hostel,75% and Above
+STU1915,50,78.0,Student_1915,EEE,4,B,Day Scholar,75% and Above
+STU1916,50,82.0,Student_1916,ECE,4,D,Hostel,75% and Above
+STU1917,50,78.0,Student_1917,EEE,4,D,Day Scholar,75% and Above
+STU1918,50,84.0,Student_1918,MECH,1,B,Hostel,75% and Above
+STU1919,50,82.0,Student_1919,IT,4,D,Hostel,75% and Above
+STU1920,50,76.0,Student_1920,CIVIL,1,B,Day Scholar,75% and Above
+STU1921,50,78.0,Student_1921,MECH,1,A,Day Scholar,75% and Above
+STU1922,50,92.0,Student_1922,ECE,4,B,Hostel,75% and Above
+STU1923,50,86.0,Student_1923,MECH,3,B,Hostel,75% and Above
+STU1924,50,90.0,Student_1924,CIVIL,1,C,Hostel,75% and Above
+STU1925,50,80.0,Student_1925,AIML,3,B,Day Scholar,75% and Above
+STU1926,50,76.0,Student_1926,ECE,3,B,Day Scholar,75% and Above
+STU1927,50,82.0,Student_1927,AIML,4,C,Hostel,75% and Above
+STU1928,50,86.0,Student_1928,CSE,2,D,Hostel,75% and Above
+STU1929,50,90.0,Student_1929,AIML,4,C,Day Scholar,75% and Above
+STU1930,50,74.0,Student_1930,CSE,2,A,Hostel,Below 75%
+STU1931,50,86.0,Student_1931,CSE,2,C,Day Scholar,75% and Above
+STU1932,50,84.0,Student_1932,AIML,4,A,Day Scholar,75% and Above
+STU1933,50,76.0,Student_1933,ECE,4,D,Day Scholar,75% and Above
+STU1934,50,80.0,Student_1934,CIVIL,2,C,Day Scholar,75% and Above
+STU1935,50,72.0,Student_1935,MECH,4,C,Day Scholar,Below 75%
+STU1936,50,72.0,Student_1936,MECH,2,D,Day Scholar,Below 75%
+STU1937,50,80.0,Student_1937,CIVIL,3,A,Hostel,75% and Above
+STU1938,50,72.0,Student_1938,IT,4,C,Day Scholar,Below 75%
+STU1939,50,84.0,Student_1939,IT,3,A,Day Scholar,75% and Above
+STU1940,50,84.0,Student_1940,CSE,1,C,Hostel,75% and Above
+STU1941,50,84.0,Student_1941,CSE,3,B,Day Scholar,75% and Above
+STU1942,50,82.0,Student_1942,ECE,3,C,Hostel,75% and Above
+STU1943,50,78.0,Student_1943,EEE,2,D,Day Scholar,75% and Above
+STU1944,50,78.0,Student_1944,AIML,3,D,Hostel,75% and Above
+STU1945,50,80.0,Student_1945,CSE,4,A,Hostel,75% and Above
+STU1946,50,76.0,Student_1946,MECH,2,C,Day Scholar,75% and Above
+STU1947,50,74.0,Student_1947,ECE,1,A,Day Scholar,Below 75%
+STU1948,50,80.0,Student_1948,AIML,4,A,Day Scholar,75% and Above
+STU1949,50,82.0,Student_1949,ECE,1,B,Day Scholar,75% and Above
+STU1950,50,80.0,Student_1950,AIML,3,B,Hostel,75% and Above
+STU1951,50,82.0,Student_1951,AIML,4,D,Hostel,75% and Above
+STU1952,50,82.0,Student_1952,CIVIL,4,A,Hostel,75% and Above
+STU1953,50,86.0,Student_1953,CSE,1,D,Day Scholar,75% and Above
+STU1954,50,86.0,Student_1954,ECE,4,C,Hostel,75% and Above
+STU1955,50,76.0,Student_1955,ECE,4,A,Day Scholar,75% and Above
+STU1956,50,86.0,Student_1956,CIVIL,4,A,Day Scholar,75% and Above
+STU1957,50,92.0,Student_1957,MECH,3,C,Hostel,75% and Above
+STU1958,50,84.0,Student_1958,MECH,1,C,Day Scholar,75% and Above
+STU1959,50,84.0,Student_1959,IT,4,D,Hostel,75% and Above
+STU1960,50,82.0,Student_1960,CSE,2,D,Day Scholar,75% and Above
+STU1961,50,88.0,Student_1961,CSE,2,C,Hostel,75% and Above
+STU1962,50,92.0,Student_1962,EEE,2,D,Day Scholar,75% and Above
+STU1963,50,80.0,Student_1963,CIVIL,2,C,Hostel,75% and Above
+STU1964,50,82.0,Student_1964,MECH,3,A,Hostel,75% and Above
+STU1965,50,96.0,Student_1965,AIML,4,A,Day Scholar,75% and Above
+STU1966,50,76.0,Student_1966,ECE,1,B,Day Scholar,75% and Above
+STU1967,50,90.0,Student_1967,CSE,4,A,Hostel,75% and Above
+STU1968,50,86.0,Student_1968,ECE,3,C,Day Scholar,75% and Above
+STU1969,50,78.0,Student_1969,ECE,2,D,Day Scholar,75% and Above
+STU1970,50,88.0,Student_1970,EEE,3,B,Day Scholar,75% and Above
+STU1971,50,80.0,Student_1971,MECH,4,D,Hostel,75% and Above
+STU1972,50,86.0,Student_1972,CSE,1,C,Hostel,75% and Above
+STU1973,50,88.0,Student_1973,ECE,3,A,Day Scholar,75% and Above
+STU1974,50,80.0,Student_1974,CSE,1,B,Day Scholar,75% and Above
+STU1975,50,84.0,Student_1975,AIML,3,C,Hostel,75% and Above
+STU1976,50,84.0,Student_1976,EEE,1,B,Day Scholar,75% and Above
+STU1977,50,80.0,Student_1977,AIML,1,B,Hostel,75% and Above
+STU1978,50,84.0,Student_1978,CSE,2,A,Day Scholar,75% and Above
+STU1979,50,88.0,Student_1979,IT,1,C,Day Scholar,75% and Above
+STU1980,50,90.0,Student_1980,CSE,2,D,Day Scholar,75% and Above
+STU1981,50,80.0,Student_1981,MECH,4,B,Hostel,75% and Above
+STU1982,50,86.0,Student_1982,ECE,4,B,Hostel,75% and Above
+STU1983,50,88.0,Student_1983,ECE,2,D,Hostel,75% and Above
+STU1984,50,78.0,Student_1984,AIML,2,C,Hostel,75% and Above
+STU1985,50,84.0,Student_1985,EEE,3,B,Day Scholar,75% and Above
+STU1986,50,74.0,Student_1986,IT,3,B,Day Scholar,Below 75%
+STU1987,50,94.0,Student_1987,CIVIL,3,B,Hostel,75% and Above
+STU1988,50,74.0,Student_1988,ECE,4,C,Day Scholar,Below 75%
+STU1989,50,84.0,Student_1989,MECH,3,C,Day Scholar,75% and Above
+STU1990,50,80.0,Student_1990,AIML,1,D,Hostel,75% and Above
+STU1991,50,72.0,Student_1991,AIML,1,C,Day Scholar,Below 75%
+STU1992,50,80.0,Student_1992,CIVIL,3,C,Day Scholar,75% and Above
+STU1993,50,88.0,Student_1993,MECH,1,A,Hostel,75% and Above
+STU1994,50,72.0,Student_1994,EEE,4,D,Day Scholar,Below 75%
+STU1995,50,76.0,Student_1995,MECH,1,B,Day Scholar,75% and Above
+STU1996,50,90.0,Student_1996,EEE,4,C,Day Scholar,75% and Above
+STU1997,50,78.0,Student_1997,MECH,2,B,Hostel,75% and Above
+STU1998,50,76.0,Student_1998,MECH,2,B,Hostel,75% and Above
+STU1999,50,84.0,Student_1999,CSE,2,A,Day Scholar,75% and Above
+STU2000,50,74.0,Student_2000,AIML,2,C,Day Scholar,Below 75%

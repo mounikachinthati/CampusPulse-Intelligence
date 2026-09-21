@@ -1,0 +1,2001 @@
+student_id,student_name,department,year,section,gender,hostel_status
+STU0001,Student_0001,IT,4,A,Female,Day Scholar
+STU0002,Student_0002,EEE,1,C,Male,Hostel
+STU0003,Student_0003,MECH,4,A,Female,Hostel
+STU0004,Student_0004,IT,2,D,Female,Hostel
+STU0005,Student_0005,ECE,1,A,Male,Day Scholar
+STU0006,Student_0006,MECH,3,A,Female,Hostel
+STU0007,Student_0007,MECH,2,D,Female,Hostel
+STU0008,Student_0008,IT,3,B,Male,Day Scholar
+STU0009,Student_0009,AIML,4,B,Male,Day Scholar
+STU0010,Student_0010,ECE,4,B,Male,Hostel
+STU0011,Student_0011,IT,2,C,Female,Day Scholar
+STU0012,Student_0012,ECE,4,D,Male,Hostel
+STU0013,Student_0013,ECE,3,D,Male,Hostel
+STU0014,Student_0014,MECH,1,A,Male,Day Scholar
+STU0015,Student_0015,EEE,1,C,Male,Hostel
+STU0016,Student_0016,ECE,1,B,Female,Day Scholar
+STU0017,Student_0017,CIVIL,2,C,Female,Day Scholar
+STU0018,Student_0018,MECH,4,D,Male,Hostel
+STU0019,Student_0019,AIML,3,D,Female,Hostel
+STU0020,Student_0020,EEE,4,A,Male,Hostel
+STU0021,Student_0021,CIVIL,4,A,Male,Day Scholar
+STU0022,Student_0022,CIVIL,4,D,Female,Hostel
+STU0023,Student_0023,AIML,1,B,Female,Day Scholar
+STU0024,Student_0024,EEE,3,B,Male,Day Scholar
+STU0025,Student_0025,MECH,3,C,Male,Hostel
+STU0026,Student_0026,CSE,4,D,Female,Day Scholar
+STU0027,Student_0027,EEE,1,D,Male,Hostel
+STU0028,Student_0028,AIML,1,B,Female,Hostel
+STU0029,Student_0029,CIVIL,3,B,Male,Hostel
+STU0030,Student_0030,MECH,1,D,Male,Hostel
+STU0031,Student_0031,EEE,1,A,Female,Hostel
+STU0032,Student_0032,CSE,1,D,Female,Hostel
+STU0033,Student_0033,CSE,2,D,Female,Hostel
+STU0034,Student_0034,ECE,4,B,Female,Day Scholar
+STU0035,Student_0035,ECE,3,B,Female,Hostel
+STU0036,Student_0036,IT,3,A,Female,Day Scholar
+STU0037,Student_0037,AIML,2,A,Female,Day Scholar
+STU0038,Student_0038,EEE,4,C,Male,Day Scholar
+STU0039,Student_0039,EEE,3,D,Male,Hostel
+STU0040,Student_0040,IT,1,B,Male,Day Scholar
+STU0041,Student_0041,CIVIL,3,A,Female,Day Scholar
+STU0042,Student_0042,CIVIL,1,C,Female,Hostel
+STU0043,Student_0043,IT,2,C,Female,Hostel
+STU0044,Student_0044,CIVIL,1,B,Male,Day Scholar
+STU0045,Student_0045,ECE,3,B,Female,Hostel
+STU0046,Student_0046,EEE,3,C,Female,Hostel
+STU0047,Student_0047,IT,3,A,Male,Hostel
+STU0048,Student_0048,EEE,2,C,Female,Hostel
+STU0049,Student_0049,CSE,2,D,Male,Day Scholar
+STU0050,Student_0050,ECE,4,D,Male,Hostel
+STU0051,Student_0051,MECH,3,B,Female,Hostel
+STU0052,Student_0052,ECE,1,A,Female,Hostel
+STU0053,Student_0053,IT,2,A,Female,Day Scholar
+STU0054,Student_0054,MECH,3,D,Male,Day Scholar
+STU0055,Student_0055,CSE,3,C,Male,Hostel
+STU0056,Student_0056,IT,2,B,Male,Hostel
+STU0057,Student_0057,AIML,4,C,Female,Day Scholar
+STU0058,Student_0058,EEE,2,C,Female,Hostel
+STU0059,Student_0059,CSE,2,C,Female,Hostel
+STU0060,Student_0060,EEE,1,A,Female,Day Scholar
+STU0061,Student_0061,CIVIL,1,D,Male,Hostel
+STU0062,Student_0062,AIML,4,A,Male,Hostel
+STU0063,Student_0063,AIML,3,D,Male,Day Scholar
+STU0064,Student_0064,CSE,2,B,Male,Day Scholar
+STU0065,Student_0065,AIML,4,B,Female,Hostel
+STU0066,Student_0066,MECH,1,C,Female,Day Scholar
+STU0067,Student_0067,AIML,2,D,Female,Hostel
+STU0068,Student_0068,EEE,3,D,Male,Hostel
+STU0069,Student_0069,EEE,1,D,Male,Hostel
+STU0070,Student_0070,IT,1,C,Female,Day Scholar
+STU0071,Student_0071,EEE,1,C,Female,Day Scholar
+STU0072,Student_0072,IT,4,B,Male,Hostel
+STU0073,Student_0073,EEE,3,A,Female,Hostel
+STU0074,Student_0074,MECH,2,D,Male,Day Scholar
+STU0075,Student_0075,IT,4,D,Male,Day Scholar
+STU0076,Student_0076,ECE,4,A,Male,Day Scholar
+STU0077,Student_0077,CIVIL,4,D,Female,Hostel
+STU0078,Student_0078,CSE,1,C,Female,Day Scholar
+STU0079,Student_0079,EEE,3,C,Male,Day Scholar
+STU0080,Student_0080,AIML,4,D,Female,Hostel
+STU0081,Student_0081,EEE,2,C,Male,Hostel
+STU0082,Student_0082,AIML,3,C,Male,Hostel
+STU0083,Student_0083,CIVIL,2,D,Male,Day Scholar
+STU0084,Student_0084,CIVIL,3,B,Male,Hostel
+STU0085,Student_0085,CIVIL,2,A,Female,Hostel
+STU0086,Student_0086,AIML,1,C,Male,Hostel
+STU0087,Student_0087,EEE,4,B,Male,Hostel
+STU0088,Student_0088,CIVIL,2,C,Female,Day Scholar
+STU0089,Student_0089,MECH,3,C,Male,Hostel
+STU0090,Student_0090,IT,4,A,Male,Day Scholar
+STU0091,Student_0091,AIML,4,C,Female,Day Scholar
+STU0092,Student_0092,AIML,3,A,Female,Day Scholar
+STU0093,Student_0093,EEE,2,A,Female,Hostel
+STU0094,Student_0094,AIML,1,A,Male,Day Scholar
+STU0095,Student_0095,AIML,1,B,Female,Hostel
+STU0096,Student_0096,CIVIL,2,D,Female,Hostel
+STU0097,Student_0097,EEE,4,B,Male,Hostel
+STU0098,Student_0098,CIVIL,4,D,Male,Day Scholar
+STU0099,Student_0099,IT,4,D,Male,Hostel
+STU0100,Student_0100,IT,4,A,Male,Hostel
+STU0101,Student_0101,CIVIL,2,C,Male,Hostel
+STU0102,Student_0102,IT,4,A,Female,Day Scholar
+STU0103,Student_0103,EEE,3,C,Female,Day Scholar
+STU0104,Student_0104,CSE,4,D,Female,Day Scholar
+STU0105,Student_0105,CIVIL,1,A,Male,Hostel
+STU0106,Student_0106,MECH,4,C,Male,Day Scholar
+STU0107,Student_0107,MECH,2,B,Male,Hostel
+STU0108,Student_0108,AIML,1,C,Female,Hostel
+STU0109,Student_0109,IT,2,A,Female,Day Scholar
+STU0110,Student_0110,MECH,2,B,Male,Hostel
+STU0111,Student_0111,AIML,1,C,Female,Day Scholar
+STU0112,Student_0112,CSE,2,C,Male,Hostel
+STU0113,Student_0113,EEE,2,C,Female,Day Scholar
+STU0114,Student_0114,EEE,4,C,Female,Hostel
+STU0115,Student_0115,EEE,3,C,Female,Hostel
+STU0116,Student_0116,MECH,2,B,Male,Hostel
+STU0117,Student_0117,CSE,2,D,Female,Hostel
+STU0118,Student_0118,MECH,2,B,Female,Hostel
+STU0119,Student_0119,IT,4,B,Male,Day Scholar
+STU0120,Student_0120,MECH,3,B,Female,Hostel
+STU0121,Student_0121,CSE,1,D,Male,Day Scholar
+STU0122,Student_0122,CSE,4,A,Male,Day Scholar
+STU0123,Student_0123,IT,4,D,Male,Day Scholar
+STU0124,Student_0124,CSE,3,B,Male,Hostel
+STU0125,Student_0125,CSE,3,C,Male,Hostel
+STU0126,Student_0126,EEE,4,C,Female,Hostel
+STU0127,Student_0127,IT,1,B,Male,Day Scholar
+STU0128,Student_0128,ECE,4,C,Male,Hostel
+STU0129,Student_0129,ECE,3,B,Male,Hostel
+STU0130,Student_0130,CSE,1,C,Male,Day Scholar
+STU0131,Student_0131,ECE,3,D,Female,Day Scholar
+STU0132,Student_0132,ECE,1,A,Male,Day Scholar
+STU0133,Student_0133,CSE,2,A,Female,Day Scholar
+STU0134,Student_0134,ECE,3,D,Male,Day Scholar
+STU0135,Student_0135,MECH,3,D,Female,Day Scholar
+STU0136,Student_0136,AIML,4,B,Male,Hostel
+STU0137,Student_0137,IT,3,B,Male,Day Scholar
+STU0138,Student_0138,AIML,3,B,Female,Hostel
+STU0139,Student_0139,CSE,2,C,Male,Hostel
+STU0140,Student_0140,EEE,3,B,Female,Hostel
+STU0141,Student_0141,IT,2,D,Male,Day Scholar
+STU0142,Student_0142,CSE,2,A,Female,Hostel
+STU0143,Student_0143,EEE,2,C,Male,Day Scholar
+STU0144,Student_0144,AIML,2,B,Male,Day Scholar
+STU0145,Student_0145,CSE,1,C,Female,Hostel
+STU0146,Student_0146,IT,4,C,Male,Day Scholar
+STU0147,Student_0147,IT,1,B,Male,Hostel
+STU0148,Student_0148,CIVIL,3,C,Male,Hostel
+STU0149,Student_0149,MECH,1,A,Male,Day Scholar
+STU0150,Student_0150,ECE,1,D,Male,Hostel
+STU0151,Student_0151,EEE,3,D,Male,Hostel
+STU0152,Student_0152,CIVIL,3,A,Female,Hostel
+STU0153,Student_0153,ECE,3,C,Female,Day Scholar
+STU0154,Student_0154,ECE,1,B,Female,Hostel
+STU0155,Student_0155,CSE,1,C,Male,Day Scholar
+STU0156,Student_0156,ECE,3,A,Female,Day Scholar
+STU0157,Student_0157,MECH,4,C,Male,Hostel
+STU0158,Student_0158,IT,4,D,Male,Hostel
+STU0159,Student_0159,CIVIL,2,C,Male,Day Scholar
+STU0160,Student_0160,ECE,3,A,Male,Day Scholar
+STU0161,Student_0161,CSE,2,D,Female,Hostel
+STU0162,Student_0162,MECH,4,C,Male,Hostel
+STU0163,Student_0163,AIML,2,C,Female,Day Scholar
+STU0164,Student_0164,IT,3,D,Male,Day Scholar
+STU0165,Student_0165,IT,3,B,Female,Day Scholar
+STU0166,Student_0166,CIVIL,3,D,Female,Day Scholar
+STU0167,Student_0167,IT,1,B,Female,Day Scholar
+STU0168,Student_0168,ECE,2,A,Female,Hostel
+STU0169,Student_0169,CSE,4,A,Female,Day Scholar
+STU0170,Student_0170,IT,4,D,Female,Day Scholar
+STU0171,Student_0171,IT,4,D,Male,Hostel
+STU0172,Student_0172,AIML,1,A,Female,Hostel
+STU0173,Student_0173,AIML,1,B,Male,Day Scholar
+STU0174,Student_0174,EEE,3,A,Female,Day Scholar
+STU0175,Student_0175,MECH,4,D,Male,Hostel
+STU0176,Student_0176,ECE,1,A,Female,Day Scholar
+STU0177,Student_0177,IT,3,D,Female,Day Scholar
+STU0178,Student_0178,IT,4,D,Male,Hostel
+STU0179,Student_0179,CSE,2,A,Female,Day Scholar
+STU0180,Student_0180,EEE,3,B,Female,Hostel
+STU0181,Student_0181,MECH,1,C,Female,Hostel
+STU0182,Student_0182,EEE,1,A,Male,Hostel
+STU0183,Student_0183,CIVIL,3,C,Female,Hostel
+STU0184,Student_0184,MECH,3,A,Male,Day Scholar
+STU0185,Student_0185,IT,1,C,Female,Hostel
+STU0186,Student_0186,IT,2,B,Female,Day Scholar
+STU0187,Student_0187,MECH,4,B,Male,Day Scholar
+STU0188,Student_0188,IT,2,A,Female,Day Scholar
+STU0189,Student_0189,ECE,3,D,Female,Day Scholar
+STU0190,Student_0190,MECH,2,C,Male,Day Scholar
+STU0191,Student_0191,EEE,1,D,Female,Hostel
+STU0192,Student_0192,MECH,3,D,Male,Hostel
+STU0193,Student_0193,IT,4,D,Male,Hostel
+STU0194,Student_0194,ECE,1,B,Male,Hostel
+STU0195,Student_0195,ECE,1,A,Female,Day Scholar
+STU0196,Student_0196,CIVIL,4,A,Male,Hostel
+STU0197,Student_0197,EEE,4,B,Male,Day Scholar
+STU0198,Student_0198,AIML,2,B,Female,Day Scholar
+STU0199,Student_0199,AIML,3,A,Male,Hostel
+STU0200,Student_0200,MECH,4,D,Female,Hostel
+STU0201,Student_0201,CIVIL,4,C,Female,Hostel
+STU0202,Student_0202,CSE,3,C,Female,Hostel
+STU0203,Student_0203,MECH,4,C,Female,Day Scholar
+STU0204,Student_0204,CIVIL,4,D,Male,Day Scholar
+STU0205,Student_0205,EEE,2,A,Male,Hostel
+STU0206,Student_0206,EEE,1,B,Male,Day Scholar
+STU0207,Student_0207,EEE,1,A,Male,Day Scholar
+STU0208,Student_0208,EEE,1,D,Male,Day Scholar
+STU0209,Student_0209,EEE,1,B,Female,Hostel
+STU0210,Student_0210,CIVIL,4,D,Male,Day Scholar
+STU0211,Student_0211,CIVIL,3,C,Male,Hostel
+STU0212,Student_0212,ECE,3,C,Male,Hostel
+STU0213,Student_0213,AIML,2,D,Female,Day Scholar
+STU0214,Student_0214,IT,2,B,Female,Day Scholar
+STU0215,Student_0215,EEE,4,B,Male,Hostel
+STU0216,Student_0216,CSE,3,A,Female,Day Scholar
+STU0217,Student_0217,IT,3,C,Male,Day Scholar
+STU0218,Student_0218,CIVIL,1,A,Male,Hostel
+STU0219,Student_0219,CSE,4,A,Female,Hostel
+STU0220,Student_0220,CSE,4,D,Female,Hostel
+STU0221,Student_0221,CSE,1,D,Male,Hostel
+STU0222,Student_0222,ECE,4,A,Male,Day Scholar
+STU0223,Student_0223,CIVIL,4,C,Female,Day Scholar
+STU0224,Student_0224,CSE,2,D,Male,Hostel
+STU0225,Student_0225,EEE,3,A,Female,Hostel
+STU0226,Student_0226,MECH,4,A,Male,Hostel
+STU0227,Student_0227,CSE,2,A,Female,Day Scholar
+STU0228,Student_0228,ECE,3,A,Male,Hostel
+STU0229,Student_0229,IT,1,A,Male,Day Scholar
+STU0230,Student_0230,CIVIL,2,A,Female,Hostel
+STU0231,Student_0231,ECE,2,D,Male,Hostel
+STU0232,Student_0232,CSE,3,C,Male,Hostel
+STU0233,Student_0233,CIVIL,1,A,Female,Day Scholar
+STU0234,Student_0234,MECH,2,B,Male,Day Scholar
+STU0235,Student_0235,CSE,4,D,Male,Day Scholar
+STU0236,Student_0236,ECE,4,D,Male,Hostel
+STU0237,Student_0237,AIML,4,A,Female,Day Scholar
+STU0238,Student_0238,EEE,1,D,Female,Day Scholar
+STU0239,Student_0239,IT,2,A,Female,Hostel
+STU0240,Student_0240,ECE,4,C,Male,Hostel
+STU0241,Student_0241,CIVIL,1,C,Male,Day Scholar
+STU0242,Student_0242,CSE,4,D,Male,Day Scholar
+STU0243,Student_0243,EEE,3,D,Male,Day Scholar
+STU0244,Student_0244,CSE,2,B,Female,Day Scholar
+STU0245,Student_0245,CIVIL,2,D,Male,Hostel
+STU0246,Student_0246,CSE,1,B,Male,Hostel
+STU0247,Student_0247,AIML,1,C,Male,Hostel
+STU0248,Student_0248,EEE,2,C,Female,Day Scholar
+STU0249,Student_0249,EEE,4,A,Male,Day Scholar
+STU0250,Student_0250,CIVIL,4,C,Male,Hostel
+STU0251,Student_0251,IT,3,B,Male,Hostel
+STU0252,Student_0252,AIML,4,D,Male,Day Scholar
+STU0253,Student_0253,ECE,1,A,Male,Day Scholar
+STU0254,Student_0254,CSE,1,B,Female,Hostel
+STU0255,Student_0255,MECH,4,D,Male,Hostel
+STU0256,Student_0256,CSE,1,A,Male,Hostel
+STU0257,Student_0257,CSE,2,C,Male,Day Scholar
+STU0258,Student_0258,ECE,2,B,Male,Day Scholar
+STU0259,Student_0259,CSE,4,D,Male,Day Scholar
+STU0260,Student_0260,AIML,2,A,Male,Day Scholar
+STU0261,Student_0261,AIML,2,A,Male,Day Scholar
+STU0262,Student_0262,EEE,3,C,Male,Day Scholar
+STU0263,Student_0263,CIVIL,3,D,Male,Hostel
+STU0264,Student_0264,IT,2,C,Male,Hostel
+STU0265,Student_0265,MECH,4,C,Female,Day Scholar
+STU0266,Student_0266,CSE,3,D,Female,Hostel
+STU0267,Student_0267,CSE,1,D,Female,Day Scholar
+STU0268,Student_0268,ECE,1,D,Female,Hostel
+STU0269,Student_0269,CIVIL,1,B,Male,Day Scholar
+STU0270,Student_0270,AIML,4,D,Female,Hostel
+STU0271,Student_0271,MECH,2,A,Female,Hostel
+STU0272,Student_0272,EEE,1,C,Male,Day Scholar
+STU0273,Student_0273,AIML,4,B,Female,Day Scholar
+STU0274,Student_0274,CIVIL,3,D,Female,Hostel
+STU0275,Student_0275,IT,2,B,Male,Hostel
+STU0276,Student_0276,EEE,3,D,Male,Day Scholar
+STU0277,Student_0277,IT,4,B,Male,Hostel
+STU0278,Student_0278,ECE,1,C,Female,Day Scholar
+STU0279,Student_0279,ECE,1,C,Female,Day Scholar
+STU0280,Student_0280,CSE,4,A,Male,Hostel
+STU0281,Student_0281,IT,1,A,Male,Day Scholar
+STU0282,Student_0282,CIVIL,2,D,Female,Hostel
+STU0283,Student_0283,MECH,4,C,Male,Hostel
+STU0284,Student_0284,EEE,3,B,Female,Day Scholar
+STU0285,Student_0285,AIML,4,B,Male,Hostel
+STU0286,Student_0286,CIVIL,2,B,Male,Day Scholar
+STU0287,Student_0287,CIVIL,2,A,Female,Day Scholar
+STU0288,Student_0288,ECE,4,B,Male,Day Scholar
+STU0289,Student_0289,IT,4,A,Male,Hostel
+STU0290,Student_0290,CSE,1,A,Male,Day Scholar
+STU0291,Student_0291,CSE,2,D,Female,Hostel
+STU0292,Student_0292,EEE,4,B,Male,Day Scholar
+STU0293,Student_0293,ECE,4,B,Male,Day Scholar
+STU0294,Student_0294,CIVIL,2,C,Male,Day Scholar
+STU0295,Student_0295,MECH,4,D,Male,Hostel
+STU0296,Student_0296,ECE,1,C,Male,Hostel
+STU0297,Student_0297,EEE,2,D,Male,Day Scholar
+STU0298,Student_0298,EEE,1,B,Female,Day Scholar
+STU0299,Student_0299,ECE,1,A,Female,Hostel
+STU0300,Student_0300,EEE,1,A,Male,Hostel
+STU0301,Student_0301,ECE,1,A,Female,Hostel
+STU0302,Student_0302,AIML,2,A,Female,Day Scholar
+STU0303,Student_0303,ECE,1,A,Male,Hostel
+STU0304,Student_0304,IT,1,C,Female,Day Scholar
+STU0305,Student_0305,ECE,4,D,Female,Hostel
+STU0306,Student_0306,EEE,2,B,Female,Day Scholar
+STU0307,Student_0307,IT,2,C,Female,Day Scholar
+STU0308,Student_0308,EEE,3,D,Female,Day Scholar
+STU0309,Student_0309,CSE,2,A,Female,Hostel
+STU0310,Student_0310,CSE,2,D,Female,Hostel
+STU0311,Student_0311,IT,3,D,Female,Hostel
+STU0312,Student_0312,AIML,2,A,Male,Day Scholar
+STU0313,Student_0313,CSE,2,A,Male,Day Scholar
+STU0314,Student_0314,ECE,2,A,Female,Hostel
+STU0315,Student_0315,EEE,2,B,Female,Day Scholar
+STU0316,Student_0316,CSE,3,A,Male,Day Scholar
+STU0317,Student_0317,CSE,2,B,Female,Day Scholar
+STU0318,Student_0318,AIML,2,A,Female,Hostel
+STU0319,Student_0319,IT,3,B,Male,Day Scholar
+STU0320,Student_0320,IT,4,D,Male,Hostel
+STU0321,Student_0321,CIVIL,1,C,Male,Hostel
+STU0322,Student_0322,AIML,4,D,Female,Hostel
+STU0323,Student_0323,ECE,3,D,Female,Hostel
+STU0324,Student_0324,IT,1,A,Male,Hostel
+STU0325,Student_0325,EEE,3,B,Male,Day Scholar
+STU0326,Student_0326,AIML,3,C,Female,Hostel
+STU0327,Student_0327,CSE,2,A,Male,Hostel
+STU0328,Student_0328,EEE,1,A,Female,Hostel
+STU0329,Student_0329,EEE,2,A,Female,Day Scholar
+STU0330,Student_0330,CSE,1,D,Male,Day Scholar
+STU0331,Student_0331,AIML,3,B,Male,Day Scholar
+STU0332,Student_0332,CSE,3,B,Female,Day Scholar
+STU0333,Student_0333,CIVIL,4,C,Male,Hostel
+STU0334,Student_0334,EEE,1,B,Male,Hostel
+STU0335,Student_0335,MECH,2,B,Male,Day Scholar
+STU0336,Student_0336,MECH,4,A,Male,Day Scholar
+STU0337,Student_0337,ECE,4,A,Female,Day Scholar
+STU0338,Student_0338,IT,4,D,Female,Day Scholar
+STU0339,Student_0339,CSE,2,A,Female,Hostel
+STU0340,Student_0340,CSE,4,A,Female,Day Scholar
+STU0341,Student_0341,ECE,2,A,Male,Day Scholar
+STU0342,Student_0342,ECE,4,A,Male,Day Scholar
+STU0343,Student_0343,ECE,2,D,Female,Day Scholar
+STU0344,Student_0344,EEE,3,A,Female,Day Scholar
+STU0345,Student_0345,CIVIL,3,C,Male,Day Scholar
+STU0346,Student_0346,CSE,3,C,Female,Day Scholar
+STU0347,Student_0347,EEE,3,C,Female,Hostel
+STU0348,Student_0348,ECE,3,C,Male,Hostel
+STU0349,Student_0349,CSE,4,A,Female,Hostel
+STU0350,Student_0350,EEE,4,C,Male,Hostel
+STU0351,Student_0351,CIVIL,4,A,Male,Hostel
+STU0352,Student_0352,EEE,2,D,Female,Hostel
+STU0353,Student_0353,CIVIL,2,C,Male,Day Scholar
+STU0354,Student_0354,ECE,2,B,Female,Day Scholar
+STU0355,Student_0355,CIVIL,2,C,Male,Hostel
+STU0356,Student_0356,CSE,3,C,Female,Day Scholar
+STU0357,Student_0357,ECE,3,A,Female,Hostel
+STU0358,Student_0358,CSE,3,C,Female,Day Scholar
+STU0359,Student_0359,MECH,1,B,Male,Day Scholar
+STU0360,Student_0360,AIML,4,A,Male,Day Scholar
+STU0361,Student_0361,CIVIL,2,A,Female,Day Scholar
+STU0362,Student_0362,AIML,2,D,Male,Day Scholar
+STU0363,Student_0363,AIML,3,D,Female,Day Scholar
+STU0364,Student_0364,CIVIL,2,C,Female,Hostel
+STU0365,Student_0365,ECE,2,D,Male,Hostel
+STU0366,Student_0366,MECH,4,D,Female,Day Scholar
+STU0367,Student_0367,CSE,3,D,Male,Hostel
+STU0368,Student_0368,EEE,4,A,Female,Day Scholar
+STU0369,Student_0369,CSE,1,A,Male,Hostel
+STU0370,Student_0370,EEE,1,A,Female,Day Scholar
+STU0371,Student_0371,CSE,1,D,Female,Hostel
+STU0372,Student_0372,CIVIL,3,A,Male,Day Scholar
+STU0373,Student_0373,MECH,2,D,Female,Hostel
+STU0374,Student_0374,EEE,3,A,Female,Day Scholar
+STU0375,Student_0375,IT,3,A,Male,Hostel
+STU0376,Student_0376,ECE,2,B,Female,Day Scholar
+STU0377,Student_0377,CSE,4,C,Male,Day Scholar
+STU0378,Student_0378,CSE,1,D,Female,Day Scholar
+STU0379,Student_0379,EEE,4,B,Male,Hostel
+STU0380,Student_0380,ECE,1,A,Female,Hostel
+STU0381,Student_0381,ECE,3,D,Female,Hostel
+STU0382,Student_0382,CIVIL,1,A,Female,Day Scholar
+STU0383,Student_0383,IT,3,C,Male,Hostel
+STU0384,Student_0384,CIVIL,4,B,Male,Day Scholar
+STU0385,Student_0385,CIVIL,3,C,Male,Hostel
+STU0386,Student_0386,CIVIL,4,B,Male,Hostel
+STU0387,Student_0387,CIVIL,2,A,Female,Hostel
+STU0388,Student_0388,CIVIL,2,C,Female,Hostel
+STU0389,Student_0389,MECH,2,C,Male,Day Scholar
+STU0390,Student_0390,ECE,3,A,Male,Hostel
+STU0391,Student_0391,CIVIL,2,C,Male,Hostel
+STU0392,Student_0392,ECE,1,D,Female,Day Scholar
+STU0393,Student_0393,ECE,4,B,Male,Day Scholar
+STU0394,Student_0394,AIML,4,B,Male,Hostel
+STU0395,Student_0395,MECH,1,B,Female,Hostel
+STU0396,Student_0396,CIVIL,3,D,Female,Day Scholar
+STU0397,Student_0397,CSE,3,B,Male,Day Scholar
+STU0398,Student_0398,EEE,4,A,Female,Day Scholar
+STU0399,Student_0399,IT,2,C,Male,Hostel
+STU0400,Student_0400,CSE,3,D,Female,Hostel
+STU0401,Student_0401,MECH,3,B,Male,Hostel
+STU0402,Student_0402,EEE,1,A,Male,Day Scholar
+STU0403,Student_0403,MECH,1,C,Male,Day Scholar
+STU0404,Student_0404,ECE,2,C,Male,Day Scholar
+STU0405,Student_0405,EEE,3,D,Female,Hostel
+STU0406,Student_0406,ECE,3,D,Female,Day Scholar
+STU0407,Student_0407,CSE,1,D,Female,Hostel
+STU0408,Student_0408,CSE,3,A,Female,Day Scholar
+STU0409,Student_0409,EEE,4,A,Male,Hostel
+STU0410,Student_0410,EEE,1,D,Male,Hostel
+STU0411,Student_0411,CIVIL,2,B,Female,Day Scholar
+STU0412,Student_0412,MECH,1,C,Female,Hostel
+STU0413,Student_0413,CIVIL,3,C,Female,Day Scholar
+STU0414,Student_0414,MECH,2,A,Female,Hostel
+STU0415,Student_0415,CIVIL,1,C,Female,Day Scholar
+STU0416,Student_0416,ECE,4,B,Male,Day Scholar
+STU0417,Student_0417,EEE,4,C,Male,Hostel
+STU0418,Student_0418,CSE,1,A,Male,Day Scholar
+STU0419,Student_0419,MECH,4,A,Female,Hostel
+STU0420,Student_0420,MECH,4,B,Female,Day Scholar
+STU0421,Student_0421,CSE,4,B,Female,Day Scholar
+STU0422,Student_0422,CIVIL,2,C,Female,Day Scholar
+STU0423,Student_0423,MECH,4,C,Male,Day Scholar
+STU0424,Student_0424,IT,4,A,Male,Hostel
+STU0425,Student_0425,ECE,4,B,Female,Day Scholar
+STU0426,Student_0426,EEE,2,B,Male,Day Scholar
+STU0427,Student_0427,CSE,1,B,Male,Hostel
+STU0428,Student_0428,EEE,3,C,Female,Hostel
+STU0429,Student_0429,IT,4,B,Female,Hostel
+STU0430,Student_0430,MECH,1,A,Female,Hostel
+STU0431,Student_0431,MECH,4,A,Female,Hostel
+STU0432,Student_0432,IT,2,C,Female,Hostel
+STU0433,Student_0433,CSE,1,D,Female,Day Scholar
+STU0434,Student_0434,ECE,2,C,Male,Hostel
+STU0435,Student_0435,AIML,4,D,Male,Day Scholar
+STU0436,Student_0436,CSE,4,B,Female,Hostel
+STU0437,Student_0437,AIML,2,C,Male,Day Scholar
+STU0438,Student_0438,IT,3,A,Female,Day Scholar
+STU0439,Student_0439,CIVIL,2,B,Female,Day Scholar
+STU0440,Student_0440,AIML,4,A,Female,Hostel
+STU0441,Student_0441,ECE,2,B,Female,Hostel
+STU0442,Student_0442,CIVIL,3,C,Male,Hostel
+STU0443,Student_0443,AIML,2,D,Female,Hostel
+STU0444,Student_0444,IT,3,B,Male,Day Scholar
+STU0445,Student_0445,CIVIL,3,D,Female,Hostel
+STU0446,Student_0446,IT,2,B,Female,Day Scholar
+STU0447,Student_0447,AIML,2,A,Female,Day Scholar
+STU0448,Student_0448,IT,1,A,Male,Hostel
+STU0449,Student_0449,ECE,4,B,Female,Hostel
+STU0450,Student_0450,AIML,3,D,Female,Hostel
+STU0451,Student_0451,AIML,1,C,Female,Day Scholar
+STU0452,Student_0452,AIML,2,C,Male,Hostel
+STU0453,Student_0453,CSE,4,A,Male,Day Scholar
+STU0454,Student_0454,CSE,1,C,Male,Hostel
+STU0455,Student_0455,CSE,3,A,Female,Day Scholar
+STU0456,Student_0456,ECE,1,C,Male,Hostel
+STU0457,Student_0457,CIVIL,3,B,Female,Hostel
+STU0458,Student_0458,IT,2,A,Male,Day Scholar
+STU0459,Student_0459,MECH,4,A,Male,Hostel
+STU0460,Student_0460,AIML,4,B,Female,Hostel
+STU0461,Student_0461,IT,4,A,Male,Hostel
+STU0462,Student_0462,AIML,2,C,Female,Hostel
+STU0463,Student_0463,ECE,3,C,Female,Hostel
+STU0464,Student_0464,AIML,2,A,Male,Hostel
+STU0465,Student_0465,CSE,4,C,Female,Hostel
+STU0466,Student_0466,MECH,2,D,Female,Day Scholar
+STU0467,Student_0467,EEE,2,A,Male,Day Scholar
+STU0468,Student_0468,AIML,2,B,Male,Hostel
+STU0469,Student_0469,IT,3,D,Female,Hostel
+STU0470,Student_0470,CSE,1,A,Male,Hostel
+STU0471,Student_0471,EEE,1,B,Female,Day Scholar
+STU0472,Student_0472,MECH,2,C,Female,Day Scholar
+STU0473,Student_0473,EEE,1,B,Male,Hostel
+STU0474,Student_0474,CSE,1,D,Male,Day Scholar
+STU0475,Student_0475,CIVIL,2,C,Male,Hostel
+STU0476,Student_0476,CIVIL,2,A,Male,Hostel
+STU0477,Student_0477,EEE,4,C,Female,Hostel
+STU0478,Student_0478,ECE,1,A,Female,Hostel
+STU0479,Student_0479,IT,3,A,Male,Day Scholar
+STU0480,Student_0480,IT,2,B,Male,Day Scholar
+STU0481,Student_0481,EEE,4,B,Female,Hostel
+STU0482,Student_0482,AIML,3,B,Female,Day Scholar
+STU0483,Student_0483,AIML,1,D,Female,Day Scholar
+STU0484,Student_0484,IT,4,D,Female,Hostel
+STU0485,Student_0485,IT,2,B,Male,Day Scholar
+STU0486,Student_0486,CIVIL,3,D,Female,Hostel
+STU0487,Student_0487,ECE,2,C,Female,Hostel
+STU0488,Student_0488,CSE,1,C,Male,Hostel
+STU0489,Student_0489,AIML,3,D,Female,Hostel
+STU0490,Student_0490,IT,1,D,Female,Day Scholar
+STU0491,Student_0491,CIVIL,1,C,Male,Hostel
+STU0492,Student_0492,MECH,4,A,Male,Day Scholar
+STU0493,Student_0493,CIVIL,2,C,Male,Hostel
+STU0494,Student_0494,AIML,3,C,Female,Hostel
+STU0495,Student_0495,AIML,1,D,Female,Day Scholar
+STU0496,Student_0496,CIVIL,1,C,Male,Hostel
+STU0497,Student_0497,CSE,3,D,Male,Day Scholar
+STU0498,Student_0498,EEE,1,D,Female,Day Scholar
+STU0499,Student_0499,AIML,4,B,Male,Hostel
+STU0500,Student_0500,CIVIL,4,C,Male,Hostel
+STU0501,Student_0501,IT,4,A,Male,Hostel
+STU0502,Student_0502,CIVIL,4,B,Female,Hostel
+STU0503,Student_0503,ECE,1,D,Female,Hostel
+STU0504,Student_0504,EEE,3,D,Female,Hostel
+STU0505,Student_0505,MECH,3,A,Female,Day Scholar
+STU0506,Student_0506,CSE,3,D,Female,Day Scholar
+STU0507,Student_0507,MECH,3,C,Female,Hostel
+STU0508,Student_0508,EEE,2,B,Male,Day Scholar
+STU0509,Student_0509,EEE,3,D,Female,Day Scholar
+STU0510,Student_0510,EEE,2,D,Female,Hostel
+STU0511,Student_0511,MECH,2,A,Male,Hostel
+STU0512,Student_0512,IT,4,C,Female,Day Scholar
+STU0513,Student_0513,EEE,2,D,Female,Hostel
+STU0514,Student_0514,CIVIL,1,A,Male,Day Scholar
+STU0515,Student_0515,MECH,2,D,Male,Hostel
+STU0516,Student_0516,EEE,4,A,Male,Day Scholar
+STU0517,Student_0517,CIVIL,2,A,Female,Day Scholar
+STU0518,Student_0518,IT,1,C,Male,Day Scholar
+STU0519,Student_0519,ECE,1,D,Female,Day Scholar
+STU0520,Student_0520,IT,1,C,Female,Hostel
+STU0521,Student_0521,EEE,4,A,Female,Hostel
+STU0522,Student_0522,MECH,4,B,Female,Day Scholar
+STU0523,Student_0523,AIML,3,D,Male,Day Scholar
+STU0524,Student_0524,EEE,4,B,Male,Hostel
+STU0525,Student_0525,AIML,1,D,Female,Hostel
+STU0526,Student_0526,CIVIL,1,C,Male,Day Scholar
+STU0527,Student_0527,ECE,4,C,Female,Day Scholar
+STU0528,Student_0528,CSE,2,C,Female,Day Scholar
+STU0529,Student_0529,IT,4,C,Female,Day Scholar
+STU0530,Student_0530,ECE,4,C,Male,Day Scholar
+STU0531,Student_0531,EEE,1,B,Female,Hostel
+STU0532,Student_0532,AIML,3,C,Female,Day Scholar
+STU0533,Student_0533,IT,1,A,Male,Hostel
+STU0534,Student_0534,AIML,3,A,Male,Hostel
+STU0535,Student_0535,MECH,1,B,Male,Hostel
+STU0536,Student_0536,AIML,4,D,Male,Day Scholar
+STU0537,Student_0537,MECH,1,A,Female,Hostel
+STU0538,Student_0538,CIVIL,1,D,Male,Hostel
+STU0539,Student_0539,IT,1,B,Female,Hostel
+STU0540,Student_0540,IT,4,D,Male,Hostel
+STU0541,Student_0541,CSE,4,D,Male,Day Scholar
+STU0542,Student_0542,EEE,4,D,Male,Day Scholar
+STU0543,Student_0543,MECH,4,D,Male,Hostel
+STU0544,Student_0544,CSE,3,B,Male,Hostel
+STU0545,Student_0545,AIML,3,A,Male,Day Scholar
+STU0546,Student_0546,AIML,2,C,Female,Day Scholar
+STU0547,Student_0547,CSE,4,D,Male,Day Scholar
+STU0548,Student_0548,IT,3,A,Male,Hostel
+STU0549,Student_0549,AIML,1,A,Male,Day Scholar
+STU0550,Student_0550,CIVIL,4,B,Male,Hostel
+STU0551,Student_0551,CIVIL,2,A,Female,Hostel
+STU0552,Student_0552,CSE,2,B,Male,Day Scholar
+STU0553,Student_0553,MECH,2,D,Male,Hostel
+STU0554,Student_0554,MECH,1,D,Male,Day Scholar
+STU0555,Student_0555,CSE,3,C,Male,Hostel
+STU0556,Student_0556,MECH,1,C,Female,Day Scholar
+STU0557,Student_0557,IT,4,C,Male,Hostel
+STU0558,Student_0558,IT,2,A,Female,Hostel
+STU0559,Student_0559,MECH,1,D,Male,Day Scholar
+STU0560,Student_0560,CIVIL,1,B,Female,Day Scholar
+STU0561,Student_0561,MECH,3,C,Female,Day Scholar
+STU0562,Student_0562,IT,3,B,Male,Day Scholar
+STU0563,Student_0563,ECE,2,B,Male,Hostel
+STU0564,Student_0564,EEE,1,C,Female,Day Scholar
+STU0565,Student_0565,AIML,1,D,Female,Day Scholar
+STU0566,Student_0566,ECE,3,C,Male,Hostel
+STU0567,Student_0567,MECH,1,B,Female,Day Scholar
+STU0568,Student_0568,CIVIL,1,C,Female,Day Scholar
+STU0569,Student_0569,CSE,1,B,Female,Hostel
+STU0570,Student_0570,MECH,3,B,Male,Day Scholar
+STU0571,Student_0571,CIVIL,2,C,Female,Day Scholar
+STU0572,Student_0572,EEE,4,A,Female,Day Scholar
+STU0573,Student_0573,MECH,2,C,Female,Day Scholar
+STU0574,Student_0574,IT,4,A,Male,Day Scholar
+STU0575,Student_0575,CSE,1,B,Male,Day Scholar
+STU0576,Student_0576,CIVIL,2,B,Female,Hostel
+STU0577,Student_0577,CIVIL,4,A,Male,Day Scholar
+STU0578,Student_0578,CIVIL,3,B,Female,Hostel
+STU0579,Student_0579,EEE,3,A,Male,Hostel
+STU0580,Student_0580,MECH,2,A,Male,Hostel
+STU0581,Student_0581,EEE,2,B,Female,Hostel
+STU0582,Student_0582,AIML,1,D,Male,Day Scholar
+STU0583,Student_0583,AIML,2,A,Male,Day Scholar
+STU0584,Student_0584,MECH,1,C,Male,Day Scholar
+STU0585,Student_0585,IT,1,C,Female,Hostel
+STU0586,Student_0586,EEE,3,B,Male,Day Scholar
+STU0587,Student_0587,CSE,3,D,Male,Day Scholar
+STU0588,Student_0588,CIVIL,4,B,Female,Day Scholar
+STU0589,Student_0589,CIVIL,3,D,Male,Hostel
+STU0590,Student_0590,MECH,3,A,Male,Hostel
+STU0591,Student_0591,IT,2,A,Male,Day Scholar
+STU0592,Student_0592,AIML,3,A,Male,Hostel
+STU0593,Student_0593,AIML,4,A,Male,Hostel
+STU0594,Student_0594,CIVIL,2,C,Female,Day Scholar
+STU0595,Student_0595,MECH,4,C,Female,Hostel
+STU0596,Student_0596,EEE,3,B,Male,Hostel
+STU0597,Student_0597,AIML,4,D,Male,Day Scholar
+STU0598,Student_0598,EEE,2,A,Male,Hostel
+STU0599,Student_0599,IT,1,A,Female,Hostel
+STU0600,Student_0600,AIML,4,D,Female,Hostel
+STU0601,Student_0601,AIML,4,D,Male,Hostel
+STU0602,Student_0602,ECE,2,B,Male,Hostel
+STU0603,Student_0603,AIML,2,D,Female,Hostel
+STU0604,Student_0604,CSE,4,A,Male,Hostel
+STU0605,Student_0605,MECH,3,A,Female,Hostel
+STU0606,Student_0606,MECH,4,A,Female,Day Scholar
+STU0607,Student_0607,EEE,2,A,Male,Day Scholar
+STU0608,Student_0608,IT,1,A,Female,Day Scholar
+STU0609,Student_0609,AIML,1,B,Male,Day Scholar
+STU0610,Student_0610,CSE,3,A,Male,Hostel
+STU0611,Student_0611,EEE,4,B,Male,Day Scholar
+STU0612,Student_0612,ECE,1,A,Male,Day Scholar
+STU0613,Student_0613,EEE,4,C,Male,Hostel
+STU0614,Student_0614,EEE,2,C,Male,Hostel
+STU0615,Student_0615,AIML,1,C,Female,Hostel
+STU0616,Student_0616,ECE,3,C,Female,Hostel
+STU0617,Student_0617,EEE,2,B,Female,Hostel
+STU0618,Student_0618,CSE,3,B,Female,Day Scholar
+STU0619,Student_0619,CSE,2,D,Male,Hostel
+STU0620,Student_0620,MECH,1,A,Female,Day Scholar
+STU0621,Student_0621,ECE,3,C,Female,Day Scholar
+STU0622,Student_0622,ECE,3,B,Female,Hostel
+STU0623,Student_0623,MECH,2,A,Male,Day Scholar
+STU0624,Student_0624,EEE,3,A,Female,Day Scholar
+STU0625,Student_0625,ECE,2,B,Male,Hostel
+STU0626,Student_0626,CSE,2,C,Female,Day Scholar
+STU0627,Student_0627,CSE,2,D,Male,Day Scholar
+STU0628,Student_0628,AIML,2,A,Male,Day Scholar
+STU0629,Student_0629,ECE,1,D,Female,Hostel
+STU0630,Student_0630,EEE,2,C,Male,Hostel
+STU0631,Student_0631,MECH,4,C,Male,Hostel
+STU0632,Student_0632,MECH,3,D,Female,Day Scholar
+STU0633,Student_0633,EEE,4,C,Female,Hostel
+STU0634,Student_0634,IT,1,A,Female,Day Scholar
+STU0635,Student_0635,CIVIL,4,D,Male,Hostel
+STU0636,Student_0636,AIML,3,C,Male,Day Scholar
+STU0637,Student_0637,MECH,4,D,Male,Hostel
+STU0638,Student_0638,ECE,1,A,Female,Hostel
+STU0639,Student_0639,AIML,2,C,Male,Day Scholar
+STU0640,Student_0640,ECE,4,A,Male,Hostel
+STU0641,Student_0641,IT,1,C,Male,Day Scholar
+STU0642,Student_0642,CSE,1,B,Male,Hostel
+STU0643,Student_0643,AIML,3,C,Male,Hostel
+STU0644,Student_0644,MECH,3,D,Male,Day Scholar
+STU0645,Student_0645,AIML,4,C,Male,Day Scholar
+STU0646,Student_0646,AIML,2,A,Female,Day Scholar
+STU0647,Student_0647,AIML,1,A,Female,Hostel
+STU0648,Student_0648,CIVIL,4,C,Female,Day Scholar
+STU0649,Student_0649,AIML,1,D,Male,Hostel
+STU0650,Student_0650,ECE,1,B,Male,Day Scholar
+STU0651,Student_0651,CSE,2,D,Female,Day Scholar
+STU0652,Student_0652,IT,2,B,Male,Day Scholar
+STU0653,Student_0653,EEE,4,A,Female,Day Scholar
+STU0654,Student_0654,AIML,2,D,Male,Day Scholar
+STU0655,Student_0655,MECH,2,B,Male,Day Scholar
+STU0656,Student_0656,AIML,4,C,Female,Hostel
+STU0657,Student_0657,MECH,2,A,Female,Day Scholar
+STU0658,Student_0658,ECE,3,C,Female,Hostel
+STU0659,Student_0659,MECH,1,A,Female,Day Scholar
+STU0660,Student_0660,EEE,1,D,Female,Day Scholar
+STU0661,Student_0661,CSE,1,D,Male,Day Scholar
+STU0662,Student_0662,MECH,1,A,Male,Hostel
+STU0663,Student_0663,MECH,4,A,Male,Hostel
+STU0664,Student_0664,CSE,1,A,Female,Day Scholar
+STU0665,Student_0665,EEE,1,D,Female,Hostel
+STU0666,Student_0666,AIML,1,B,Female,Day Scholar
+STU0667,Student_0667,MECH,1,C,Female,Day Scholar
+STU0668,Student_0668,CSE,3,C,Female,Hostel
+STU0669,Student_0669,ECE,1,D,Female,Hostel
+STU0670,Student_0670,CSE,3,C,Male,Hostel
+STU0671,Student_0671,ECE,4,A,Male,Hostel
+STU0672,Student_0672,EEE,2,B,Male,Day Scholar
+STU0673,Student_0673,AIML,1,C,Male,Hostel
+STU0674,Student_0674,CSE,2,B,Male,Hostel
+STU0675,Student_0675,IT,2,A,Female,Day Scholar
+STU0676,Student_0676,IT,4,C,Female,Hostel
+STU0677,Student_0677,CIVIL,2,D,Female,Hostel
+STU0678,Student_0678,MECH,3,B,Female,Hostel
+STU0679,Student_0679,EEE,2,A,Female,Hostel
+STU0680,Student_0680,CSE,2,B,Female,Day Scholar
+STU0681,Student_0681,IT,2,C,Male,Day Scholar
+STU0682,Student_0682,MECH,1,C,Female,Hostel
+STU0683,Student_0683,IT,1,D,Female,Hostel
+STU0684,Student_0684,CSE,3,A,Female,Day Scholar
+STU0685,Student_0685,ECE,3,A,Female,Hostel
+STU0686,Student_0686,CSE,1,D,Male,Hostel
+STU0687,Student_0687,CIVIL,3,D,Male,Hostel
+STU0688,Student_0688,CSE,1,A,Female,Hostel
+STU0689,Student_0689,CSE,4,B,Male,Hostel
+STU0690,Student_0690,CIVIL,2,B,Male,Hostel
+STU0691,Student_0691,EEE,2,D,Female,Hostel
+STU0692,Student_0692,CSE,3,B,Female,Hostel
+STU0693,Student_0693,CIVIL,1,A,Female,Hostel
+STU0694,Student_0694,MECH,1,C,Female,Day Scholar
+STU0695,Student_0695,ECE,3,C,Female,Day Scholar
+STU0696,Student_0696,ECE,1,B,Male,Day Scholar
+STU0697,Student_0697,CSE,4,D,Female,Hostel
+STU0698,Student_0698,EEE,2,D,Female,Hostel
+STU0699,Student_0699,EEE,3,D,Female,Day Scholar
+STU0700,Student_0700,MECH,3,D,Male,Hostel
+STU0701,Student_0701,CSE,1,D,Female,Day Scholar
+STU0702,Student_0702,ECE,3,B,Female,Hostel
+STU0703,Student_0703,EEE,4,C,Female,Day Scholar
+STU0704,Student_0704,CSE,1,C,Male,Day Scholar
+STU0705,Student_0705,IT,1,B,Female,Day Scholar
+STU0706,Student_0706,EEE,1,D,Female,Hostel
+STU0707,Student_0707,CIVIL,1,B,Female,Day Scholar
+STU0708,Student_0708,IT,4,C,Male,Hostel
+STU0709,Student_0709,EEE,1,A,Female,Hostel
+STU0710,Student_0710,ECE,3,B,Female,Hostel
+STU0711,Student_0711,AIML,4,D,Female,Hostel
+STU0712,Student_0712,IT,2,C,Male,Hostel
+STU0713,Student_0713,MECH,2,C,Female,Hostel
+STU0714,Student_0714,MECH,3,C,Female,Hostel
+STU0715,Student_0715,ECE,3,C,Female,Day Scholar
+STU0716,Student_0716,EEE,4,D,Male,Day Scholar
+STU0717,Student_0717,CSE,2,A,Male,Day Scholar
+STU0718,Student_0718,EEE,2,C,Female,Hostel
+STU0719,Student_0719,ECE,2,B,Male,Hostel
+STU0720,Student_0720,MECH,2,A,Male,Hostel
+STU0721,Student_0721,EEE,2,C,Male,Hostel
+STU0722,Student_0722,MECH,1,A,Female,Day Scholar
+STU0723,Student_0723,IT,3,B,Female,Hostel
+STU0724,Student_0724,CSE,1,C,Male,Day Scholar
+STU0725,Student_0725,IT,2,B,Male,Hostel
+STU0726,Student_0726,MECH,4,D,Male,Day Scholar
+STU0727,Student_0727,MECH,4,C,Female,Hostel
+STU0728,Student_0728,AIML,2,C,Female,Day Scholar
+STU0729,Student_0729,AIML,2,C,Male,Hostel
+STU0730,Student_0730,IT,4,C,Male,Day Scholar
+STU0731,Student_0731,CIVIL,1,D,Male,Hostel
+STU0732,Student_0732,IT,1,C,Male,Day Scholar
+STU0733,Student_0733,AIML,2,A,Female,Day Scholar
+STU0734,Student_0734,MECH,1,C,Male,Hostel
+STU0735,Student_0735,ECE,4,D,Female,Day Scholar
+STU0736,Student_0736,IT,1,C,Male,Hostel
+STU0737,Student_0737,MECH,2,A,Male,Hostel
+STU0738,Student_0738,ECE,4,D,Male,Hostel
+STU0739,Student_0739,ECE,1,D,Male,Day Scholar
+STU0740,Student_0740,AIML,3,A,Male,Day Scholar
+STU0741,Student_0741,IT,4,A,Female,Hostel
+STU0742,Student_0742,EEE,4,A,Male,Hostel
+STU0743,Student_0743,CSE,3,A,Male,Day Scholar
+STU0744,Student_0744,AIML,3,A,Male,Day Scholar
+STU0745,Student_0745,AIML,4,D,Female,Day Scholar
+STU0746,Student_0746,EEE,3,D,Female,Hostel
+STU0747,Student_0747,CSE,2,C,Female,Hostel
+STU0748,Student_0748,MECH,2,C,Female,Hostel
+STU0749,Student_0749,CIVIL,2,B,Male,Hostel
+STU0750,Student_0750,IT,4,C,Male,Hostel
+STU0751,Student_0751,CIVIL,3,C,Male,Day Scholar
+STU0752,Student_0752,MECH,3,A,Female,Hostel
+STU0753,Student_0753,AIML,1,A,Male,Day Scholar
+STU0754,Student_0754,CSE,1,C,Male,Day Scholar
+STU0755,Student_0755,AIML,3,B,Female,Hostel
+STU0756,Student_0756,ECE,3,A,Female,Day Scholar
+STU0757,Student_0757,AIML,3,C,Female,Hostel
+STU0758,Student_0758,AIML,4,C,Male,Day Scholar
+STU0759,Student_0759,MECH,3,D,Male,Hostel
+STU0760,Student_0760,MECH,1,B,Female,Hostel
+STU0761,Student_0761,MECH,4,D,Male,Day Scholar
+STU0762,Student_0762,CIVIL,3,B,Female,Hostel
+STU0763,Student_0763,ECE,1,A,Female,Day Scholar
+STU0764,Student_0764,MECH,4,B,Male,Hostel
+STU0765,Student_0765,CSE,3,C,Female,Hostel
+STU0766,Student_0766,CIVIL,3,C,Female,Hostel
+STU0767,Student_0767,EEE,3,B,Female,Day Scholar
+STU0768,Student_0768,CSE,4,B,Male,Day Scholar
+STU0769,Student_0769,IT,1,B,Female,Hostel
+STU0770,Student_0770,IT,1,D,Female,Day Scholar
+STU0771,Student_0771,CSE,2,B,Female,Hostel
+STU0772,Student_0772,MECH,3,A,Female,Day Scholar
+STU0773,Student_0773,EEE,2,D,Female,Day Scholar
+STU0774,Student_0774,EEE,2,D,Female,Hostel
+STU0775,Student_0775,CIVIL,1,B,Female,Hostel
+STU0776,Student_0776,EEE,4,A,Male,Hostel
+STU0777,Student_0777,IT,4,D,Male,Hostel
+STU0778,Student_0778,ECE,1,C,Female,Hostel
+STU0779,Student_0779,MECH,4,D,Male,Day Scholar
+STU0780,Student_0780,EEE,2,B,Male,Day Scholar
+STU0781,Student_0781,CIVIL,3,A,Female,Hostel
+STU0782,Student_0782,IT,1,B,Male,Hostel
+STU0783,Student_0783,ECE,3,C,Female,Hostel
+STU0784,Student_0784,AIML,4,C,Female,Day Scholar
+STU0785,Student_0785,AIML,3,C,Female,Hostel
+STU0786,Student_0786,ECE,4,B,Female,Hostel
+STU0787,Student_0787,IT,4,D,Female,Day Scholar
+STU0788,Student_0788,CIVIL,2,B,Male,Day Scholar
+STU0789,Student_0789,ECE,4,A,Female,Day Scholar
+STU0790,Student_0790,MECH,2,D,Male,Day Scholar
+STU0791,Student_0791,MECH,2,C,Female,Hostel
+STU0792,Student_0792,AIML,2,B,Female,Day Scholar
+STU0793,Student_0793,EEE,1,C,Female,Day Scholar
+STU0794,Student_0794,CIVIL,1,C,Male,Hostel
+STU0795,Student_0795,AIML,4,A,Female,Hostel
+STU0796,Student_0796,EEE,2,D,Female,Hostel
+STU0797,Student_0797,EEE,1,A,Female,Day Scholar
+STU0798,Student_0798,MECH,2,A,Female,Hostel
+STU0799,Student_0799,IT,3,A,Male,Day Scholar
+STU0800,Student_0800,CSE,3,C,Female,Day Scholar
+STU0801,Student_0801,IT,3,A,Male,Day Scholar
+STU0802,Student_0802,CSE,4,A,Female,Hostel
+STU0803,Student_0803,ECE,2,D,Male,Day Scholar
+STU0804,Student_0804,MECH,3,D,Male,Hostel
+STU0805,Student_0805,EEE,1,A,Female,Hostel
+STU0806,Student_0806,CIVIL,3,D,Female,Hostel
+STU0807,Student_0807,CSE,3,D,Male,Day Scholar
+STU0808,Student_0808,IT,3,A,Female,Day Scholar
+STU0809,Student_0809,EEE,4,C,Female,Day Scholar
+STU0810,Student_0810,CSE,1,A,Female,Hostel
+STU0811,Student_0811,CSE,2,D,Male,Day Scholar
+STU0812,Student_0812,CSE,1,C,Female,Day Scholar
+STU0813,Student_0813,CIVIL,2,B,Female,Day Scholar
+STU0814,Student_0814,MECH,4,C,Female,Day Scholar
+STU0815,Student_0815,CIVIL,4,D,Male,Day Scholar
+STU0816,Student_0816,AIML,4,C,Female,Hostel
+STU0817,Student_0817,EEE,4,A,Male,Hostel
+STU0818,Student_0818,MECH,2,B,Female,Hostel
+STU0819,Student_0819,MECH,3,B,Male,Hostel
+STU0820,Student_0820,MECH,2,B,Female,Day Scholar
+STU0821,Student_0821,IT,1,D,Female,Hostel
+STU0822,Student_0822,MECH,4,D,Male,Day Scholar
+STU0823,Student_0823,CIVIL,4,B,Male,Hostel
+STU0824,Student_0824,MECH,1,C,Male,Hostel
+STU0825,Student_0825,ECE,2,B,Female,Hostel
+STU0826,Student_0826,EEE,3,C,Female,Day Scholar
+STU0827,Student_0827,MECH,3,C,Female,Day Scholar
+STU0828,Student_0828,EEE,1,D,Female,Hostel
+STU0829,Student_0829,ECE,3,C,Male,Day Scholar
+STU0830,Student_0830,ECE,2,B,Female,Hostel
+STU0831,Student_0831,EEE,2,D,Female,Hostel
+STU0832,Student_0832,CSE,1,A,Female,Hostel
+STU0833,Student_0833,AIML,2,A,Female,Day Scholar
+STU0834,Student_0834,IT,4,D,Female,Hostel
+STU0835,Student_0835,CSE,1,B,Female,Hostel
+STU0836,Student_0836,CSE,2,A,Female,Hostel
+STU0837,Student_0837,CIVIL,1,A,Male,Day Scholar
+STU0838,Student_0838,IT,3,C,Female,Hostel
+STU0839,Student_0839,IT,2,C,Female,Day Scholar
+STU0840,Student_0840,CSE,4,B,Female,Hostel
+STU0841,Student_0841,MECH,2,D,Female,Day Scholar
+STU0842,Student_0842,CIVIL,1,B,Male,Hostel
+STU0843,Student_0843,CIVIL,1,D,Male,Hostel
+STU0844,Student_0844,ECE,2,A,Male,Day Scholar
+STU0845,Student_0845,IT,4,C,Male,Day Scholar
+STU0846,Student_0846,CSE,4,B,Male,Hostel
+STU0847,Student_0847,ECE,4,B,Male,Day Scholar
+STU0848,Student_0848,EEE,1,D,Female,Hostel
+STU0849,Student_0849,AIML,2,D,Male,Hostel
+STU0850,Student_0850,CIVIL,3,B,Male,Hostel
+STU0851,Student_0851,EEE,1,D,Female,Day Scholar
+STU0852,Student_0852,EEE,4,B,Male,Hostel
+STU0853,Student_0853,MECH,2,B,Female,Day Scholar
+STU0854,Student_0854,AIML,4,B,Female,Hostel
+STU0855,Student_0855,EEE,3,A,Male,Day Scholar
+STU0856,Student_0856,EEE,4,D,Female,Day Scholar
+STU0857,Student_0857,AIML,4,C,Male,Hostel
+STU0858,Student_0858,AIML,3,C,Male,Day Scholar
+STU0859,Student_0859,EEE,2,D,Female,Hostel
+STU0860,Student_0860,AIML,1,B,Female,Hostel
+STU0861,Student_0861,EEE,2,C,Male,Hostel
+STU0862,Student_0862,EEE,3,C,Female,Hostel
+STU0863,Student_0863,MECH,4,D,Female,Hostel
+STU0864,Student_0864,CSE,2,C,Male,Day Scholar
+STU0865,Student_0865,EEE,1,B,Male,Hostel
+STU0866,Student_0866,ECE,3,D,Female,Day Scholar
+STU0867,Student_0867,CIVIL,2,B,Male,Day Scholar
+STU0868,Student_0868,IT,1,C,Male,Hostel
+STU0869,Student_0869,CSE,3,C,Male,Day Scholar
+STU0870,Student_0870,CSE,1,B,Male,Hostel
+STU0871,Student_0871,CSE,3,A,Male,Day Scholar
+STU0872,Student_0872,MECH,4,C,Male,Day Scholar
+STU0873,Student_0873,EEE,2,A,Male,Day Scholar
+STU0874,Student_0874,MECH,1,C,Female,Hostel
+STU0875,Student_0875,EEE,3,A,Male,Day Scholar
+STU0876,Student_0876,MECH,1,A,Female,Hostel
+STU0877,Student_0877,MECH,1,A,Female,Day Scholar
+STU0878,Student_0878,CIVIL,2,B,Female,Day Scholar
+STU0879,Student_0879,ECE,4,A,Male,Day Scholar
+STU0880,Student_0880,MECH,1,A,Male,Day Scholar
+STU0881,Student_0881,CIVIL,3,A,Female,Hostel
+STU0882,Student_0882,AIML,3,C,Male,Hostel
+STU0883,Student_0883,ECE,4,A,Female,Day Scholar
+STU0884,Student_0884,MECH,3,C,Male,Day Scholar
+STU0885,Student_0885,IT,4,A,Male,Hostel
+STU0886,Student_0886,CSE,3,A,Female,Hostel
+STU0887,Student_0887,AIML,2,B,Female,Hostel
+STU0888,Student_0888,AIML,1,C,Female,Hostel
+STU0889,Student_0889,CIVIL,2,A,Male,Day Scholar
+STU0890,Student_0890,AIML,1,C,Female,Day Scholar
+STU0891,Student_0891,ECE,1,C,Male,Hostel
+STU0892,Student_0892,MECH,1,D,Male,Hostel
+STU0893,Student_0893,MECH,2,B,Male,Hostel
+STU0894,Student_0894,IT,1,B,Female,Hostel
+STU0895,Student_0895,CSE,2,B,Female,Hostel
+STU0896,Student_0896,CIVIL,4,D,Female,Hostel
+STU0897,Student_0897,CSE,3,D,Male,Day Scholar
+STU0898,Student_0898,AIML,3,B,Male,Day Scholar
+STU0899,Student_0899,IT,1,D,Female,Day Scholar
+STU0900,Student_0900,CSE,2,D,Male,Hostel
+STU0901,Student_0901,ECE,3,D,Male,Hostel
+STU0902,Student_0902,MECH,2,B,Female,Hostel
+STU0903,Student_0903,AIML,2,B,Female,Day Scholar
+STU0904,Student_0904,IT,1,B,Female,Hostel
+STU0905,Student_0905,CSE,3,D,Male,Hostel
+STU0906,Student_0906,CIVIL,1,B,Male,Day Scholar
+STU0907,Student_0907,ECE,1,D,Male,Hostel
+STU0908,Student_0908,ECE,3,A,Male,Day Scholar
+STU0909,Student_0909,CSE,3,D,Male,Day Scholar
+STU0910,Student_0910,MECH,4,C,Female,Hostel
+STU0911,Student_0911,CSE,4,B,Male,Day Scholar
+STU0912,Student_0912,AIML,2,B,Male,Hostel
+STU0913,Student_0913,CSE,3,C,Male,Day Scholar
+STU0914,Student_0914,ECE,4,D,Female,Hostel
+STU0915,Student_0915,IT,2,A,Female,Day Scholar
+STU0916,Student_0916,CSE,2,C,Female,Hostel
+STU0917,Student_0917,MECH,2,C,Male,Day Scholar
+STU0918,Student_0918,IT,4,D,Female,Day Scholar
+STU0919,Student_0919,CIVIL,3,B,Female,Day Scholar
+STU0920,Student_0920,EEE,1,D,Female,Hostel
+STU0921,Student_0921,CSE,2,C,Male,Hostel
+STU0922,Student_0922,MECH,4,C,Female,Day Scholar
+STU0923,Student_0923,IT,4,B,Male,Hostel
+STU0924,Student_0924,MECH,1,B,Male,Day Scholar
+STU0925,Student_0925,CIVIL,1,B,Female,Hostel
+STU0926,Student_0926,ECE,4,D,Male,Day Scholar
+STU0927,Student_0927,MECH,3,B,Female,Hostel
+STU0928,Student_0928,IT,1,C,Male,Day Scholar
+STU0929,Student_0929,MECH,4,C,Female,Day Scholar
+STU0930,Student_0930,MECH,1,A,Female,Day Scholar
+STU0931,Student_0931,MECH,3,D,Female,Day Scholar
+STU0932,Student_0932,AIML,2,A,Male,Hostel
+STU0933,Student_0933,AIML,1,C,Female,Day Scholar
+STU0934,Student_0934,ECE,3,A,Male,Hostel
+STU0935,Student_0935,CSE,4,C,Female,Hostel
+STU0936,Student_0936,MECH,1,A,Male,Day Scholar
+STU0937,Student_0937,CIVIL,1,B,Male,Hostel
+STU0938,Student_0938,CSE,4,A,Female,Hostel
+STU0939,Student_0939,CIVIL,2,B,Female,Hostel
+STU0940,Student_0940,CSE,4,B,Female,Day Scholar
+STU0941,Student_0941,ECE,1,D,Female,Hostel
+STU0942,Student_0942,MECH,4,B,Female,Hostel
+STU0943,Student_0943,MECH,3,B,Male,Day Scholar
+STU0944,Student_0944,EEE,4,A,Female,Day Scholar
+STU0945,Student_0945,CIVIL,1,C,Female,Hostel
+STU0946,Student_0946,CSE,4,D,Male,Day Scholar
+STU0947,Student_0947,CSE,2,B,Female,Hostel
+STU0948,Student_0948,AIML,4,D,Female,Hostel
+STU0949,Student_0949,EEE,2,A,Male,Hostel
+STU0950,Student_0950,IT,3,B,Female,Day Scholar
+STU0951,Student_0951,IT,2,A,Female,Hostel
+STU0952,Student_0952,AIML,4,D,Female,Day Scholar
+STU0953,Student_0953,AIML,1,A,Male,Day Scholar
+STU0954,Student_0954,AIML,2,D,Female,Hostel
+STU0955,Student_0955,CIVIL,3,A,Male,Day Scholar
+STU0956,Student_0956,CIVIL,2,D,Female,Day Scholar
+STU0957,Student_0957,ECE,2,C,Male,Day Scholar
+STU0958,Student_0958,ECE,2,A,Female,Day Scholar
+STU0959,Student_0959,AIML,3,A,Male,Day Scholar
+STU0960,Student_0960,EEE,4,C,Male,Hostel
+STU0961,Student_0961,CSE,2,C,Male,Day Scholar
+STU0962,Student_0962,CIVIL,2,A,Male,Hostel
+STU0963,Student_0963,EEE,1,C,Male,Hostel
+STU0964,Student_0964,MECH,3,B,Male,Hostel
+STU0965,Student_0965,CIVIL,2,D,Female,Hostel
+STU0966,Student_0966,CIVIL,3,D,Female,Hostel
+STU0967,Student_0967,ECE,2,D,Male,Hostel
+STU0968,Student_0968,CSE,4,B,Male,Day Scholar
+STU0969,Student_0969,CSE,4,C,Male,Day Scholar
+STU0970,Student_0970,IT,2,C,Male,Day Scholar
+STU0971,Student_0971,IT,4,A,Female,Hostel
+STU0972,Student_0972,IT,2,C,Male,Day Scholar
+STU0973,Student_0973,IT,4,A,Female,Day Scholar
+STU0974,Student_0974,MECH,1,B,Female,Day Scholar
+STU0975,Student_0975,MECH,1,D,Male,Hostel
+STU0976,Student_0976,CIVIL,1,D,Male,Day Scholar
+STU0977,Student_0977,AIML,3,D,Female,Hostel
+STU0978,Student_0978,ECE,3,C,Female,Day Scholar
+STU0979,Student_0979,ECE,1,A,Male,Hostel
+STU0980,Student_0980,IT,3,A,Male,Hostel
+STU0981,Student_0981,CIVIL,4,B,Male,Hostel
+STU0982,Student_0982,EEE,2,C,Female,Day Scholar
+STU0983,Student_0983,AIML,2,B,Female,Day Scholar
+STU0984,Student_0984,CIVIL,2,A,Male,Hostel
+STU0985,Student_0985,AIML,1,A,Female,Day Scholar
+STU0986,Student_0986,AIML,3,D,Female,Hostel
+STU0987,Student_0987,AIML,4,C,Male,Hostel
+STU0988,Student_0988,CIVIL,4,A,Male,Day Scholar
+STU0989,Student_0989,IT,1,D,Female,Day Scholar
+STU0990,Student_0990,ECE,4,C,Female,Day Scholar
+STU0991,Student_0991,ECE,4,B,Male,Hostel
+STU0992,Student_0992,IT,4,C,Male,Hostel
+STU0993,Student_0993,AIML,4,C,Male,Day Scholar
+STU0994,Student_0994,EEE,3,A,Male,Hostel
+STU0995,Student_0995,CSE,4,A,Male,Day Scholar
+STU0996,Student_0996,CIVIL,2,C,Female,Hostel
+STU0997,Student_0997,CSE,1,A,Female,Day Scholar
+STU0998,Student_0998,IT,3,A,Female,Day Scholar
+STU0999,Student_0999,EEE,4,A,Female,Hostel
+STU1000,Student_1000,CIVIL,3,D,Male,Day Scholar
+STU1001,Student_1001,IT,4,D,Male,Day Scholar
+STU1002,Student_1002,AIML,2,C,Male,Hostel
+STU1003,Student_1003,ECE,1,A,Female,Day Scholar
+STU1004,Student_1004,CSE,4,D,Female,Hostel
+STU1005,Student_1005,MECH,4,C,Female,Day Scholar
+STU1006,Student_1006,MECH,4,A,Male,Hostel
+STU1007,Student_1007,EEE,4,B,Female,Day Scholar
+STU1008,Student_1008,AIML,1,A,Male,Day Scholar
+STU1009,Student_1009,CSE,1,A,Male,Day Scholar
+STU1010,Student_1010,AIML,2,D,Male,Day Scholar
+STU1011,Student_1011,CSE,1,C,Male,Hostel
+STU1012,Student_1012,EEE,4,C,Male,Hostel
+STU1013,Student_1013,EEE,2,D,Male,Hostel
+STU1014,Student_1014,MECH,2,A,Female,Hostel
+STU1015,Student_1015,AIML,2,B,Male,Hostel
+STU1016,Student_1016,CIVIL,4,A,Male,Hostel
+STU1017,Student_1017,MECH,3,A,Female,Hostel
+STU1018,Student_1018,AIML,4,B,Male,Day Scholar
+STU1019,Student_1019,MECH,1,D,Female,Day Scholar
+STU1020,Student_1020,CIVIL,1,C,Female,Day Scholar
+STU1021,Student_1021,ECE,4,D,Female,Day Scholar
+STU1022,Student_1022,ECE,4,D,Male,Hostel
+STU1023,Student_1023,ECE,2,A,Male,Hostel
+STU1024,Student_1024,ECE,4,C,Female,Hostel
+STU1025,Student_1025,IT,2,C,Male,Day Scholar
+STU1026,Student_1026,CSE,1,D,Male,Hostel
+STU1027,Student_1027,IT,2,B,Female,Day Scholar
+STU1028,Student_1028,IT,4,D,Female,Hostel
+STU1029,Student_1029,IT,1,B,Male,Hostel
+STU1030,Student_1030,ECE,3,C,Female,Hostel
+STU1031,Student_1031,CIVIL,2,D,Female,Hostel
+STU1032,Student_1032,EEE,1,A,Female,Day Scholar
+STU1033,Student_1033,EEE,2,D,Male,Day Scholar
+STU1034,Student_1034,CSE,1,C,Male,Hostel
+STU1035,Student_1035,ECE,1,A,Male,Day Scholar
+STU1036,Student_1036,ECE,2,A,Female,Hostel
+STU1037,Student_1037,ECE,3,B,Male,Hostel
+STU1038,Student_1038,MECH,1,A,Female,Hostel
+STU1039,Student_1039,AIML,1,A,Male,Hostel
+STU1040,Student_1040,MECH,1,D,Male,Day Scholar
+STU1041,Student_1041,AIML,3,C,Female,Hostel
+STU1042,Student_1042,ECE,3,B,Male,Hostel
+STU1043,Student_1043,ECE,4,D,Female,Day Scholar
+STU1044,Student_1044,MECH,2,A,Male,Hostel
+STU1045,Student_1045,MECH,3,A,Male,Day Scholar
+STU1046,Student_1046,AIML,2,B,Female,Hostel
+STU1047,Student_1047,EEE,4,C,Female,Hostel
+STU1048,Student_1048,AIML,2,B,Female,Hostel
+STU1049,Student_1049,MECH,3,D,Male,Hostel
+STU1050,Student_1050,CIVIL,2,B,Male,Hostel
+STU1051,Student_1051,MECH,3,A,Male,Hostel
+STU1052,Student_1052,CIVIL,2,D,Female,Day Scholar
+STU1053,Student_1053,CSE,3,A,Female,Hostel
+STU1054,Student_1054,MECH,3,C,Female,Day Scholar
+STU1055,Student_1055,CSE,2,A,Male,Day Scholar
+STU1056,Student_1056,EEE,4,A,Male,Hostel
+STU1057,Student_1057,AIML,1,B,Female,Day Scholar
+STU1058,Student_1058,CIVIL,4,A,Male,Hostel
+STU1059,Student_1059,AIML,2,D,Female,Day Scholar
+STU1060,Student_1060,CSE,4,D,Male,Hostel
+STU1061,Student_1061,CIVIL,3,C,Male,Day Scholar
+STU1062,Student_1062,AIML,1,D,Female,Day Scholar
+STU1063,Student_1063,MECH,2,B,Male,Hostel
+STU1064,Student_1064,ECE,2,C,Male,Day Scholar
+STU1065,Student_1065,CSE,2,D,Female,Hostel
+STU1066,Student_1066,AIML,1,B,Female,Hostel
+STU1067,Student_1067,CSE,3,D,Male,Hostel
+STU1068,Student_1068,IT,2,D,Female,Hostel
+STU1069,Student_1069,CSE,4,A,Male,Hostel
+STU1070,Student_1070,CIVIL,2,D,Female,Day Scholar
+STU1071,Student_1071,IT,2,D,Male,Day Scholar
+STU1072,Student_1072,CIVIL,2,B,Male,Day Scholar
+STU1073,Student_1073,ECE,2,B,Female,Hostel
+STU1074,Student_1074,IT,3,A,Male,Day Scholar
+STU1075,Student_1075,MECH,4,D,Male,Day Scholar
+STU1076,Student_1076,CSE,3,A,Female,Day Scholar
+STU1077,Student_1077,AIML,4,D,Female,Day Scholar
+STU1078,Student_1078,EEE,2,C,Male,Day Scholar
+STU1079,Student_1079,CSE,1,C,Female,Hostel
+STU1080,Student_1080,CSE,3,A,Female,Hostel
+STU1081,Student_1081,ECE,1,A,Male,Day Scholar
+STU1082,Student_1082,MECH,3,A,Male,Hostel
+STU1083,Student_1083,EEE,2,B,Female,Hostel
+STU1084,Student_1084,IT,3,B,Female,Day Scholar
+STU1085,Student_1085,IT,2,B,Female,Day Scholar
+STU1086,Student_1086,IT,3,A,Male,Hostel
+STU1087,Student_1087,CIVIL,2,D,Male,Day Scholar
+STU1088,Student_1088,CIVIL,2,C,Male,Hostel
+STU1089,Student_1089,AIML,4,A,Male,Hostel
+STU1090,Student_1090,EEE,2,B,Male,Day Scholar
+STU1091,Student_1091,IT,4,B,Male,Hostel
+STU1092,Student_1092,CIVIL,2,A,Male,Hostel
+STU1093,Student_1093,AIML,1,A,Female,Hostel
+STU1094,Student_1094,MECH,2,B,Female,Day Scholar
+STU1095,Student_1095,AIML,1,D,Male,Day Scholar
+STU1096,Student_1096,CIVIL,1,B,Male,Day Scholar
+STU1097,Student_1097,ECE,2,B,Male,Day Scholar
+STU1098,Student_1098,ECE,1,A,Female,Hostel
+STU1099,Student_1099,IT,4,D,Male,Day Scholar
+STU1100,Student_1100,ECE,3,B,Female,Day Scholar
+STU1101,Student_1101,IT,2,B,Female,Day Scholar
+STU1102,Student_1102,IT,1,C,Female,Day Scholar
+STU1103,Student_1103,CIVIL,2,A,Female,Hostel
+STU1104,Student_1104,ECE,4,C,Female,Hostel
+STU1105,Student_1105,IT,2,C,Male,Hostel
+STU1106,Student_1106,EEE,2,B,Male,Day Scholar
+STU1107,Student_1107,MECH,1,A,Female,Day Scholar
+STU1108,Student_1108,AIML,4,D,Male,Hostel
+STU1109,Student_1109,AIML,3,B,Female,Day Scholar
+STU1110,Student_1110,CIVIL,3,D,Female,Day Scholar
+STU1111,Student_1111,ECE,1,D,Male,Hostel
+STU1112,Student_1112,ECE,2,A,Male,Hostel
+STU1113,Student_1113,IT,1,C,Male,Day Scholar
+STU1114,Student_1114,CSE,1,A,Male,Day Scholar
+STU1115,Student_1115,IT,1,D,Male,Day Scholar
+STU1116,Student_1116,MECH,2,B,Female,Hostel
+STU1117,Student_1117,EEE,4,D,Male,Hostel
+STU1118,Student_1118,AIML,1,B,Male,Hostel
+STU1119,Student_1119,IT,2,B,Male,Hostel
+STU1120,Student_1120,CSE,4,A,Female,Day Scholar
+STU1121,Student_1121,CSE,1,D,Male,Hostel
+STU1122,Student_1122,IT,3,C,Female,Hostel
+STU1123,Student_1123,CIVIL,4,D,Male,Day Scholar
+STU1124,Student_1124,AIML,1,D,Male,Day Scholar
+STU1125,Student_1125,CIVIL,4,C,Female,Day Scholar
+STU1126,Student_1126,EEE,4,A,Male,Hostel
+STU1127,Student_1127,CSE,4,D,Male,Day Scholar
+STU1128,Student_1128,CSE,4,D,Female,Day Scholar
+STU1129,Student_1129,MECH,4,B,Male,Hostel
+STU1130,Student_1130,EEE,4,D,Female,Hostel
+STU1131,Student_1131,CSE,1,C,Female,Day Scholar
+STU1132,Student_1132,EEE,3,B,Female,Hostel
+STU1133,Student_1133,AIML,2,A,Female,Day Scholar
+STU1134,Student_1134,ECE,4,B,Female,Day Scholar
+STU1135,Student_1135,CSE,2,C,Male,Hostel
+STU1136,Student_1136,MECH,1,C,Male,Day Scholar
+STU1137,Student_1137,AIML,4,B,Male,Hostel
+STU1138,Student_1138,IT,3,A,Female,Hostel
+STU1139,Student_1139,EEE,2,B,Female,Hostel
+STU1140,Student_1140,IT,4,A,Female,Day Scholar
+STU1141,Student_1141,CIVIL,1,B,Female,Hostel
+STU1142,Student_1142,AIML,3,C,Male,Hostel
+STU1143,Student_1143,IT,2,D,Male,Day Scholar
+STU1144,Student_1144,CSE,2,D,Female,Day Scholar
+STU1145,Student_1145,EEE,4,A,Female,Day Scholar
+STU1146,Student_1146,ECE,3,A,Male,Day Scholar
+STU1147,Student_1147,AIML,3,A,Female,Hostel
+STU1148,Student_1148,CSE,3,C,Female,Hostel
+STU1149,Student_1149,MECH,3,B,Female,Hostel
+STU1150,Student_1150,CIVIL,1,C,Male,Day Scholar
+STU1151,Student_1151,EEE,3,D,Male,Day Scholar
+STU1152,Student_1152,AIML,2,A,Female,Hostel
+STU1153,Student_1153,AIML,2,B,Male,Day Scholar
+STU1154,Student_1154,ECE,1,D,Female,Day Scholar
+STU1155,Student_1155,ECE,2,D,Female,Hostel
+STU1156,Student_1156,MECH,2,D,Male,Hostel
+STU1157,Student_1157,CIVIL,3,C,Female,Day Scholar
+STU1158,Student_1158,MECH,2,A,Female,Day Scholar
+STU1159,Student_1159,CSE,1,D,Male,Day Scholar
+STU1160,Student_1160,CSE,3,A,Female,Hostel
+STU1161,Student_1161,MECH,4,C,Female,Hostel
+STU1162,Student_1162,CIVIL,3,D,Female,Hostel
+STU1163,Student_1163,MECH,1,C,Male,Hostel
+STU1164,Student_1164,CIVIL,3,C,Female,Hostel
+STU1165,Student_1165,CIVIL,3,A,Male,Day Scholar
+STU1166,Student_1166,IT,1,D,Female,Day Scholar
+STU1167,Student_1167,EEE,3,C,Female,Day Scholar
+STU1168,Student_1168,CIVIL,1,D,Female,Hostel
+STU1169,Student_1169,ECE,1,A,Female,Hostel
+STU1170,Student_1170,CIVIL,4,C,Male,Hostel
+STU1171,Student_1171,CIVIL,2,A,Male,Day Scholar
+STU1172,Student_1172,CIVIL,2,D,Female,Hostel
+STU1173,Student_1173,IT,3,D,Female,Hostel
+STU1174,Student_1174,IT,3,A,Female,Day Scholar
+STU1175,Student_1175,CSE,4,B,Female,Hostel
+STU1176,Student_1176,IT,4,C,Female,Day Scholar
+STU1177,Student_1177,ECE,4,D,Female,Hostel
+STU1178,Student_1178,ECE,1,D,Female,Hostel
+STU1179,Student_1179,IT,4,C,Female,Day Scholar
+STU1180,Student_1180,MECH,4,A,Male,Day Scholar
+STU1181,Student_1181,EEE,3,A,Male,Day Scholar
+STU1182,Student_1182,IT,4,A,Male,Day Scholar
+STU1183,Student_1183,CIVIL,1,B,Female,Day Scholar
+STU1184,Student_1184,AIML,1,B,Female,Day Scholar
+STU1185,Student_1185,EEE,3,D,Female,Hostel
+STU1186,Student_1186,EEE,4,A,Male,Hostel
+STU1187,Student_1187,ECE,4,C,Female,Day Scholar
+STU1188,Student_1188,EEE,1,D,Male,Hostel
+STU1189,Student_1189,IT,4,C,Female,Day Scholar
+STU1190,Student_1190,CIVIL,4,D,Male,Hostel
+STU1191,Student_1191,CIVIL,4,B,Male,Day Scholar
+STU1192,Student_1192,CSE,2,D,Male,Hostel
+STU1193,Student_1193,CIVIL,3,B,Female,Hostel
+STU1194,Student_1194,CIVIL,2,D,Male,Hostel
+STU1195,Student_1195,ECE,3,A,Female,Hostel
+STU1196,Student_1196,CIVIL,1,C,Female,Hostel
+STU1197,Student_1197,CSE,4,A,Female,Day Scholar
+STU1198,Student_1198,AIML,3,D,Female,Day Scholar
+STU1199,Student_1199,IT,2,D,Female,Day Scholar
+STU1200,Student_1200,ECE,4,D,Male,Hostel
+STU1201,Student_1201,AIML,1,B,Female,Day Scholar
+STU1202,Student_1202,ECE,3,C,Female,Hostel
+STU1203,Student_1203,MECH,3,C,Female,Hostel
+STU1204,Student_1204,EEE,3,D,Female,Hostel
+STU1205,Student_1205,MECH,4,D,Female,Day Scholar
+STU1206,Student_1206,CIVIL,2,B,Male,Hostel
+STU1207,Student_1207,AIML,2,A,Male,Day Scholar
+STU1208,Student_1208,CIVIL,3,A,Female,Day Scholar
+STU1209,Student_1209,EEE,1,C,Male,Hostel
+STU1210,Student_1210,ECE,1,B,Male,Hostel
+STU1211,Student_1211,EEE,2,D,Female,Day Scholar
+STU1212,Student_1212,CSE,1,C,Male,Day Scholar
+STU1213,Student_1213,EEE,2,B,Female,Day Scholar
+STU1214,Student_1214,CSE,3,A,Male,Day Scholar
+STU1215,Student_1215,EEE,2,B,Male,Day Scholar
+STU1216,Student_1216,IT,2,A,Male,Day Scholar
+STU1217,Student_1217,CSE,3,B,Female,Hostel
+STU1218,Student_1218,AIML,1,C,Male,Day Scholar
+STU1219,Student_1219,CIVIL,2,A,Male,Day Scholar
+STU1220,Student_1220,CIVIL,2,C,Female,Day Scholar
+STU1221,Student_1221,MECH,3,C,Female,Day Scholar
+STU1222,Student_1222,CIVIL,1,A,Male,Hostel
+STU1223,Student_1223,ECE,2,A,Female,Hostel
+STU1224,Student_1224,IT,3,D,Male,Day Scholar
+STU1225,Student_1225,EEE,2,D,Male,Day Scholar
+STU1226,Student_1226,MECH,4,D,Female,Day Scholar
+STU1227,Student_1227,ECE,3,C,Female,Hostel
+STU1228,Student_1228,ECE,1,C,Female,Hostel
+STU1229,Student_1229,CSE,1,D,Male,Hostel
+STU1230,Student_1230,CIVIL,1,C,Female,Hostel
+STU1231,Student_1231,AIML,1,C,Male,Hostel
+STU1232,Student_1232,AIML,2,A,Female,Hostel
+STU1233,Student_1233,MECH,2,A,Male,Day Scholar
+STU1234,Student_1234,IT,1,C,Female,Hostel
+STU1235,Student_1235,AIML,1,D,Male,Hostel
+STU1236,Student_1236,EEE,1,B,Female,Day Scholar
+STU1237,Student_1237,AIML,2,D,Male,Hostel
+STU1238,Student_1238,MECH,1,B,Female,Day Scholar
+STU1239,Student_1239,AIML,1,D,Female,Hostel
+STU1240,Student_1240,EEE,4,A,Male,Day Scholar
+STU1241,Student_1241,CSE,4,C,Female,Day Scholar
+STU1242,Student_1242,IT,1,C,Male,Day Scholar
+STU1243,Student_1243,MECH,3,A,Male,Day Scholar
+STU1244,Student_1244,CSE,1,B,Female,Day Scholar
+STU1245,Student_1245,CSE,4,B,Male,Hostel
+STU1246,Student_1246,CSE,3,B,Female,Hostel
+STU1247,Student_1247,ECE,3,A,Female,Day Scholar
+STU1248,Student_1248,IT,1,B,Male,Day Scholar
+STU1249,Student_1249,CIVIL,4,A,Female,Day Scholar
+STU1250,Student_1250,IT,4,D,Male,Hostel
+STU1251,Student_1251,ECE,3,D,Male,Day Scholar
+STU1252,Student_1252,CIVIL,1,A,Female,Day Scholar
+STU1253,Student_1253,IT,2,C,Female,Day Scholar
+STU1254,Student_1254,CSE,2,D,Male,Day Scholar
+STU1255,Student_1255,MECH,4,B,Male,Hostel
+STU1256,Student_1256,CIVIL,2,A,Female,Day Scholar
+STU1257,Student_1257,EEE,4,B,Female,Day Scholar
+STU1258,Student_1258,EEE,4,B,Female,Hostel
+STU1259,Student_1259,AIML,4,C,Female,Day Scholar
+STU1260,Student_1260,CIVIL,2,B,Male,Day Scholar
+STU1261,Student_1261,MECH,4,C,Female,Hostel
+STU1262,Student_1262,ECE,3,D,Male,Hostel
+STU1263,Student_1263,CSE,1,A,Male,Hostel
+STU1264,Student_1264,AIML,1,B,Female,Day Scholar
+STU1265,Student_1265,EEE,4,A,Male,Day Scholar
+STU1266,Student_1266,ECE,1,B,Female,Hostel
+STU1267,Student_1267,ECE,2,A,Male,Hostel
+STU1268,Student_1268,CSE,2,B,Female,Hostel
+STU1269,Student_1269,CIVIL,1,B,Male,Day Scholar
+STU1270,Student_1270,EEE,2,B,Male,Day Scholar
+STU1271,Student_1271,MECH,1,B,Female,Hostel
+STU1272,Student_1272,ECE,1,B,Female,Day Scholar
+STU1273,Student_1273,CSE,1,B,Male,Hostel
+STU1274,Student_1274,MECH,4,B,Male,Day Scholar
+STU1275,Student_1275,CIVIL,1,B,Female,Day Scholar
+STU1276,Student_1276,EEE,4,B,Male,Day Scholar
+STU1277,Student_1277,CIVIL,1,A,Female,Day Scholar
+STU1278,Student_1278,ECE,1,C,Male,Hostel
+STU1279,Student_1279,MECH,1,B,Female,Day Scholar
+STU1280,Student_1280,MECH,2,C,Male,Day Scholar
+STU1281,Student_1281,MECH,4,B,Female,Hostel
+STU1282,Student_1282,ECE,4,B,Female,Day Scholar
+STU1283,Student_1283,ECE,1,A,Male,Hostel
+STU1284,Student_1284,CIVIL,1,D,Female,Hostel
+STU1285,Student_1285,AIML,2,D,Male,Day Scholar
+STU1286,Student_1286,CIVIL,2,A,Female,Day Scholar
+STU1287,Student_1287,EEE,2,C,Female,Hostel
+STU1288,Student_1288,CSE,4,D,Female,Hostel
+STU1289,Student_1289,MECH,4,A,Male,Hostel
+STU1290,Student_1290,AIML,4,A,Female,Day Scholar
+STU1291,Student_1291,CSE,1,D,Male,Hostel
+STU1292,Student_1292,AIML,4,C,Female,Hostel
+STU1293,Student_1293,IT,3,A,Male,Hostel
+STU1294,Student_1294,CIVIL,3,B,Male,Day Scholar
+STU1295,Student_1295,ECE,2,C,Male,Hostel
+STU1296,Student_1296,MECH,4,C,Female,Day Scholar
+STU1297,Student_1297,CIVIL,3,D,Male,Day Scholar
+STU1298,Student_1298,CSE,2,D,Female,Hostel
+STU1299,Student_1299,IT,4,B,Male,Day Scholar
+STU1300,Student_1300,IT,1,A,Male,Hostel
+STU1301,Student_1301,IT,3,D,Male,Day Scholar
+STU1302,Student_1302,CSE,1,D,Male,Day Scholar
+STU1303,Student_1303,CSE,4,C,Female,Hostel
+STU1304,Student_1304,CSE,3,D,Male,Hostel
+STU1305,Student_1305,CSE,4,D,Male,Hostel
+STU1306,Student_1306,IT,1,D,Female,Day Scholar
+STU1307,Student_1307,IT,3,D,Male,Day Scholar
+STU1308,Student_1308,AIML,1,C,Male,Hostel
+STU1309,Student_1309,CIVIL,4,B,Male,Hostel
+STU1310,Student_1310,MECH,4,B,Male,Day Scholar
+STU1311,Student_1311,ECE,1,A,Female,Day Scholar
+STU1312,Student_1312,IT,3,D,Female,Day Scholar
+STU1313,Student_1313,ECE,1,C,Male,Hostel
+STU1314,Student_1314,CIVIL,4,A,Female,Day Scholar
+STU1315,Student_1315,CIVIL,1,A,Female,Hostel
+STU1316,Student_1316,ECE,4,B,Male,Day Scholar
+STU1317,Student_1317,IT,1,C,Female,Day Scholar
+STU1318,Student_1318,ECE,3,C,Male,Hostel
+STU1319,Student_1319,AIML,3,C,Female,Hostel
+STU1320,Student_1320,EEE,1,B,Female,Hostel
+STU1321,Student_1321,IT,1,B,Female,Day Scholar
+STU1322,Student_1322,IT,3,B,Male,Day Scholar
+STU1323,Student_1323,MECH,4,B,Female,Day Scholar
+STU1324,Student_1324,CSE,3,B,Male,Hostel
+STU1325,Student_1325,EEE,4,D,Male,Day Scholar
+STU1326,Student_1326,CIVIL,1,D,Female,Hostel
+STU1327,Student_1327,IT,1,C,Male,Hostel
+STU1328,Student_1328,ECE,4,A,Female,Hostel
+STU1329,Student_1329,EEE,1,C,Male,Day Scholar
+STU1330,Student_1330,MECH,4,A,Male,Day Scholar
+STU1331,Student_1331,CIVIL,2,B,Female,Hostel
+STU1332,Student_1332,CSE,3,A,Female,Day Scholar
+STU1333,Student_1333,CSE,2,C,Female,Hostel
+STU1334,Student_1334,MECH,4,C,Female,Hostel
+STU1335,Student_1335,MECH,3,A,Male,Day Scholar
+STU1336,Student_1336,ECE,4,D,Male,Hostel
+STU1337,Student_1337,IT,3,B,Male,Hostel
+STU1338,Student_1338,CSE,3,B,Female,Day Scholar
+STU1339,Student_1339,CIVIL,3,C,Male,Hostel
+STU1340,Student_1340,EEE,3,D,Female,Hostel
+STU1341,Student_1341,CIVIL,4,A,Male,Hostel
+STU1342,Student_1342,AIML,3,B,Female,Hostel
+STU1343,Student_1343,AIML,3,D,Male,Hostel
+STU1344,Student_1344,MECH,2,B,Male,Hostel
+STU1345,Student_1345,ECE,1,D,Female,Hostel
+STU1346,Student_1346,AIML,1,D,Male,Day Scholar
+STU1347,Student_1347,CSE,2,C,Female,Day Scholar
+STU1348,Student_1348,CIVIL,2,B,Male,Hostel
+STU1349,Student_1349,CIVIL,4,A,Male,Hostel
+STU1350,Student_1350,MECH,4,C,Female,Day Scholar
+STU1351,Student_1351,IT,4,C,Female,Day Scholar
+STU1352,Student_1352,IT,2,A,Male,Day Scholar
+STU1353,Student_1353,EEE,2,C,Male,Day Scholar
+STU1354,Student_1354,MECH,3,D,Male,Day Scholar
+STU1355,Student_1355,EEE,4,D,Male,Hostel
+STU1356,Student_1356,IT,4,B,Male,Day Scholar
+STU1357,Student_1357,MECH,4,B,Male,Day Scholar
+STU1358,Student_1358,MECH,1,A,Female,Day Scholar
+STU1359,Student_1359,MECH,3,B,Female,Hostel
+STU1360,Student_1360,IT,4,D,Female,Hostel
+STU1361,Student_1361,EEE,4,A,Male,Hostel
+STU1362,Student_1362,EEE,4,A,Male,Hostel
+STU1363,Student_1363,MECH,1,B,Male,Hostel
+STU1364,Student_1364,AIML,1,D,Female,Hostel
+STU1365,Student_1365,ECE,2,A,Female,Day Scholar
+STU1366,Student_1366,IT,3,D,Male,Hostel
+STU1367,Student_1367,ECE,2,D,Male,Hostel
+STU1368,Student_1368,ECE,3,D,Female,Day Scholar
+STU1369,Student_1369,EEE,1,B,Female,Hostel
+STU1370,Student_1370,EEE,4,C,Female,Day Scholar
+STU1371,Student_1371,AIML,2,C,Male,Day Scholar
+STU1372,Student_1372,ECE,4,A,Male,Hostel
+STU1373,Student_1373,ECE,2,D,Male,Day Scholar
+STU1374,Student_1374,MECH,1,B,Female,Day Scholar
+STU1375,Student_1375,EEE,1,D,Female,Day Scholar
+STU1376,Student_1376,ECE,1,D,Male,Day Scholar
+STU1377,Student_1377,CIVIL,2,B,Male,Hostel
+STU1378,Student_1378,AIML,3,C,Female,Day Scholar
+STU1379,Student_1379,CIVIL,2,D,Male,Hostel
+STU1380,Student_1380,CIVIL,3,D,Female,Day Scholar
+STU1381,Student_1381,IT,2,C,Female,Day Scholar
+STU1382,Student_1382,IT,2,B,Male,Day Scholar
+STU1383,Student_1383,AIML,1,A,Female,Hostel
+STU1384,Student_1384,CIVIL,4,C,Male,Hostel
+STU1385,Student_1385,ECE,4,A,Female,Hostel
+STU1386,Student_1386,EEE,3,A,Female,Day Scholar
+STU1387,Student_1387,AIML,4,C,Male,Day Scholar
+STU1388,Student_1388,MECH,2,D,Female,Day Scholar
+STU1389,Student_1389,CIVIL,2,A,Male,Day Scholar
+STU1390,Student_1390,AIML,1,A,Male,Hostel
+STU1391,Student_1391,CSE,1,B,Female,Day Scholar
+STU1392,Student_1392,CSE,4,D,Male,Hostel
+STU1393,Student_1393,IT,3,A,Male,Day Scholar
+STU1394,Student_1394,EEE,4,B,Male,Hostel
+STU1395,Student_1395,ECE,4,D,Male,Hostel
+STU1396,Student_1396,EEE,4,C,Male,Day Scholar
+STU1397,Student_1397,EEE,4,C,Male,Day Scholar
+STU1398,Student_1398,EEE,2,B,Female,Hostel
+STU1399,Student_1399,EEE,3,C,Male,Day Scholar
+STU1400,Student_1400,MECH,2,A,Female,Day Scholar
+STU1401,Student_1401,MECH,3,D,Female,Hostel
+STU1402,Student_1402,IT,1,A,Male,Hostel
+STU1403,Student_1403,AIML,4,A,Female,Hostel
+STU1404,Student_1404,CSE,2,C,Female,Hostel
+STU1405,Student_1405,EEE,3,A,Male,Day Scholar
+STU1406,Student_1406,IT,1,C,Male,Hostel
+STU1407,Student_1407,AIML,1,D,Male,Hostel
+STU1408,Student_1408,CSE,4,D,Female,Hostel
+STU1409,Student_1409,CIVIL,3,A,Female,Day Scholar
+STU1410,Student_1410,ECE,2,B,Male,Hostel
+STU1411,Student_1411,MECH,4,C,Male,Day Scholar
+STU1412,Student_1412,CIVIL,2,C,Female,Hostel
+STU1413,Student_1413,CSE,1,A,Female,Hostel
+STU1414,Student_1414,CIVIL,2,C,Female,Day Scholar
+STU1415,Student_1415,ECE,2,C,Female,Hostel
+STU1416,Student_1416,IT,4,B,Male,Hostel
+STU1417,Student_1417,CSE,2,B,Female,Day Scholar
+STU1418,Student_1418,CIVIL,4,A,Female,Hostel
+STU1419,Student_1419,MECH,1,B,Female,Hostel
+STU1420,Student_1420,MECH,4,A,Female,Hostel
+STU1421,Student_1421,AIML,4,D,Male,Hostel
+STU1422,Student_1422,CIVIL,3,A,Male,Day Scholar
+STU1423,Student_1423,EEE,2,D,Female,Hostel
+STU1424,Student_1424,CIVIL,1,A,Female,Day Scholar
+STU1425,Student_1425,IT,4,C,Male,Hostel
+STU1426,Student_1426,CSE,1,B,Male,Day Scholar
+STU1427,Student_1427,CSE,3,D,Female,Hostel
+STU1428,Student_1428,IT,2,A,Female,Day Scholar
+STU1429,Student_1429,CIVIL,4,B,Male,Hostel
+STU1430,Student_1430,IT,2,A,Male,Day Scholar
+STU1431,Student_1431,ECE,3,B,Male,Day Scholar
+STU1432,Student_1432,IT,3,B,Male,Hostel
+STU1433,Student_1433,MECH,1,A,Male,Day Scholar
+STU1434,Student_1434,IT,4,D,Male,Hostel
+STU1435,Student_1435,CSE,1,D,Female,Hostel
+STU1436,Student_1436,MECH,3,C,Male,Hostel
+STU1437,Student_1437,CSE,2,B,Male,Hostel
+STU1438,Student_1438,AIML,1,C,Male,Hostel
+STU1439,Student_1439,EEE,1,C,Male,Day Scholar
+STU1440,Student_1440,CSE,2,A,Female,Hostel
+STU1441,Student_1441,MECH,1,A,Female,Hostel
+STU1442,Student_1442,AIML,2,A,Male,Hostel
+STU1443,Student_1443,CSE,4,B,Female,Hostel
+STU1444,Student_1444,ECE,2,A,Female,Hostel
+STU1445,Student_1445,IT,4,A,Female,Hostel
+STU1446,Student_1446,EEE,2,B,Female,Day Scholar
+STU1447,Student_1447,CSE,3,B,Female,Day Scholar
+STU1448,Student_1448,AIML,3,D,Female,Hostel
+STU1449,Student_1449,ECE,4,A,Male,Day Scholar
+STU1450,Student_1450,CIVIL,4,A,Male,Hostel
+STU1451,Student_1451,AIML,3,A,Male,Hostel
+STU1452,Student_1452,IT,4,D,Male,Hostel
+STU1453,Student_1453,AIML,2,A,Male,Hostel
+STU1454,Student_1454,ECE,2,D,Female,Hostel
+STU1455,Student_1455,AIML,3,C,Male,Day Scholar
+STU1456,Student_1456,ECE,1,D,Male,Day Scholar
+STU1457,Student_1457,CSE,2,C,Female,Day Scholar
+STU1458,Student_1458,ECE,4,A,Female,Day Scholar
+STU1459,Student_1459,ECE,1,C,Male,Hostel
+STU1460,Student_1460,EEE,1,D,Female,Day Scholar
+STU1461,Student_1461,ECE,2,B,Female,Hostel
+STU1462,Student_1462,ECE,2,C,Female,Day Scholar
+STU1463,Student_1463,CIVIL,1,C,Female,Day Scholar
+STU1464,Student_1464,CSE,1,A,Male,Day Scholar
+STU1465,Student_1465,IT,3,D,Female,Day Scholar
+STU1466,Student_1466,EEE,4,C,Male,Hostel
+STU1467,Student_1467,CIVIL,3,C,Male,Day Scholar
+STU1468,Student_1468,MECH,2,C,Female,Day Scholar
+STU1469,Student_1469,CSE,3,C,Female,Hostel
+STU1470,Student_1470,CSE,3,B,Female,Hostel
+STU1471,Student_1471,MECH,3,D,Male,Day Scholar
+STU1472,Student_1472,IT,3,A,Female,Hostel
+STU1473,Student_1473,ECE,4,A,Female,Hostel
+STU1474,Student_1474,CIVIL,4,B,Female,Hostel
+STU1475,Student_1475,AIML,1,D,Female,Day Scholar
+STU1476,Student_1476,EEE,2,C,Female,Hostel
+STU1477,Student_1477,AIML,3,B,Male,Day Scholar
+STU1478,Student_1478,MECH,1,D,Female,Day Scholar
+STU1479,Student_1479,CSE,1,C,Female,Day Scholar
+STU1480,Student_1480,IT,1,B,Female,Day Scholar
+STU1481,Student_1481,CSE,4,D,Male,Hostel
+STU1482,Student_1482,EEE,3,A,Female,Day Scholar
+STU1483,Student_1483,CSE,3,A,Male,Hostel
+STU1484,Student_1484,CSE,2,D,Male,Day Scholar
+STU1485,Student_1485,EEE,3,A,Female,Hostel
+STU1486,Student_1486,CIVIL,3,D,Female,Day Scholar
+STU1487,Student_1487,CIVIL,1,C,Female,Hostel
+STU1488,Student_1488,EEE,2,D,Male,Day Scholar
+STU1489,Student_1489,IT,3,C,Male,Day Scholar
+STU1490,Student_1490,MECH,4,B,Male,Hostel
+STU1491,Student_1491,CSE,3,D,Male,Day Scholar
+STU1492,Student_1492,IT,1,B,Male,Day Scholar
+STU1493,Student_1493,CSE,4,A,Male,Day Scholar
+STU1494,Student_1494,MECH,1,C,Female,Hostel
+STU1495,Student_1495,CIVIL,3,D,Female,Day Scholar
+STU1496,Student_1496,IT,4,B,Male,Day Scholar
+STU1497,Student_1497,ECE,2,C,Female,Hostel
+STU1498,Student_1498,ECE,2,C,Female,Hostel
+STU1499,Student_1499,ECE,4,A,Male,Hostel
+STU1500,Student_1500,CIVIL,4,A,Male,Hostel
+STU1501,Student_1501,CIVIL,1,C,Female,Hostel
+STU1502,Student_1502,MECH,4,C,Male,Day Scholar
+STU1503,Student_1503,CSE,1,D,Male,Day Scholar
+STU1504,Student_1504,MECH,3,C,Female,Day Scholar
+STU1505,Student_1505,MECH,1,D,Male,Hostel
+STU1506,Student_1506,CIVIL,4,C,Female,Day Scholar
+STU1507,Student_1507,ECE,4,A,Female,Hostel
+STU1508,Student_1508,AIML,3,D,Female,Hostel
+STU1509,Student_1509,CSE,4,B,Female,Day Scholar
+STU1510,Student_1510,CIVIL,4,A,Female,Hostel
+STU1511,Student_1511,ECE,2,D,Male,Hostel
+STU1512,Student_1512,IT,2,D,Male,Day Scholar
+STU1513,Student_1513,AIML,3,B,Male,Hostel
+STU1514,Student_1514,AIML,1,D,Male,Hostel
+STU1515,Student_1515,CIVIL,2,C,Female,Day Scholar
+STU1516,Student_1516,EEE,1,B,Female,Hostel
+STU1517,Student_1517,CSE,4,A,Male,Hostel
+STU1518,Student_1518,AIML,2,A,Female,Day Scholar
+STU1519,Student_1519,CIVIL,3,C,Male,Day Scholar
+STU1520,Student_1520,CIVIL,3,A,Male,Day Scholar
+STU1521,Student_1521,ECE,3,D,Male,Day Scholar
+STU1522,Student_1522,IT,2,D,Female,Hostel
+STU1523,Student_1523,EEE,1,C,Female,Hostel
+STU1524,Student_1524,CSE,4,A,Female,Day Scholar
+STU1525,Student_1525,MECH,1,A,Female,Hostel
+STU1526,Student_1526,IT,1,C,Male,Hostel
+STU1527,Student_1527,IT,4,B,Female,Day Scholar
+STU1528,Student_1528,ECE,4,A,Female,Day Scholar
+STU1529,Student_1529,AIML,2,B,Female,Hostel
+STU1530,Student_1530,AIML,2,A,Male,Day Scholar
+STU1531,Student_1531,ECE,2,A,Male,Day Scholar
+STU1532,Student_1532,CIVIL,2,A,Female,Day Scholar
+STU1533,Student_1533,AIML,2,A,Female,Hostel
+STU1534,Student_1534,EEE,4,D,Female,Day Scholar
+STU1535,Student_1535,CSE,1,B,Female,Hostel
+STU1536,Student_1536,IT,2,B,Male,Hostel
+STU1537,Student_1537,IT,2,A,Female,Hostel
+STU1538,Student_1538,EEE,1,A,Female,Day Scholar
+STU1539,Student_1539,AIML,2,B,Female,Day Scholar
+STU1540,Student_1540,IT,1,D,Male,Day Scholar
+STU1541,Student_1541,MECH,1,C,Male,Day Scholar
+STU1542,Student_1542,CSE,4,C,Female,Day Scholar
+STU1543,Student_1543,CSE,3,B,Female,Hostel
+STU1544,Student_1544,IT,4,A,Female,Hostel
+STU1545,Student_1545,ECE,3,A,Female,Hostel
+STU1546,Student_1546,IT,3,D,Female,Day Scholar
+STU1547,Student_1547,ECE,3,C,Male,Hostel
+STU1548,Student_1548,IT,2,D,Male,Hostel
+STU1549,Student_1549,MECH,4,C,Male,Day Scholar
+STU1550,Student_1550,CIVIL,3,B,Female,Day Scholar
+STU1551,Student_1551,CSE,1,C,Male,Hostel
+STU1552,Student_1552,IT,2,D,Male,Hostel
+STU1553,Student_1553,MECH,4,D,Male,Day Scholar
+STU1554,Student_1554,ECE,3,D,Female,Day Scholar
+STU1555,Student_1555,ECE,1,B,Female,Day Scholar
+STU1556,Student_1556,CSE,4,C,Male,Day Scholar
+STU1557,Student_1557,EEE,4,C,Female,Hostel
+STU1558,Student_1558,IT,2,D,Male,Hostel
+STU1559,Student_1559,AIML,4,C,Male,Day Scholar
+STU1560,Student_1560,ECE,2,A,Male,Hostel
+STU1561,Student_1561,CIVIL,3,A,Male,Hostel
+STU1562,Student_1562,CIVIL,2,A,Female,Day Scholar
+STU1563,Student_1563,ECE,1,C,Female,Hostel
+STU1564,Student_1564,EEE,2,B,Female,Hostel
+STU1565,Student_1565,EEE,1,B,Female,Hostel
+STU1566,Student_1566,MECH,2,B,Male,Day Scholar
+STU1567,Student_1567,CIVIL,4,B,Female,Day Scholar
+STU1568,Student_1568,MECH,3,A,Male,Hostel
+STU1569,Student_1569,CIVIL,1,A,Female,Day Scholar
+STU1570,Student_1570,IT,2,D,Female,Day Scholar
+STU1571,Student_1571,IT,2,C,Female,Day Scholar
+STU1572,Student_1572,AIML,2,C,Male,Hostel
+STU1573,Student_1573,IT,4,B,Male,Hostel
+STU1574,Student_1574,AIML,4,A,Male,Day Scholar
+STU1575,Student_1575,IT,1,B,Male,Hostel
+STU1576,Student_1576,CSE,1,D,Female,Hostel
+STU1577,Student_1577,IT,4,C,Male,Hostel
+STU1578,Student_1578,MECH,1,C,Male,Hostel
+STU1579,Student_1579,ECE,3,B,Female,Hostel
+STU1580,Student_1580,MECH,3,D,Female,Day Scholar
+STU1581,Student_1581,ECE,4,C,Male,Hostel
+STU1582,Student_1582,EEE,1,D,Female,Hostel
+STU1583,Student_1583,MECH,2,D,Male,Hostel
+STU1584,Student_1584,EEE,3,B,Female,Day Scholar
+STU1585,Student_1585,AIML,4,A,Male,Day Scholar
+STU1586,Student_1586,AIML,1,B,Male,Day Scholar
+STU1587,Student_1587,CSE,4,A,Male,Hostel
+STU1588,Student_1588,IT,2,D,Male,Day Scholar
+STU1589,Student_1589,MECH,3,A,Male,Day Scholar
+STU1590,Student_1590,EEE,4,D,Female,Day Scholar
+STU1591,Student_1591,ECE,4,C,Male,Day Scholar
+STU1592,Student_1592,AIML,4,C,Male,Hostel
+STU1593,Student_1593,IT,2,C,Male,Day Scholar
+STU1594,Student_1594,AIML,4,B,Male,Day Scholar
+STU1595,Student_1595,ECE,2,B,Male,Hostel
+STU1596,Student_1596,IT,2,D,Female,Hostel
+STU1597,Student_1597,IT,2,C,Female,Day Scholar
+STU1598,Student_1598,EEE,3,B,Male,Hostel
+STU1599,Student_1599,EEE,3,C,Female,Day Scholar
+STU1600,Student_1600,MECH,4,B,Male,Hostel
+STU1601,Student_1601,MECH,4,A,Female,Hostel
+STU1602,Student_1602,CIVIL,3,A,Female,Day Scholar
+STU1603,Student_1603,CIVIL,1,C,Male,Hostel
+STU1604,Student_1604,CSE,3,D,Female,Day Scholar
+STU1605,Student_1605,AIML,2,B,Female,Hostel
+STU1606,Student_1606,MECH,3,B,Male,Day Scholar
+STU1607,Student_1607,EEE,2,A,Male,Hostel
+STU1608,Student_1608,ECE,4,A,Female,Hostel
+STU1609,Student_1609,EEE,1,D,Female,Hostel
+STU1610,Student_1610,AIML,4,D,Female,Hostel
+STU1611,Student_1611,CIVIL,2,D,Male,Hostel
+STU1612,Student_1612,EEE,2,C,Female,Day Scholar
+STU1613,Student_1613,CSE,2,A,Female,Hostel
+STU1614,Student_1614,AIML,1,C,Female,Day Scholar
+STU1615,Student_1615,CIVIL,3,A,Male,Day Scholar
+STU1616,Student_1616,ECE,4,A,Male,Day Scholar
+STU1617,Student_1617,CIVIL,4,B,Male,Hostel
+STU1618,Student_1618,IT,3,A,Male,Day Scholar
+STU1619,Student_1619,CSE,4,A,Female,Hostel
+STU1620,Student_1620,AIML,1,C,Male,Day Scholar
+STU1621,Student_1621,ECE,4,A,Female,Day Scholar
+STU1622,Student_1622,CSE,2,C,Female,Day Scholar
+STU1623,Student_1623,CIVIL,3,D,Female,Day Scholar
+STU1624,Student_1624,CSE,1,A,Female,Day Scholar
+STU1625,Student_1625,AIML,3,A,Male,Hostel
+STU1626,Student_1626,MECH,1,C,Male,Day Scholar
+STU1627,Student_1627,CSE,2,D,Male,Day Scholar
+STU1628,Student_1628,IT,3,B,Male,Hostel
+STU1629,Student_1629,CSE,4,D,Male,Hostel
+STU1630,Student_1630,CIVIL,1,C,Female,Hostel
+STU1631,Student_1631,CIVIL,3,D,Male,Day Scholar
+STU1632,Student_1632,ECE,4,C,Male,Day Scholar
+STU1633,Student_1633,CIVIL,3,C,Male,Day Scholar
+STU1634,Student_1634,EEE,3,B,Male,Day Scholar
+STU1635,Student_1635,AIML,3,A,Female,Day Scholar
+STU1636,Student_1636,AIML,1,C,Female,Day Scholar
+STU1637,Student_1637,MECH,4,C,Female,Hostel
+STU1638,Student_1638,MECH,2,B,Female,Hostel
+STU1639,Student_1639,AIML,1,C,Female,Day Scholar
+STU1640,Student_1640,IT,1,A,Male,Day Scholar
+STU1641,Student_1641,MECH,1,B,Female,Day Scholar
+STU1642,Student_1642,ECE,2,A,Female,Day Scholar
+STU1643,Student_1643,CIVIL,4,A,Female,Day Scholar
+STU1644,Student_1644,AIML,4,B,Male,Hostel
+STU1645,Student_1645,MECH,4,C,Male,Hostel
+STU1646,Student_1646,AIML,3,A,Female,Day Scholar
+STU1647,Student_1647,EEE,3,A,Male,Hostel
+STU1648,Student_1648,CSE,3,A,Male,Day Scholar
+STU1649,Student_1649,CIVIL,2,A,Female,Day Scholar
+STU1650,Student_1650,AIML,3,B,Male,Day Scholar
+STU1651,Student_1651,CSE,2,B,Male,Hostel
+STU1652,Student_1652,MECH,4,D,Male,Hostel
+STU1653,Student_1653,CSE,3,D,Female,Day Scholar
+STU1654,Student_1654,CIVIL,3,A,Female,Hostel
+STU1655,Student_1655,AIML,1,C,Female,Hostel
+STU1656,Student_1656,EEE,2,A,Male,Day Scholar
+STU1657,Student_1657,IT,4,C,Female,Hostel
+STU1658,Student_1658,MECH,1,A,Male,Hostel
+STU1659,Student_1659,AIML,1,D,Male,Day Scholar
+STU1660,Student_1660,CIVIL,4,D,Male,Day Scholar
+STU1661,Student_1661,MECH,1,C,Female,Hostel
+STU1662,Student_1662,ECE,2,A,Female,Day Scholar
+STU1663,Student_1663,CSE,2,C,Female,Hostel
+STU1664,Student_1664,IT,3,D,Female,Day Scholar
+STU1665,Student_1665,CIVIL,1,A,Male,Day Scholar
+STU1666,Student_1666,ECE,3,A,Female,Day Scholar
+STU1667,Student_1667,AIML,1,C,Male,Day Scholar
+STU1668,Student_1668,EEE,2,B,Female,Hostel
+STU1669,Student_1669,MECH,2,C,Female,Day Scholar
+STU1670,Student_1670,CSE,2,D,Female,Day Scholar
+STU1671,Student_1671,MECH,1,D,Male,Day Scholar
+STU1672,Student_1672,IT,2,D,Male,Hostel
+STU1673,Student_1673,AIML,1,D,Male,Hostel
+STU1674,Student_1674,MECH,3,D,Male,Day Scholar
+STU1675,Student_1675,CSE,1,B,Male,Day Scholar
+STU1676,Student_1676,AIML,3,A,Female,Day Scholar
+STU1677,Student_1677,MECH,1,C,Male,Day Scholar
+STU1678,Student_1678,EEE,3,C,Male,Day Scholar
+STU1679,Student_1679,CIVIL,2,D,Male,Day Scholar
+STU1680,Student_1680,AIML,3,C,Male,Hostel
+STU1681,Student_1681,CIVIL,2,D,Female,Day Scholar
+STU1682,Student_1682,AIML,2,B,Male,Day Scholar
+STU1683,Student_1683,EEE,3,B,Female,Day Scholar
+STU1684,Student_1684,CIVIL,1,A,Female,Day Scholar
+STU1685,Student_1685,ECE,1,B,Female,Day Scholar
+STU1686,Student_1686,CSE,4,B,Male,Day Scholar
+STU1687,Student_1687,ECE,1,A,Female,Hostel
+STU1688,Student_1688,MECH,4,C,Male,Hostel
+STU1689,Student_1689,EEE,1,D,Male,Hostel
+STU1690,Student_1690,ECE,1,D,Male,Hostel
+STU1691,Student_1691,AIML,2,C,Male,Hostel
+STU1692,Student_1692,MECH,4,A,Male,Hostel
+STU1693,Student_1693,MECH,1,C,Female,Day Scholar
+STU1694,Student_1694,ECE,4,B,Female,Day Scholar
+STU1695,Student_1695,ECE,2,A,Male,Day Scholar
+STU1696,Student_1696,EEE,2,A,Female,Day Scholar
+STU1697,Student_1697,CSE,4,A,Male,Day Scholar
+STU1698,Student_1698,ECE,2,D,Female,Day Scholar
+STU1699,Student_1699,IT,3,C,Female,Hostel
+STU1700,Student_1700,ECE,3,A,Female,Day Scholar
+STU1701,Student_1701,CIVIL,2,A,Female,Hostel
+STU1702,Student_1702,AIML,3,A,Female,Hostel
+STU1703,Student_1703,IT,1,C,Male,Day Scholar
+STU1704,Student_1704,IT,4,D,Male,Day Scholar
+STU1705,Student_1705,CIVIL,1,B,Female,Day Scholar
+STU1706,Student_1706,CIVIL,4,D,Male,Day Scholar
+STU1707,Student_1707,MECH,2,A,Female,Day Scholar
+STU1708,Student_1708,CSE,1,D,Male,Day Scholar
+STU1709,Student_1709,AIML,2,D,Female,Day Scholar
+STU1710,Student_1710,EEE,2,B,Female,Hostel
+STU1711,Student_1711,IT,4,C,Female,Day Scholar
+STU1712,Student_1712,EEE,4,C,Male,Day Scholar
+STU1713,Student_1713,ECE,4,D,Male,Hostel
+STU1714,Student_1714,ECE,1,D,Female,Day Scholar
+STU1715,Student_1715,EEE,3,C,Female,Day Scholar
+STU1716,Student_1716,ECE,4,C,Male,Hostel
+STU1717,Student_1717,CSE,4,B,Male,Day Scholar
+STU1718,Student_1718,CIVIL,1,A,Male,Day Scholar
+STU1719,Student_1719,ECE,4,D,Male,Day Scholar
+STU1720,Student_1720,MECH,1,C,Male,Day Scholar
+STU1721,Student_1721,ECE,2,D,Female,Day Scholar
+STU1722,Student_1722,AIML,4,D,Male,Day Scholar
+STU1723,Student_1723,CSE,4,C,Female,Hostel
+STU1724,Student_1724,AIML,2,B,Female,Day Scholar
+STU1725,Student_1725,AIML,2,D,Male,Day Scholar
+STU1726,Student_1726,MECH,2,B,Male,Hostel
+STU1727,Student_1727,CSE,4,C,Female,Hostel
+STU1728,Student_1728,CSE,3,A,Male,Day Scholar
+STU1729,Student_1729,CSE,3,A,Female,Hostel
+STU1730,Student_1730,CSE,3,D,Male,Day Scholar
+STU1731,Student_1731,CSE,4,C,Male,Day Scholar
+STU1732,Student_1732,MECH,2,B,Male,Hostel
+STU1733,Student_1733,ECE,4,D,Female,Day Scholar
+STU1734,Student_1734,AIML,2,C,Male,Day Scholar
+STU1735,Student_1735,CSE,4,C,Female,Hostel
+STU1736,Student_1736,IT,4,B,Male,Hostel
+STU1737,Student_1737,ECE,2,D,Female,Hostel
+STU1738,Student_1738,ECE,3,C,Male,Hostel
+STU1739,Student_1739,AIML,2,C,Female,Day Scholar
+STU1740,Student_1740,MECH,1,C,Female,Hostel
+STU1741,Student_1741,EEE,1,B,Female,Hostel
+STU1742,Student_1742,EEE,2,D,Female,Hostel
+STU1743,Student_1743,ECE,4,D,Female,Hostel
+STU1744,Student_1744,CIVIL,1,D,Female,Hostel
+STU1745,Student_1745,CIVIL,1,D,Male,Day Scholar
+STU1746,Student_1746,AIML,4,A,Female,Hostel
+STU1747,Student_1747,EEE,4,A,Female,Day Scholar
+STU1748,Student_1748,ECE,3,D,Female,Hostel
+STU1749,Student_1749,MECH,4,B,Male,Hostel
+STU1750,Student_1750,EEE,2,A,Male,Hostel
+STU1751,Student_1751,ECE,2,C,Male,Hostel
+STU1752,Student_1752,ECE,3,A,Female,Hostel
+STU1753,Student_1753,CSE,1,C,Male,Hostel
+STU1754,Student_1754,MECH,1,D,Male,Hostel
+STU1755,Student_1755,CSE,4,A,Female,Hostel
+STU1756,Student_1756,AIML,2,B,Female,Day Scholar
+STU1757,Student_1757,CSE,1,A,Male,Hostel
+STU1758,Student_1758,IT,3,A,Female,Day Scholar
+STU1759,Student_1759,CSE,3,A,Female,Hostel
+STU1760,Student_1760,IT,2,D,Female,Day Scholar
+STU1761,Student_1761,EEE,3,B,Female,Hostel
+STU1762,Student_1762,CIVIL,3,A,Male,Hostel
+STU1763,Student_1763,ECE,2,B,Female,Hostel
+STU1764,Student_1764,IT,4,D,Male,Day Scholar
+STU1765,Student_1765,MECH,4,C,Male,Day Scholar
+STU1766,Student_1766,CSE,3,A,Male,Day Scholar
+STU1767,Student_1767,IT,4,B,Male,Day Scholar
+STU1768,Student_1768,MECH,4,B,Female,Hostel
+STU1769,Student_1769,CIVIL,3,D,Female,Hostel
+STU1770,Student_1770,CIVIL,4,A,Female,Hostel
+STU1771,Student_1771,CSE,3,C,Male,Day Scholar
+STU1772,Student_1772,AIML,1,B,Male,Hostel
+STU1773,Student_1773,CSE,2,A,Male,Day Scholar
+STU1774,Student_1774,EEE,2,C,Female,Day Scholar
+STU1775,Student_1775,IT,4,B,Male,Day Scholar
+STU1776,Student_1776,ECE,4,B,Female,Day Scholar
+STU1777,Student_1777,AIML,4,C,Female,Day Scholar
+STU1778,Student_1778,CSE,2,C,Female,Hostel
+STU1779,Student_1779,MECH,1,D,Female,Day Scholar
+STU1780,Student_1780,AIML,1,A,Male,Day Scholar
+STU1781,Student_1781,IT,2,A,Female,Hostel
+STU1782,Student_1782,AIML,1,D,Male,Day Scholar
+STU1783,Student_1783,IT,2,B,Female,Day Scholar
+STU1784,Student_1784,CSE,1,C,Male,Hostel
+STU1785,Student_1785,IT,3,C,Male,Hostel
+STU1786,Student_1786,AIML,3,C,Female,Hostel
+STU1787,Student_1787,MECH,2,B,Female,Day Scholar
+STU1788,Student_1788,CIVIL,1,C,Female,Hostel
+STU1789,Student_1789,AIML,4,C,Male,Hostel
+STU1790,Student_1790,IT,1,D,Female,Hostel
+STU1791,Student_1791,CIVIL,3,B,Female,Day Scholar
+STU1792,Student_1792,IT,3,A,Male,Hostel
+STU1793,Student_1793,MECH,1,D,Female,Day Scholar
+STU1794,Student_1794,IT,1,D,Male,Day Scholar
+STU1795,Student_1795,CSE,4,A,Female,Hostel
+STU1796,Student_1796,ECE,4,D,Male,Day Scholar
+STU1797,Student_1797,AIML,1,B,Male,Day Scholar
+STU1798,Student_1798,ECE,1,C,Female,Hostel
+STU1799,Student_1799,IT,1,B,Male,Day Scholar
+STU1800,Student_1800,MECH,1,A,Female,Hostel
+STU1801,Student_1801,AIML,2,A,Female,Day Scholar
+STU1802,Student_1802,IT,1,D,Male,Day Scholar
+STU1803,Student_1803,CIVIL,4,B,Female,Hostel
+STU1804,Student_1804,EEE,3,B,Male,Hostel
+STU1805,Student_1805,IT,2,A,Male,Day Scholar
+STU1806,Student_1806,ECE,1,B,Male,Day Scholar
+STU1807,Student_1807,AIML,3,A,Male,Hostel
+STU1808,Student_1808,ECE,2,B,Male,Day Scholar
+STU1809,Student_1809,AIML,3,B,Male,Day Scholar
+STU1810,Student_1810,IT,1,B,Male,Day Scholar
+STU1811,Student_1811,CSE,1,A,Male,Day Scholar
+STU1812,Student_1812,CIVIL,4,D,Female,Hostel
+STU1813,Student_1813,IT,1,B,Female,Hostel
+STU1814,Student_1814,ECE,1,A,Male,Hostel
+STU1815,Student_1815,EEE,2,A,Female,Hostel
+STU1816,Student_1816,EEE,4,B,Female,Hostel
+STU1817,Student_1817,MECH,2,B,Female,Hostel
+STU1818,Student_1818,AIML,3,D,Female,Day Scholar
+STU1819,Student_1819,ECE,1,A,Female,Hostel
+STU1820,Student_1820,MECH,3,A,Female,Day Scholar
+STU1821,Student_1821,ECE,2,C,Male,Day Scholar
+STU1822,Student_1822,AIML,1,A,Female,Day Scholar
+STU1823,Student_1823,IT,1,D,Female,Hostel
+STU1824,Student_1824,IT,2,C,Female,Day Scholar
+STU1825,Student_1825,EEE,2,C,Female,Hostel
+STU1826,Student_1826,IT,2,C,Male,Day Scholar
+STU1827,Student_1827,IT,2,B,Male,Day Scholar
+STU1828,Student_1828,CSE,2,B,Male,Hostel
+STU1829,Student_1829,EEE,1,A,Male,Day Scholar
+STU1830,Student_1830,MECH,2,C,Female,Day Scholar
+STU1831,Student_1831,CIVIL,1,D,Male,Day Scholar
+STU1832,Student_1832,CSE,1,B,Male,Day Scholar
+STU1833,Student_1833,MECH,2,D,Male,Hostel
+STU1834,Student_1834,AIML,2,D,Male,Day Scholar
+STU1835,Student_1835,CSE,4,B,Female,Day Scholar
+STU1836,Student_1836,MECH,1,B,Male,Hostel
+STU1837,Student_1837,AIML,2,B,Female,Day Scholar
+STU1838,Student_1838,EEE,2,B,Male,Day Scholar
+STU1839,Student_1839,CIVIL,2,C,Female,Day Scholar
+STU1840,Student_1840,AIML,4,C,Female,Day Scholar
+STU1841,Student_1841,IT,4,C,Male,Hostel
+STU1842,Student_1842,ECE,3,C,Male,Day Scholar
+STU1843,Student_1843,AIML,1,A,Male,Hostel
+STU1844,Student_1844,AIML,3,C,Male,Day Scholar
+STU1845,Student_1845,CIVIL,2,B,Female,Day Scholar
+STU1846,Student_1846,ECE,4,D,Female,Day Scholar
+STU1847,Student_1847,IT,4,C,Male,Hostel
+STU1848,Student_1848,MECH,3,A,Male,Day Scholar
+STU1849,Student_1849,MECH,4,B,Female,Day Scholar
+STU1850,Student_1850,AIML,2,D,Male,Hostel
+STU1851,Student_1851,ECE,4,D,Female,Hostel
+STU1852,Student_1852,ECE,3,C,Male,Hostel
+STU1853,Student_1853,IT,2,D,Female,Hostel
+STU1854,Student_1854,CIVIL,3,C,Female,Day Scholar
+STU1855,Student_1855,EEE,4,C,Female,Day Scholar
+STU1856,Student_1856,MECH,3,B,Female,Day Scholar
+STU1857,Student_1857,CIVIL,3,B,Female,Day Scholar
+STU1858,Student_1858,CSE,1,A,Male,Hostel
+STU1859,Student_1859,MECH,4,B,Female,Day Scholar
+STU1860,Student_1860,CIVIL,4,B,Male,Day Scholar
+STU1861,Student_1861,MECH,3,C,Female,Day Scholar
+STU1862,Student_1862,EEE,1,B,Female,Day Scholar
+STU1863,Student_1863,CSE,4,C,Male,Hostel
+STU1864,Student_1864,EEE,2,C,Male,Day Scholar
+STU1865,Student_1865,IT,3,B,Male,Day Scholar
+STU1866,Student_1866,CSE,4,A,Male,Day Scholar
+STU1867,Student_1867,AIML,2,A,Female,Hostel
+STU1868,Student_1868,CIVIL,4,D,Male,Hostel
+STU1869,Student_1869,CSE,2,D,Female,Day Scholar
+STU1870,Student_1870,IT,3,B,Male,Day Scholar
+STU1871,Student_1871,IT,4,A,Male,Day Scholar
+STU1872,Student_1872,EEE,4,C,Female,Hostel
+STU1873,Student_1873,MECH,1,D,Female,Day Scholar
+STU1874,Student_1874,CSE,3,C,Male,Day Scholar
+STU1875,Student_1875,CIVIL,2,D,Female,Day Scholar
+STU1876,Student_1876,CSE,4,B,Female,Hostel
+STU1877,Student_1877,ECE,4,A,Female,Day Scholar
+STU1878,Student_1878,MECH,2,D,Female,Day Scholar
+STU1879,Student_1879,CIVIL,3,A,Female,Hostel
+STU1880,Student_1880,CIVIL,1,C,Female,Hostel
+STU1881,Student_1881,AIML,1,B,Female,Day Scholar
+STU1882,Student_1882,EEE,4,A,Female,Hostel
+STU1883,Student_1883,AIML,2,B,Male,Day Scholar
+STU1884,Student_1884,CIVIL,4,A,Female,Hostel
+STU1885,Student_1885,MECH,2,C,Male,Hostel
+STU1886,Student_1886,CSE,1,C,Female,Day Scholar
+STU1887,Student_1887,CSE,3,B,Female,Day Scholar
+STU1888,Student_1888,MECH,2,C,Female,Day Scholar
+STU1889,Student_1889,CIVIL,1,D,Female,Hostel
+STU1890,Student_1890,IT,4,A,Male,Day Scholar
+STU1891,Student_1891,CSE,2,C,Male,Day Scholar
+STU1892,Student_1892,IT,3,D,Female,Day Scholar
+STU1893,Student_1893,CSE,4,B,Male,Day Scholar
+STU1894,Student_1894,CSE,4,D,Female,Day Scholar
+STU1895,Student_1895,EEE,1,B,Female,Hostel
+STU1896,Student_1896,EEE,2,B,Male,Day Scholar
+STU1897,Student_1897,ECE,4,A,Male,Day Scholar
+STU1898,Student_1898,AIML,3,A,Female,Hostel
+STU1899,Student_1899,MECH,2,D,Female,Day Scholar
+STU1900,Student_1900,MECH,3,A,Male,Day Scholar
+STU1901,Student_1901,MECH,4,A,Female,Day Scholar
+STU1902,Student_1902,ECE,3,A,Male,Day Scholar
+STU1903,Student_1903,EEE,1,D,Female,Day Scholar
+STU1904,Student_1904,CIVIL,3,C,Female,Hostel
+STU1905,Student_1905,IT,2,A,Male,Hostel
+STU1906,Student_1906,IT,3,A,Male,Hostel
+STU1907,Student_1907,CIVIL,3,D,Male,Day Scholar
+STU1908,Student_1908,ECE,1,C,Female,Hostel
+STU1909,Student_1909,CIVIL,3,A,Female,Day Scholar
+STU1910,Student_1910,MECH,3,B,Female,Day Scholar
+STU1911,Student_1911,AIML,4,D,Female,Day Scholar
+STU1912,Student_1912,CSE,4,A,Male,Hostel
+STU1913,Student_1913,IT,2,A,Female,Hostel
+STU1914,Student_1914,EEE,4,B,Female,Hostel
+STU1915,Student_1915,EEE,4,B,Female,Day Scholar
+STU1916,Student_1916,ECE,4,D,Male,Hostel
+STU1917,Student_1917,EEE,4,D,Female,Day Scholar
+STU1918,Student_1918,MECH,1,B,Female,Hostel
+STU1919,Student_1919,IT,4,D,Male,Hostel
+STU1920,Student_1920,CIVIL,1,B,Female,Day Scholar
+STU1921,Student_1921,MECH,1,A,Female,Day Scholar
+STU1922,Student_1922,ECE,4,B,Male,Hostel
+STU1923,Student_1923,MECH,3,B,Female,Hostel
+STU1924,Student_1924,CIVIL,1,C,Female,Hostel
+STU1925,Student_1925,AIML,3,B,Female,Day Scholar
+STU1926,Student_1926,ECE,3,B,Male,Day Scholar
+STU1927,Student_1927,AIML,4,C,Female,Hostel
+STU1928,Student_1928,CSE,2,D,Female,Hostel
+STU1929,Student_1929,AIML,4,C,Male,Day Scholar
+STU1930,Student_1930,CSE,2,A,Male,Hostel
+STU1931,Student_1931,CSE,2,C,Female,Day Scholar
+STU1932,Student_1932,AIML,4,A,Female,Day Scholar
+STU1933,Student_1933,ECE,4,D,Female,Day Scholar
+STU1934,Student_1934,CIVIL,2,C,Female,Day Scholar
+STU1935,Student_1935,MECH,4,C,Male,Day Scholar
+STU1936,Student_1936,MECH,2,D,Female,Day Scholar
+STU1937,Student_1937,CIVIL,3,A,Male,Hostel
+STU1938,Student_1938,IT,4,C,Male,Day Scholar
+STU1939,Student_1939,IT,3,A,Female,Day Scholar
+STU1940,Student_1940,CSE,1,C,Female,Hostel
+STU1941,Student_1941,CSE,3,B,Male,Day Scholar
+STU1942,Student_1942,ECE,3,C,Male,Hostel
+STU1943,Student_1943,EEE,2,D,Female,Day Scholar
+STU1944,Student_1944,AIML,3,D,Male,Hostel
+STU1945,Student_1945,CSE,4,A,Female,Hostel
+STU1946,Student_1946,MECH,2,C,Female,Day Scholar
+STU1947,Student_1947,ECE,1,A,Male,Day Scholar
+STU1948,Student_1948,AIML,4,A,Male,Day Scholar
+STU1949,Student_1949,ECE,1,B,Female,Day Scholar
+STU1950,Student_1950,AIML,3,B,Male,Hostel
+STU1951,Student_1951,AIML,4,D,Female,Hostel
+STU1952,Student_1952,CIVIL,4,A,Female,Hostel
+STU1953,Student_1953,CSE,1,D,Female,Day Scholar
+STU1954,Student_1954,ECE,4,C,Male,Hostel
+STU1955,Student_1955,ECE,4,A,Female,Day Scholar
+STU1956,Student_1956,CIVIL,4,A,Female,Day Scholar
+STU1957,Student_1957,MECH,3,C,Female,Hostel
+STU1958,Student_1958,MECH,1,C,Female,Day Scholar
+STU1959,Student_1959,IT,4,D,Female,Hostel
+STU1960,Student_1960,CSE,2,D,Female,Day Scholar
+STU1961,Student_1961,CSE,2,C,Female,Hostel
+STU1962,Student_1962,EEE,2,D,Female,Day Scholar
+STU1963,Student_1963,CIVIL,2,C,Female,Hostel
+STU1964,Student_1964,MECH,3,A,Female,Hostel
+STU1965,Student_1965,AIML,4,A,Female,Day Scholar
+STU1966,Student_1966,ECE,1,B,Male,Day Scholar
+STU1967,Student_1967,CSE,4,A,Female,Hostel
+STU1968,Student_1968,ECE,3,C,Female,Day Scholar
+STU1969,Student_1969,ECE,2,D,Female,Day Scholar
+STU1970,Student_1970,EEE,3,B,Male,Day Scholar
+STU1971,Student_1971,MECH,4,D,Female,Hostel
+STU1972,Student_1972,CSE,1,C,Male,Hostel
+STU1973,Student_1973,ECE,3,A,Female,Day Scholar
+STU1974,Student_1974,CSE,1,B,Female,Day Scholar
+STU1975,Student_1975,AIML,3,C,Male,Hostel
+STU1976,Student_1976,EEE,1,B,Female,Day Scholar
+STU1977,Student_1977,AIML,1,B,Male,Hostel
+STU1978,Student_1978,CSE,2,A,Male,Day Scholar
+STU1979,Student_1979,IT,1,C,Female,Day Scholar
+STU1980,Student_1980,CSE,2,D,Female,Day Scholar
+STU1981,Student_1981,MECH,4,B,Female,Hostel
+STU1982,Student_1982,ECE,4,B,Female,Hostel
+STU1983,Student_1983,ECE,2,D,Male,Hostel
+STU1984,Student_1984,AIML,2,C,Male,Hostel
+STU1985,Student_1985,EEE,3,B,Female,Day Scholar
+STU1986,Student_1986,IT,3,B,Male,Day Scholar
+STU1987,Student_1987,CIVIL,3,B,Male,Hostel
+STU1988,Student_1988,ECE,4,C,Female,Day Scholar
+STU1989,Student_1989,MECH,3,C,Male,Day Scholar
+STU1990,Student_1990,AIML,1,D,Male,Hostel
+STU1991,Student_1991,AIML,1,C,Female,Day Scholar
+STU1992,Student_1992,CIVIL,3,C,Male,Day Scholar
+STU1993,Student_1993,MECH,1,A,Female,Hostel
+STU1994,Student_1994,EEE,4,D,Male,Day Scholar
+STU1995,Student_1995,MECH,1,B,Female,Day Scholar
+STU1996,Student_1996,EEE,4,C,Male,Day Scholar
+STU1997,Student_1997,MECH,2,B,Male,Hostel
+STU1998,Student_1998,MECH,2,B,Female,Hostel
+STU1999,Student_1999,CSE,2,A,Female,Day Scholar
+STU2000,Student_2000,AIML,2,C,Female,Day Scholar
